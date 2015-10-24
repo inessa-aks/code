@@ -1,0 +1,13 @@
+public void OnFacebookUpdateClick()
+	{
+		SoomlaOperation.targetProvider = Provider.FACEBOOK;
+		SoomlaProfile.UpdateStory(SoomlaOperation.targetProvider,
+				                          "The story of SOOMBOT (Profile Test App)",
+				                          "The story of SOOMBOT (Profile Test App)",
+				                          "SOOMBOT Story",
+				                          "DESCRIPTION",
+				                          "http://about.soom.la/soombots",
+				                          "http://about.soom.la/wp-content/uploads/2014/05/330x268-spockbot.png",
+				                          null,
+		                          		new BadgeReward("target_reward", "Reward"));
+	}
