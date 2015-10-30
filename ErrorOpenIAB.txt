@@ -1,0 +1,4 @@
+NullReferenceException: Object reference not set to an instance of an object
+OnePF.OpenIAB_Android.init (OnePF.Options options) (at Assets/Plugins/OpenIAB/Android/OpenIAB_Android.cs:140)
+OnePF.OpenIAB.init (OnePF.Options options) (at Assets/Plugins/OpenIAB/OpenIAB.cs:70)
+InAppPurchaseOpenIAB.OnGUI () (at Assets/Scripts/InAppPurchaseOpenIAB.cs:63)
