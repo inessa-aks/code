@@ -6,9 +6,9 @@
 01-21 22:01:40.655: D/jdwp(19731): processIncoming
 01-21 22:01:40.655: D/jdwp(19731): handlePacket : cmd=0x1, cmdSet=0xC7, len=0x14, id=0x400000CC, flags=0x0, dataLen=0x9
 01-21 22:01:40.672: D/jdwp(19731): sendBufferedRequest : len=0x5D
-01-21 22:01:40.677: D/dalvikvm(19731): open_cached_dex_file : /mnt/asec/com.PowerGameEnergetic.CityCarRun-1/pkg.apk /data/dalvik-cache/mnt@asec@com.PowerGameEnergetic.CityCarRun-1@pkg.apk@classes.dex
-01-21 22:01:40.686: D/dalvikvm(19731): Trying to load lib /mnt/asec/com.PowerGameEnergetic.CityCarRun-1/lib/libmain.so 0x422d89a0
-01-21 22:01:40.687: D/dalvikvm(19731): Added shared lib /mnt/asec/com.PowerGameEnergetic.CityCarRun-1/lib/libmain.so 0x422d89a0
+01-21 22:01:40.677: D/dalvikvm(19731): open_cached_dex_file : /mnt/asec/com.pge.ccr-1/pkg.apk /data/dalvik-cache/mnt@asec@com.pge.ccr-1@pkg.apk@classes.dex
+01-21 22:01:40.686: D/dalvikvm(19731): Trying to load lib /mnt/asec/com.pge.ccr-1/lib/libmain.so 0x422d89a0
+01-21 22:01:40.687: D/dalvikvm(19731): Added shared lib /mnt/asec/com.pge.ccr-1/lib/libmain.so 0x422d89a0
 01-21 22:01:40.693: I/BufferQueue(19731): [unnamed-19731-0](this:0x5cb11030,api:0) BufferQueue
 01-21 22:01:40.693: I/BufferQueue(19731): [unnamed-19731-0](this:0x5cb11030,api:0) consumerConnect
 01-21 22:01:40.693: I/BufferQueue(19731): [unnamed-19731-0](this:0x5cb11030,api:0) setConsumerName: unnamed-19731-0
