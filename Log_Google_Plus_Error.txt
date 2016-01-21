@@ -1,0 +1,437 @@
+01-21 22:01:40.650: D/jdwp(19731): handlePacket : cmd=0x1, cmdSet=0xC7, len=0x17, id=0x400000C9, flags=0x0, dataLen=0xC
+01-21 22:01:40.650: D/jdwp(19731): processIncoming
+01-21 22:01:40.650: D/jdwp(19731): handlePacket : cmd=0x1, cmdSet=0xC7, len=0x13, id=0x400000CA, flags=0x0, dataLen=0x8
+01-21 22:01:40.651: D/jdwp(19731): processIncoming
+01-21 22:01:40.651: D/jdwp(19731): handlePacket : cmd=0x1, cmdSet=0xC7, len=0x13, id=0x400000CB, flags=0x0, dataLen=0x8
+01-21 22:01:40.655: D/jdwp(19731): processIncoming
+01-21 22:01:40.655: D/jdwp(19731): handlePacket : cmd=0x1, cmdSet=0xC7, len=0x14, id=0x400000CC, flags=0x0, dataLen=0x9
+01-21 22:01:40.672: D/jdwp(19731): sendBufferedRequest : len=0x5D
+01-21 22:01:40.677: D/dalvikvm(19731): open_cached_dex_file : /mnt/asec/com.PowerGameEnergetic.CityCarRun-1/pkg.apk /data/dalvik-cache/mnt@asec@com.PowerGameEnergetic.CityCarRun-1@pkg.apk@classes.dex
+01-21 22:01:40.686: D/dalvikvm(19731): Trying to load lib /mnt/asec/com.PowerGameEnergetic.CityCarRun-1/lib/libmain.so 0x422d89a0
+01-21 22:01:40.687: D/dalvikvm(19731): Added shared lib /mnt/asec/com.PowerGameEnergetic.CityCarRun-1/lib/libmain.so 0x422d89a0
+01-21 22:01:40.693: I/BufferQueue(19731): [unnamed-19731-0](this:0x5cb11030,api:0) BufferQueue
+01-21 22:01:40.693: I/BufferQueue(19731): [unnamed-19731-0](this:0x5cb11030,api:0) consumerConnect
+01-21 22:01:40.693: I/BufferQueue(19731): [unnamed-19731-0](this:0x5cb11030,api:0) setConsumerName: unnamed-19731-0
+01-21 22:01:40.693: I/SurfaceTexture(19731): [unnamed-19731-0](this:0x5cb546a8,api:0) SurfaceTexture
+01-21 22:01:40.704: V/Provider/Settings(19731): invalidate [global]: current 1 != cached 0
+01-21 22:01:40.708: V/Provider/Settings(19731): from db cache, name = send_action_app_error , value = 1
+01-21 22:01:40.720: D/dalvikvm(19731): create interp thread : stack size=32KB
+01-21 22:01:40.720: D/dalvikvm(19731): create new thread
+01-21 22:01:40.720: D/dalvikvm(19731): new thread created
+01-21 22:01:40.720: D/dalvikvm(19731): update thread list
+01-21 22:01:40.720: D/dalvikvm(19731): threadid=11: interp stack at 0x5eb86000
+01-21 22:01:40.720: D/dalvikvm(19731): threadid=11: created from interp
+01-21 22:01:40.720: D/dalvikvm(19731): start new thread
+01-21 22:01:40.720: D/dalvikvm(19731): threadid=11: notify debugger
+01-21 22:01:40.720: D/dalvikvm(19731): threadid=11 (Thread-1380): calling run()
+01-21 22:01:40.735: V/InputMethodManager(19731): Not IME target window, ignoring
+01-21 22:01:40.751: I/SurfaceView(19731): Changes: creating=true format=true size=true visible=true left=true top=true mUpdateWindowNeeded=false mReportDrawNeeded=false redrawNeeded=false forceSizeChanged=true mVisible=false mRequestedVisible=true
+01-21 22:01:40.753: I/SurfaceView(19731): Cur surface: Surface(name=null, identity=-1)
+01-21 22:01:40.755: V/SurfaceView(19731): android.view.SurfaceView{422f4358 VFE..... .F....ID 0,0-720,1280} got resized: w=720 h=1280, cur w=-1 h=-1
+01-21 22:01:40.756: I/SurfaceView(19731): New surface: Surface(name=null, identity=322), vis=true, frame=Rect(0, 0 - 720, 1280)
+01-21 22:01:40.756: I/SurfaceView(19731): visibleChanged -- surfaceCreated
+01-21 22:01:40.756: I/SurfaceView(19731): surfaceChanged -- format=2 w=720 h=1280
+01-21 22:01:40.757: I/SurfaceView(19731): surfaceRedrawNeeded
+01-21 22:01:40.757: I/SurfaceView(19731): finishedDrawing
+01-21 22:01:40.762: V/SurfaceView(19731): Layout: x=0 y=0 w=720 h=1280, frame=Rect(0, 0 - 720, 1280)
+01-21 22:01:40.765: I/SurfaceView(19731): Changes: creating=false format=false size=false visible=false left=false top=false mUpdateWindowNeeded=true mReportDrawNeeded=true redrawNeeded=false forceSizeChanged=false mVisible=true mRequestedVisible=true
+01-21 22:01:40.765: I/SurfaceView(19731): Cur surface: Surface(name=null, identity=322)
+01-21 22:01:40.767: I/SurfaceView(19731): New surface: Surface(name=null, identity=322), vis=true, frame=Rect(0, 0 - 720, 1280)
+01-21 22:01:40.767: I/SurfaceView(19731): surfaceRedrawNeeded
+01-21 22:01:40.767: I/SurfaceView(19731): finishedDrawing
+01-21 22:01:40.767: V/SurfaceView(19731): Layout: x=0 y=0 w=720 h=1280, frame=Rect(0, 0 - 720, 1280)
+01-21 22:01:40.798: V/InputMethodManager(19731): onWindowFocus: android.view.SurfaceView{422f4358 VFE..... .F....I. 0,0-720,1280} softInputMode=288 first=true flags=#810500
+01-21 22:01:40.799: V/InputMethodManager(19731): START INPUT: android.view.SurfaceView{422f4358 VFE..... .F....I. 0,0-720,1280} ic=null tba=android.view.inputmethod.EditorInfo@42306ca8 controlFlags=#105
+01-21 22:01:40.801: V/InputMethodManager(19731): Starting input: Bind result=InputBindResult{null com.android.inputmethod.latin/.LatinIME #192}
+01-21 22:01:40.814: D/dalvikvm(19731): create interp thread : stack size=32KB
+01-21 22:01:40.814: D/dalvikvm(19731): create new thread
+01-21 22:01:40.814: D/dalvikvm(19731): new thread created
+01-21 22:01:40.814: D/dalvikvm(19731): update thread list
+01-21 22:01:40.814: D/dalvikvm(19731): threadid=12: interp stack at 0x5f2e9000
+01-21 22:01:40.814: D/dalvikvm(19731): threadid=12: created from interp
+01-21 22:01:40.814: D/dalvikvm(19731): start new thread
+01-21 22:01:40.815: D/dalvikvm(19731): threadid=12: notify debugger
+01-21 22:01:40.815: D/dalvikvm(19731): threadid=12 (SharedPreferencesImpl-load): calling run()
+01-21 22:01:40.817: D/dalvikvm(19731): threadid=12: exiting
+01-21 22:01:40.817: D/dalvikvm(19731): threadid=12: bye!
+01-21 22:01:40.955: D/libEGL(19731): loaded /vendor/lib/egl/libEGL_mtk.so
+01-21 22:01:40.958: D/libEGL(19731): loaded /vendor/lib/egl/libGLESv1_CM_mtk.so
+01-21 22:01:40.963: D/libEGL(19731): loaded /vendor/lib/egl/libGLESv2_mtk.so
+01-21 22:01:41.007: D/Unity(19731): GL_EXT_debug_marker GL_OES_rgb8_rgba8 GL_OES_depth24 GL_OES_vertex_half_float GL_OES_texture_float GL_OES_texture_half_float GL_OES_element_index_uint GL_OES_mapbuffer GL_OES_fragment_precision_high GL_OES_compressed_ETC1_RGB8_texture GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_required_internalformat GL_OES_depth_texture GL_OES_get_program_binary GL_OES_packed_depth_stencil GL_OES_standard_derivatives GL_OES_vertex_array_object GL_OES_egl_sync GL_OES_texture_npot GL_EXT_multi_draw_arrays GL_EXT_texture_format_BGRA8888 GL_EXT_discard_framebuffer GL_EXT_shader_texture_lod GL_IMG_shader_binary GL_IMG_texture_compression_pvrtc GL_IMG_texture_compression_pvrtc2 GL_IMG_texture_npot GL_IMG_texture_format_BGRA8888 GL_IMG_read_format GL_IMG_program_binary GL_IMG_uniform_buffer_object GL_IMG_multisampled_render_to_texture
+01-21 22:01:41.113: D/dalvikvm(19731): create interp thread : stack size=32KB
+01-21 22:01:41.113: D/dalvikvm(19731): create new thread
+01-21 22:01:41.113: D/dalvikvm(19731): new thread created
+01-21 22:01:41.113: D/dalvikvm(19731): update thread list
+01-21 22:01:41.113: D/dalvikvm(19731): threadid=12: interp stack at 0x611df000
+01-21 22:01:41.113: D/dalvikvm(19731): threadid=12: created from interp
+01-21 22:01:41.114: D/dalvikvm(19731): start new thread
+01-21 22:01:41.114: D/dalvikvm(19731): threadid=12: notify debugger
+01-21 22:01:41.114: D/dalvikvm(19731): threadid=12 (pool-1-thread-1): calling run()
+01-21 22:01:41.122: D/dalvikvm(19731): create interp thread : stack size=32KB
+01-21 22:01:41.122: D/dalvikvm(19731): create new thread
+01-21 22:01:41.122: D/dalvikvm(19731): new thread created
+01-21 22:01:41.122: D/dalvikvm(19731): update thread list
+01-21 22:01:41.122: D/dalvikvm(19731): threadid=13: interp stack at 0x61309000
+01-21 22:01:41.122: D/dalvikvm(19731): threadid=13: created from interp
+01-21 22:01:41.122: D/dalvikvm(19731): start new thread
+01-21 22:01:41.124: W/libc(19731): pthread_create sched_setscheduler call failed: Operation not permitted
+01-21 22:01:41.124: D/dalvikvm(19731): threadid=13: notify debugger
+01-21 22:01:41.124: D/dalvikvm(19731): threadid=13 (FMODAudioDevice): calling run()
+01-21 22:01:41.128: D/AudioTrack(19731): audiotrack 0x614aefd0 set Type 3, rate 24000, fmt 1, chn 3, fcnt 2452, flag 0
+01-21 22:01:41.130: D/dalvikvm(19731): threadid=14: interp stack at 0x619b6000
+01-21 22:01:41.130: D/AudioTrack(19731): pid [19731] sched_setscheduler to default: 1
+01-21 22:01:41.134: D/AudioTrack(19731): start 0x614aefd0
+01-21 22:01:41.850: D/Unity(19731): #version 100
+01-21 22:01:41.850: D/Unity(19731): #extension GL_EXT_shader_texture_lod : enable
+01-21 22:01:41.850: D/Unity(19731): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+01-21 22:01:41.850: D/Unity(19731): {
+01-21 22:01:41.850: D/Unity(19731): #if defined(GL_EXT_shader_texture_lod)
+01-21 22:01:41.850: D/Unity(19731): 	return textureCubeLodEXT(sampler, coord, lod);
+01-21 22:01:41.850: D/Unity(19731): #else
+01-21 22:01:41.850: D/Unity(19731): 	return textureCube(sampler, coord, lod);
+01-21 22:01:41.850: D/Unity(19731): #endif
+01-21 22:01:41.850: D/Unity(19731): }
+01-21 22:01:41.850: D/Unity(19731): uniform mediump vec4 _TexA_HDR;
+01-21 22:01:41.850: D/Unity(19731): uniform mediump vec4 _TexB_HDR;
+01-21 22:01:41.850: D/Unity(19731): uniform lowp samplerCube _TexA;
+01-21 22:01:41.850: D/Unity(19731): uniform lowp samplerCube _TexB;
+01-21 22:01:41.850: D/Unity(19731): uniform highp float _Level;
+01-21 22:01:41.850: D/Unity(19731): uniform highp float _value;
+01-21 22:01:41.850: D/Unity(19731): varying highp vec3 xlv_TEXCOORD0;
+01-21 22:01:41.850: D/Unity(19731): void main ()
+01-21 22:01:41.850: D/Unity(19731): {
+01-21 22:01:41.850: D/Unity(19731):   mediump vec3 res_1;
+01-21 22:01:41.850: D/Unity(19731):   mediump vec4 tmpvar_2;
+01-21 22:01:41.850: D/Unity(19731):   lowp vec4 tmpvar_3;
+01-21 22:01:41.850: D/Unity(19731):   tmpvar_3 = impl_low_textureCubeLodEXT (_TexA, xlv_TEXCOORD0, _Level);
+01-21 22:01:41.850: D/Unity(19731):   tmpvar_2 = tmpvar_3;
+01-21 22:01:41.850: D/Unity(19731):   mediump vec3 tmpvar_4;
+01-21 22:01:41.850: D/Unity(19731):   tmpvar_4 = ((_TexA_HDR.x * tmpvar_2.w) * tmpvar_2.xyz);
+01-21 22:01:41.850: D/Unity(19731):   mediump vec4 tmpvar_5;
+01-21 22:01:41.850: D/Unity(19731):   lowp vec4 tmpvar_6;
+01-21 22:01:41.850: D/Unity(19731):   tmpvar_6 = impl_low_textureCubeLodEXT (_TexB, xlv_TEXCOORD0, _Level);
+01-21 22:01:41.850: D/Unity(19731):   tmpvar_5 = tmpvar_6;
+01-21 22:01:41.850: D/Unity(19731):   mediump vec3 tmpvar_7;
+01-21 22:01:41.850: D/Unity(19731):   tmpvar_7 = ((_TexB_HDR.x * tmpvar_5.w) * tmpvar_5.xyz);
+01-21 22:01:41.850: D/Unity(19731):   highp vec3 tmpvar_8;
+01-21 22:01:41.850: D/Unity(19731):   tmpvar_8 = mix (tmpvar_4, tmpvar_7, vec3(_value));
+01-21 22:01:41.850: D/Unity(19731):   res_1 = tmpvar_8;
+01-21 22:01:41.850: D/Unity(19731):   mediump vec4 tmpvar_9;
+01-21 22:01:41.850: D/Unity(19731):   tmpvar_9.w = 1.0;
+01-21 22:01:41.850: D/Unity(19731):   tmpvar_9.xyz = res_1;
+01-21 22:01:41.850: D/Unity(19731):   gl_FragData[0] = tmpvar_9;
+01-21 22:01:41.850: D/Unity(19731): }
+01-21 22:01:41.850: D/Unity(19731): fragment evaluation shader
+01-21 22:01:41.850: D/Unity(19731): Compile failed.
+01-21 22:01:41.850: D/Unity(19731): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+01-21 22:01:41.850: D/Unity(19731): ERROR: 0:8: 'return' : function return is not matching type
+01-21 22:01:41.850: D/Unity(19731): ERROR: 2 compilation errors. No code generated.
+01-21 22:01:41.855: D/Unity(19731): #version 100
+01-21 22:01:41.855: D/Unity(19731): #extension GL_EXT_shader_texture_lod : enable
+01-21 22:01:41.855: D/Unity(19731): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+01-21 22:01:41.855: D/Unity(19731): {
+01-21 22:01:41.855: D/Unity(19731): #if defined(GL_EXT_shader_texture_lod)
+01-21 22:01:41.855: D/Unity(19731): 	return textureCubeLodEXT(sampler, coord, lod);
+01-21 22:01:41.855: D/Unity(19731): #else
+01-21 22:01:41.855: D/Unity(19731): 	return textureCube(sampler, coord, lod);
+01-21 22:01:41.855: D/Unity(19731): #endif
+01-21 22:01:41.856: D/Unity(19731): }
+01-21 22:01:41.856: D/Unity(19731): uniform highp float _Level;
+01-21 22:01:41.856: D/Unity(19731): uniform lowp samplerCube _MainTex;
+01-21 22:01:41.856: D/Unity(19731): varying highp vec4 xlv_TEXCOORD0;
+01-21 22:01:41.856: D/Unity(19731): void main ()
+01-21 22:01:41.856: D/Unity(19731): {
+01-21 22:01:41.856: D/Unity(19731):   highp vec4 tmpvar_1;
+01-21 22:01:41.856: D/Unity(19731):   lowp vec4 tmpvar_2;
+01-21 22:01:41.856: D/Unity(19731):   tmpvar_2 = impl_low_textureCubeLodEXT (_MainTex, xlv_TEXCOORD0.xyz, _Level);
+01-21 22:01:41.856: D/Unity(19731):   tmpvar_1 = tmpvar_2;
+01-21 22:01:41.856: D/Unity(19731):   gl_FragData[0] = tmpvar_1;
+01-21 22:01:41.856: D/Unity(19731): }
+01-21 22:01:41.856: D/Unity(19731): fragment evaluation shader
+01-21 22:01:41.856: D/Unity(19731): Compile failed.
+01-21 22:01:41.856: D/Unity(19731): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+01-21 22:01:41.856: D/Unity(19731): ERROR: 0:8: 'return' : function return is not matching type
+01-21 22:01:41.856: D/Unity(19731): ERROR: 2 compilation errors. No code generated.
+01-21 22:01:41.943: D/Unity(19731): #version 100
+01-21 22:01:41.943: D/Unity(19731): #extension GL_EXT_shader_texture_lod : enable
+01-21 22:01:41.943: D/Unity(19731): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+01-21 22:01:41.943: D/Unity(19731): {
+01-21 22:01:41.943: D/Unity(19731): #if defined(GL_EXT_shader_texture_lod)
+01-21 22:01:41.943: D/Unity(19731): 	return textureCubeLodEXT(sampler, coord, lod);
+01-21 22:01:41.943: D/Unity(19731): #else
+01-21 22:01:41.943: D/Unity(19731): 	return textureCube(sampler, coord, lod);
+01-21 22:01:41.943: D/Unity(19731): #endif
+01-21 22:01:41.943: D/Unity(19731): }
+01-21 22:01:41.943: D/Unity(19731): uniform highp vec3 _WorldSpaceCameraPos;
+01-21 22:01:41.943: D/Unity(19731): uniform highp vec4 _ProjectionParams;
+01-21 22:01:41.943: D/Unity(19731): uniform highp vec4 _ZBufferParams;
+01-21 22:01:41.943: D/Unity(19731): uniform lowp samplerCube unity_SpecCube0;
+01-21 22:01:41.943: D/Unity(19731): uniform highp vec4 unity_SpecCube0_BoxMax;
+01-21 22:01:41.943: D/Unity(19731): uniform highp vec4 unity_SpecCube0_BoxMin;
+01-21 22:01:41.943: D/Unity(19731): uniform mediump vec4 unity_SpecCube0_HDR;
+01-21 22:01:41.943: D/Unity(19731): uniform highp vec4 unity_SpecCube1_ProbePosition;
+01-21 22:01:41.943: D/Unity(19731): uniform highp sampler2D _CameraDepthTexture;
+01-21 22:01:41.943: D/Unity(19731): uniform highp mat4 _CameraToWorld;
+01-21 22:01:41.943: D/Unity(19731): uniform sampler2D _CameraGBufferTexture0;
+01-21 22:01:41.943: D/Unity(19731): uniform sampler2D _CameraGBufferTexture1;
+01-21 22:01:41.943: D/Unity(19731): uniform sampler2D _CameraGBufferTexture2;
+01-21 22:01:41.943: D/Unity(19731): varying highp vec4 xlv_TEXCOORD0;
+01-21 22:01:41.944: D/Unity(19731): varying highp vec3 xlv_TEXCOORD1;
+01-21 22:01:41.944: D/Unity(19731): void main ()
+01-21 22:01:41.944: D/Unity(19731): {
+01-21 22:01:41.944: D/Unity(19731):   mediump vec3 worldNormalRefl_1;
+01-21 22:01:41.944: D/Unity(19731):   mediump vec4 gbuffer2_2;
+01-21 22:01:41.944: D/Unity(19731):   mediump vec4 gbuffer1_3;
+01-21 22:01:41.944: D/Unity(19731):   mediump vec4 gbuffer0_4;
+01-21 22:01:41.944: D/Unity(19731):   highp vec2 tmpvar_5;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_5 = (xlv_TEXCOORD0.xy / xlv_TEXCOORD0.w);
+01-21 22:01:41.944: D/Unity(19731):   highp vec4 tmpvar_6;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_6.w = 1.0;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_6.xyz = ((xlv_TEXCOORD1 * (_ProjectionParams.z / xlv_TEXCOORD1.z)) * (1.0/((
+01-21 22:01:41.944: D/Unity(19731):     (_ZBufferParams.x * texture2D (_CameraDepthTexture, tmpvar_5).x)
+01-21 22:01:41.944: D/Unity(19731):    + _ZBufferParams.y))));
+01-21 22:01:41.944: D/Unity(19731):   highp vec3 tmpvar_7;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_7 = (_CameraToWorld * tmpvar_6).xyz;
+01-21 22:01:41.944: D/Unity(19731):   lowp vec4 tmpvar_8;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_8 = texture2D (_CameraGBufferTexture0, tmpvar_5);
+01-21 22:01:41.944: D/Unity(19731):   gbuffer0_4 = tmpvar_8;
+01-21 22:01:41.944: D/Unity(19731):   lowp vec4 tmpvar_9;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_9 = texture2D (_CameraGBufferTexture1, tmpvar_5);
+01-21 22:01:41.944: D/Unity(19731):   gbuffer1_3 = tmpvar_9;
+01-21 22:01:41.944: D/Unity(19731):   lowp vec4 tmpvar_10;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_10 = texture2D (_CameraGBufferTexture2, tmpvar_5);
+01-21 22:01:41.944: D/Unity(19731):   gbuffer2_2 = tmpvar_10;
+01-21 22:01:41.944: D/Unity(19731):   mediump vec3 tmpvar_11;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_11 = normalize(((gbuffer2_2.xyz * 2.0) - 1.0));
+01-21 22:01:41.944: D/Unity(19731):   highp vec3 tmpvar_12;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_12 = normalize((tmpvar_7 - _WorldSpaceCameraPos));
+01-21 22:01:41.944: D/Unity(19731):   highp vec3 tmpvar_13;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_13 = (tmpvar_12 - (2.0 * (
+01-21 22:01:41.944: D/Unity(19731):     dot (tmpvar_11, tmpvar_12)
+01-21 22:01:41.944: D/Unity(19731):    * tmpvar_11)));
+01-21 22:01:41.944: D/Unity(19731):   worldNormalRefl_1 = tmpvar_13;
+01-21 22:01:41.944: D/Unity(19731):   mediump vec4 tmpvar_14;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_14.xyz = worldNormalRefl_1;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_14.w = (pow ((1.0 - gbuffer1_3.w), 0.75) * 7.0);
+01-21 22:01:41.944: D/Unity(19731):   lowp vec4 tmpvar_15;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_15 = impl_low_textureCubeLodEXT (unity_SpecCube0, worldNormalRefl_1, tmpvar_14.w);
+01-21 22:01:41.944: D/Unity(19731):   mediump vec4 tmpvar_16;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_16 = tmpvar_15;
+01-21 22:01:41.944: D/Unity(19731):   mediump vec3 viewDir_17;
+01-21 22:01:41.944: D/Unity(19731):   viewDir_17 = -(tmpvar_12);
+01-21 22:01:41.944: D/Unity(19731):   mediump float x_18;
+01-21 22:01:41.944: D/Unity(19731):   x_18 = (1.0 - max (0.0, dot (tmpvar_11, viewDir_17)));
+01-21 22:01:41.944: D/Unity(19731):   mediump vec4 tmpvar_19;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_19.w = 1.0;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_19.xyz = (((
+01-21 22:01:41.944: D/Unity(19731):     (unity_SpecCube0_HDR.x * tmpvar_16.w)
+01-21 22:01:41.944: D/Unity(19731):    * tmpvar_16.xyz) * gbuffer0_4.w) * mix (gbuffer1_3.xyz, vec3(clamp (
+01-21 22:01:41.944: D/Unity(19731):     (gbuffer1_3.w + (1.0 - (1.0 - max (
+01-21 22:01:41.944: D/Unity(19731):       max (gbuffer1_3.x, gbuffer1_3.y)
+01-21 22:01:41.944: D/Unity(19731):     , gbuffer1_3.z))))
+01-21 22:01:41.944: D/Unity(19731):   , 0.0, 1.0)), vec3((
+01-21 22:01:41.944: D/Unity(19731):     (x_18 * x_18)
+01-21 22:01:41.944: D/Unity(19731):    * 
+01-21 22:01:41.944: D/Unity(19731):     (x_18 * x_18)
+01-21 22:01:41.944: D/Unity(19731):   ))));
+01-21 22:01:41.944: D/Unity(19731):   mediump vec3 p_20;
+01-21 22:01:41.944: D/Unity(19731):   p_20 = tmpvar_7;
+01-21 22:01:41.944: D/Unity(19731):   mediump vec3 aabbMin_21;
+01-21 22:01:41.944: D/Unity(19731):   aabbMin_21 = unity_SpecCube0_BoxMin.xyz;
+01-21 22:01:41.944: D/Unity(19731):   mediump vec3 aabbMax_22;
+01-21 22:01:41.944: D/Unity(19731):   aabbMax_22 = unity_SpecCube0_BoxMax.xyz;
+01-21 22:01:41.944: D/Unity(19731):   mediump vec3 tmpvar_23;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_23 = max (max ((p_20 - aabbMax_22), (aabbMin_21 - p_20)), vec3(0.0, 0.0, 0.0));
+01-21 22:01:41.944: D/Unity(19731):   mediump float tmpvar_24;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_24 = sqrt(dot (tmpvar_23, tmpvar_23));
+01-21 22:01:41.944: D/Unity(19731):   mediump float tmpvar_25;
+01-21 22:01:41.944: D/Unity(19731):   highp float tmpvar_26;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_26 = clamp ((1.0 - (tmpvar_24 / unity_SpecCube1_ProbePosition.w)), 0.0, 1.0);
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_25 = tmpvar_26;
+01-21 22:01:41.944: D/Unity(19731):   mediump vec4 tmpvar_27;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_27.xyz = tmpvar_19.xyz;
+01-21 22:01:41.944: D/Unity(19731):   tmpvar_27.w = tmpvar_25;
+01-21 22:01:41.944: D/Unity(19731):   gl_FragData[0] = tmpvar_27;
+01-21 22:01:41.944: D/Unity(19731): }
+01-21 22:01:41.944: D/Unity(19731): fragment evaluation shader
+01-21 22:01:41.944: D/Unity(19731): Compile failed.
+01-21 22:01:41.944: D/Unity(19731): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+01-21 22:01:41.944: D/Unity(19731): ERROR: 0:8: 'return' : function return is not matching type
+01-21 22:01:41.944: D/Unity(19731): ERROR: 2 compilation errors. No code generated.
+01-21 22:01:41.952: D/Unity(19731): #version 100
+01-21 22:01:41.952: D/Unity(19731): #extension GL_EXT_shader_texture_lod : enable
+01-21 22:01:41.952: D/Unity(19731): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+01-21 22:01:41.952: D/Unity(19731): {
+01-21 22:01:41.952: D/Unity(19731): #if defined(GL_EXT_shader_texture_lod)
+01-21 22:01:41.952: D/Unity(19731): 	return textureCubeLodEXT(sampler, coord, lod);
+01-21 22:01:41.952: D/Unity(19731): #else
+01-21 22:01:41.952: D/Unity(19731): 	return textureCube(sampler, coord, lod);
+01-21 22:01:41.952: D/Unity(19731): #endif
+01-21 22:01:41.952: D/Unity(19731): }
+01-21 22:01:41.952: D/Unity(19731): uniform lowp samplerCube _MainTex;
+01-21 22:01:41.952: D/Unity(19731): uniform mediump float _Level;
+01-21 22:01:41.952: D/Unity(19731): varying mediump vec4 xlv_TEXCOORD0;
+01-21 22:01:41.952: D/Unity(19731): void main ()
+01-21 22:01:41.952: D/Unity(19731): {
+01-21 22:01:41.952: D/Unity(19731):   mediump vec4 tmpvar_1;
+01-21 22:01:41.952: D/Unity(19731):   lowp vec4 tmpvar_2;
+01-21 22:01:41.952: D/Unity(19731):   tmpvar_2 = impl_low_textureCubeLodEXT (_MainTex, xlv_TEXCOORD0.xyz, _Level);
+01-21 22:01:41.952: D/Unity(19731):   tmpvar_1 = tmpvar_2;
+01-21 22:01:41.952: D/Unity(19731):   gl_FragData[0] = tmpvar_1;
+01-21 22:01:41.952: D/Unity(19731): }
+01-21 22:01:41.952: D/Unity(19731): fragment evaluation shader
+01-21 22:01:41.952: D/Unity(19731): Compile failed.
+01-21 22:01:41.952: D/Unity(19731): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+01-21 22:01:41.952: D/Unity(19731): ERROR: 0:8: 'return' : function return is not matching type
+01-21 22:01:41.952: D/Unity(19731): ERROR: 2 compilation errors. No code generated.
+01-21 22:01:42.192: D/AudioTrack(19731): audiotrack 0x614aefd0 stop done
+01-21 22:01:42.192: D/AudioTrack(19731): ~audioTrack 0x614aefd0
+01-21 22:01:42.193: D/dalvikvm(19731): threadid=14: bye!
+01-21 22:01:42.193: D/dalvikvm(19731): threadid=13: exiting
+01-21 22:01:42.193: D/dalvikvm(19731): threadid=13: bye!
+01-21 22:01:42.193: D/dalvikvm(19731): create interp thread : stack size=32KB
+01-21 22:01:42.193: D/dalvikvm(19731): create new thread
+01-21 22:01:42.193: D/dalvikvm(19731): new thread created
+01-21 22:01:42.193: D/dalvikvm(19731): update thread list
+01-21 22:01:42.193: D/dalvikvm(19731): threadid=13: interp stack at 0x5f271000
+01-21 22:01:42.193: D/dalvikvm(19731): threadid=13: created from interp
+01-21 22:01:42.193: D/dalvikvm(19731): start new thread
+01-21 22:01:42.194: D/dalvikvm(19731): threadid=13: notify debugger
+01-21 22:01:42.194: D/dalvikvm(19731): threadid=13 (FMODAudioDevice): calling run()
+01-21 22:01:42.194: D/AudioTrack(19731): audiotrack 0x614aefd0 set Type 3, rate 24000, fmt 1, chn 3, fcnt 2452, flag 0
+01-21 22:01:42.195: D/AudioTrack(19731): start 0x614aefd0
+01-21 22:01:42.196: D/dalvikvm(19731): threadid=14: interp stack at 0x5f279000
+01-21 22:01:42.196: D/AudioTrack(19731): pid [19731] sched_setscheduler to default: 1
+01-21 22:01:42.491: W/dalvikvm(19731): VFY: unable to find class referenced in signature (Lcom/google/android/gms/plus/model/people/Person;)
+01-21 22:01:42.491: W/dalvikvm(19731): VFY: unable to find class referenced in signature (Lcom/google/android/gms/plus/model/people/Person;)
+01-21 22:01:42.492: W/dalvikvm(19731): VFY: unable to find class referenced in signature (Lcom/google/android/gms/plus/model/people/Person;)
+01-21 22:01:42.492: I/dalvikvm(19731): Could not find method com.google.android.gms.plus.model.people.Person.getDisplayName, referenced from method com.soomla.profile.social.google.SoomlaGooglePlus.parseGoogleContact
+01-21 22:01:42.492: W/dalvikvm(19731): VFY: unable to resolve interface method 14351: Lcom/google/android/gms/plus/model/people/Person;.getDisplayName ()Ljava/lang/String;
+01-21 22:01:42.492: D/dalvikvm(19731): VFY: replacing opcode 0x72 at 0x0001
+01-21 22:01:42.493: I/dalvikvm(19731): Interface method not part of interface class
+01-21 22:01:42.493: I/dalvikvm(19731): Could not find method com.google.android.gms.common.api.GoogleApiClient.isConnected, referenced from method com.soomla.profile.social.google.SoomlaGooglePlus.getContacts
+01-21 22:01:42.493: W/dalvikvm(19731): VFY: unable to resolve interface method 5558: Lcom/google/android/gms/common/api/GoogleApiClient;.isConnected ()Z
+01-21 22:01:42.493: D/dalvikvm(19731): VFY: replacing opcode 0x72 at 0x000d
+01-21 22:01:42.493: W/dalvikvm(19731): VFY: unable to resolve static field 3121 (Leaderboards) in Lcom/google/android/gms/games/Games;
+01-21 22:01:42.493: D/dalvikvm(19731): VFY: replacing opcode 0x62 at 0x0004
+01-21 22:01:42.494: E/dalvikvm(19731): Could not find class 'com.google.android.gms.games.leaderboard.LeaderboardScoreBuffer', referenced from method com.soomla.profile.social.google.SoomlaGooglePlus.getScores
+01-21 22:01:42.494: W/dalvikvm(19731): VFY: unable to resolve check-cast 1441 (Lcom/google/android/gms/games/leaderboard/LeaderboardScoreBuffer;) in Lcom/soomla/profile/social/google/SoomlaGooglePlus;
+01-21 22:01:42.494: D/dalvikvm(19731): VFY: replacing opcode 0x1f at 0x000d
+01-21 22:01:42.494: I/dalvikvm(19731): Interface method not part of interface class
+01-21 22:01:42.494: I/dalvikvm(19731): Could not find method com.google.android.gms.common.api.GoogleApiClient.isConnected, referenced from method com.soomla.profile.social.google.SoomlaGooglePlus.isLoggedIn
+01-21 22:01:42.494: W/dalvikvm(19731): VFY: unable to resolve interface method 5558: Lcom/google/android/gms/common/api/GoogleApiClient;.isConnected ()Z
+01-21 22:01:42.494: D/dalvikvm(19731): VFY: replacing opcode 0x72 at 0x0006
+01-21 22:01:42.496: W/dalvikvm(19731): VFY: unable to resolve static field 6849 (AccountApi) in Lcom/google/android/gms/plus/Plus;
+01-21 22:01:42.496: D/dalvikvm(19731): VFY: replacing opcode 0x62 at 0x0000
+01-21 22:01:42.496: W/dalvikvm(19731): VFY: unable to resolve static field 3121 (Leaderboards) in Lcom/google/android/gms/games/Games;
+01-21 22:01:42.496: D/dalvikvm(19731): VFY: replacing opcode 0x62 at 0x000b
+01-21 22:01:42.497: W/dalvikvm(19731): VFY: unable to resolve static field 3121 (Leaderboards) in Lcom/google/android/gms/games/Games;
+01-21 22:01:42.497: D/dalvikvm(19731): VFY: replacing opcode 0x62 at 0x0004
+01-21 22:01:42.497: I/dalvikvm(19731): DexOpt: unable to optimize static field ref 0x1ac2 at 0x17 in Lcom/soomla/profile/social/google/SoomlaGooglePlus;.getContacts
+01-21 22:01:42.498: I/dalvikvm(19731): DexOpt: unable to optimize static field ref 0x0c31 at 0x13 in Lcom/soomla/profile/social/google/SoomlaGooglePlus;.getScores
+01-21 22:01:42.498: I/dalvikvm(19731): DexOpt: unable to optimize static field ref 0x0c31 at 0x26 in Lcom/soomla/profile/social/google/SoomlaGooglePlus;.getScores
+01-21 22:01:42.653: I/SurfaceTextureClient(19731): [STC::queueBuffer] (this:0x5cb11af8) fps:2.50, dur:1199.60, max:1176.70, min:10.91
+01-21 22:01:43.666: I/SurfaceTextureClient(19731): [STC::queueBuffer] (this:0x5cb11af8) fps:65.13, dur:1013.29, max:25.98, min:2.06
+01-21 22:01:44.676: I/SurfaceTextureClient(19731): [STC::queueBuffer] (this:0x5cb11af8) fps:64.36, dur:1009.87, max:23.10, min:3.59
+01-21 22:01:45.055: V/Provider/Settings(19731): invalidate [secure]: current 4 != cached 0
+01-21 22:01:45.056: V/Provider/Settings(19731): from db cache, name = android_id , value = 78a03997e54eda34
+01-21 22:01:45.164: D/AudioTrack(19731): audiotrack 0x614aefd0 stop done
+01-21 22:01:45.164: D/AudioTrack(19731): ~audioTrack 0x614aefd0
+01-21 22:01:45.164: D/dalvikvm(19731): threadid=14: bye!
+01-21 22:01:45.165: D/dalvikvm(19731): threadid=13: exiting
+01-21 22:01:45.165: D/dalvikvm(19731): threadid=13: bye!
+01-21 22:01:45.173: W/dalvikvm(19731): VFY: unable to resolve static field 6848 (API) in Lcom/google/android/gms/plus/Plus;
+01-21 22:01:45.173: D/dalvikvm(19731): VFY: replacing opcode 0x62 at 0x000d
+01-21 22:01:45.173: I/dalvikvm(19731): Interface method not part of interface class
+01-21 22:01:45.173: I/dalvikvm(19731): Could not find method com.google.android.gms.common.api.GoogleApiClient.connect, referenced from method com.soomla.profile.social.google.SoomlaGooglePlus$SoomlaGooglePlusActivity.resolveSignInError
+01-21 22:01:45.173: W/dalvikvm(19731): VFY: unable to resolve interface method 5549: Lcom/google/android/gms/common/api/GoogleApiClient;.connect ()V
+01-21 22:01:45.173: D/dalvikvm(19731): VFY: replacing opcode 0x72 at 0x0012
+01-21 22:01:45.174: E/dalvikvm(19731): Could not find class 'com.google.android.gms.plus.PlusShare$Builder', referenced from method com.soomla.profile.social.google.SoomlaGooglePlus$SoomlaGooglePlusActivity.updateStatus
+01-21 22:01:45.174: W/dalvikvm(19731): VFY: unable to resolve new-instance 2582 (Lcom/google/android/gms/plus/PlusShare$Builder;) in Lcom/soomla/profile/social/google/SoomlaGooglePlus$SoomlaGooglePlusActivity;
+01-21 22:01:45.174: D/dalvikvm(19731): VFY: replacing opcode 0x22 at 0x0000
+01-21 22:01:45.174: E/dalvikvm(19731): Could not find class 'com.google.android.gms.plus.PlusShare$Builder', referenced from method com.soomla.profile.social.google.SoomlaGooglePlus$SoomlaGooglePlusActivity.updateStatusDialog
+01-21 22:01:45.174: W/dalvikvm(19731): VFY: unable to resolve new-instance 2582 (Lcom/google/android/gms/plus/PlusShare$Builder;) in Lcom/soomla/profile/social/google/SoomlaGooglePlus$SoomlaGooglePlusActivity;
+01-21 22:01:45.174: D/dalvikvm(19731): VFY: replacing opcode 0x22 at 0x0000
+01-21 22:01:45.174: E/dalvikvm(19731): Could not find class 'com.google.android.gms.plus.PlusShare$Builder', referenced from method com.soomla.profile.social.google.SoomlaGooglePlus$SoomlaGooglePlusActivity.updateStory
+01-21 22:01:45.174: W/dalvikvm(19731): VFY: unable to resolve new-instance 2582 (Lcom/google/android/gms/plus/PlusShare$Builder;) in Lcom/soomla/profile/social/google/SoomlaGooglePlus$SoomlaGooglePlusActivity;
+01-21 22:01:45.174: D/dalvikvm(19731): VFY: replacing opcode 0x22 at 0x0000
+01-21 22:01:45.175: E/dalvikvm(19731): Could not find class 'com.google.android.gms.plus.PlusShare$Builder', referenced from method com.soomla.profile.social.google.SoomlaGooglePlus$SoomlaGooglePlusActivity.uploadImage
+01-21 22:01:45.175: W/dalvikvm(19731): VFY: unable to resolve new-instance 2582 (Lcom/google/android/gms/plus/PlusShare$Builder;) in Lcom/soomla/profile/social/google/SoomlaGooglePlus$SoomlaGooglePlusActivity;
+01-21 22:01:45.175: D/dalvikvm(19731): VFY: replacing opcode 0x22 at 0x001f
+01-21 22:01:45.175: I/dalvikvm(19731): Interface method not part of interface class
+01-21 22:01:45.175: I/dalvikvm(19731): Could not find method com.google.android.gms.common.api.GoogleApiClient.isConnecting, referenced from method com.soomla.profile.social.google.SoomlaGooglePlus$SoomlaGooglePlusActivity.onActivityResult
+01-21 22:01:45.175: W/dalvikvm(19731): VFY: unable to resolve interface method 5559: Lcom/google/android/gms/common/api/GoogleApiClient;.isConnecting ()Z
+01-21 22:01:45.175: D/dalvikvm(19731): VFY: replacing opcode 0x72 at 0x0010
+01-21 22:01:45.175: I/dalvikvm(19731): Interface method not part of interface class
+01-21 22:01:45.175: I/dalvikvm(19731): Could not find method com.google.android.gms.common.api.GoogleApiClient.connect, referenced from method com.soomla.profile.social.google.SoomlaGooglePlus$SoomlaGooglePlusActivity.onConnectionSuspended
+01-21 22:01:45.175: W/dalvikvm(19731): VFY: unable to resolve interface method 5549: Lcom/google/android/gms/common/api/GoogleApiClient;.connect ()V
+01-21 22:01:45.175: D/dalvikvm(19731): VFY: replacing opcode 0x72 at 0x000b
+01-21 22:01:45.175: I/dalvikvm(19731): DexOpt: unable to optimize static field ref 0x1ac3 at 0x1b in Lcom/soomla/profile/social/google/SoomlaGooglePlus$SoomlaGooglePlusActivity;.login
+01-21 22:01:45.176: I/dalvikvm(19731): DexOpt: unable to optimize static field ref 0x0c30 at 0x23 in Lcom/soomla/profile/social/google/SoomlaGooglePlus$SoomlaGooglePlusActivity;.login
+01-21 22:01:45.176: I/dalvikvm(19731): DexOpt: unable to optimize static field ref 0x0c32 at 0x31 in Lcom/soomla/profile/social/google/SoomlaGooglePlus$SoomlaGooglePlusActivity;.login
+01-21 22:01:45.176: D/dalvikvm(19731): DexOpt: unable to opt direct call 0x3804 at 0x02 in Lcom/soomla/profile/social/google/SoomlaGooglePlus$SoomlaGooglePlusActivity;.updateStatus
+01-21 22:01:45.176: D/dalvikvm(19731): DexOpt: unable to opt direct call 0x3804 at 0x02 in Lcom/soomla/profile/social/google/SoomlaGooglePlus$SoomlaGooglePlusActivity;.updateStatusDialog
+01-21 22:01:45.176: D/dalvikvm(19731): DexOpt: unable to opt direct call 0x3804 at 0x02 in Lcom/soomla/profile/social/google/SoomlaGooglePlus$SoomlaGooglePlusActivity;.updateStory
+01-21 22:01:45.177: D/dalvikvm(19731): DexOpt: unable to opt direct call 0x3804 at 0x21 in Lcom/soomla/profile/social/google/SoomlaGooglePlus$SoomlaGooglePlusActivity;.uploadImage
+01-21 22:01:45.178: E/dalvikvm(19731): Could not find class 'android.support.v4.util.ArrayMap', referenced from method com.google.android.gms.common.api.GoogleApiClient$Builder.<init>
+01-21 22:01:45.178: W/dalvikvm(19731): VFY: unable to resolve new-instance 199 (Landroid/support/v4/util/ArrayMap;) in Lcom/google/android/gms/common/api/GoogleApiClient$Builder;
+01-21 22:01:45.178: D/dalvikvm(19731): VFY: replacing opcode 0x22 at 0x0011
+01-21 22:01:45.178: W/dalvikvm(19731): VFY: unable to find class referenced in signature (Landroid/support/v4/app/FragmentActivity;)
+01-21 22:01:45.180: W/dalvikvm(19731): Unable to resolve superclass of Lcom/google/android/gms/internal/zzmr; (192)
+01-21 22:01:45.180: W/dalvikvm(19731): Link of class 'Lcom/google/android/gms/internal/zzmr;' failed
+01-21 22:01:45.180: W/dalvikvm(19731): VFY: unable to find class referenced in signature (Lcom/google/android/gms/internal/zzmr;)
+01-21 22:01:45.180: W/dalvikvm(19731): Unable to resolve superclass of Lcom/google/android/gms/internal/zzmr; (192)
+01-21 22:01:45.180: W/dalvikvm(19731): Link of class 'Lcom/google/android/gms/internal/zzmr;' failed
+01-21 22:01:45.180: W/dalvikvm(19731): VFY: unable to find class referenced in signature (Lcom/google/android/gms/internal/zzmr;)
+01-21 22:01:45.180: W/dalvikvm(19731): Unable to resolve superclass of Lcom/google/android/gms/internal/zzmr; (192)
+01-21 22:01:45.180: W/dalvikvm(19731): Link of class 'Lcom/google/android/gms/internal/zzmr;' failed
+01-21 22:01:45.180: W/dalvikvm(19731): VFY: unable to find class referenced in signature (Lcom/google/android/gms/internal/zzmr;)
+01-21 22:01:45.181: W/dalvikvm(19731): Unable to resolve superclass of Lcom/google/android/gms/internal/zzmr; (192)
+01-21 22:01:45.181: W/dalvikvm(19731): Link of class 'Lcom/google/android/gms/internal/zzmr;' failed
+01-21 22:01:45.181: I/dalvikvm(19731): Could not find method com.google.android.gms.internal.zzmr.zza, referenced from method com.google.android.gms.common.api.GoogleApiClient$Builder.zza
+01-21 22:01:45.181: W/dalvikvm(19731): VFY: unable to resolve virtual method 11785: Lcom/google/android/gms/internal/zzmr;.zza (ILcom/google/android/gms/common/api/GoogleApiClient;Lcom/google/android/gms/common/api/GoogleApiClient$OnConnectionFailedListener;)V
+01-21 22:01:45.181: D/dalvikvm(19731): VFY: replacing opcode 0x6e at 0x0004
+01-21 22:01:45.181: W/dalvikvm(19731): Unable to resolve superclass of Lcom/google/android/gms/internal/zzmr; (192)
+01-21 22:01:45.181: W/dalvikvm(19731): Link of class 'Lcom/google/android/gms/internal/zzmr;' failed
+01-21 22:01:45.181: I/dalvikvm(19731): Could not find method com.google.android.gms.internal.zzmr.zza, referenced from method com.google.android.gms.common.api.GoogleApiClient$Builder.zzd
+01-21 22:01:45.181: W/dalvikvm(19731): VFY: unable to resolve static method 11783: Lcom/google/android/gms/internal/zzmr;.zza (Landroid/support/v4/app/FragmentActivity;)Lcom/google/android/gms/internal/zzmr;
+01-21 22:01:45.181: D/dalvikvm(19731): VFY: replacing opcode 0x71 at 0x0002
+01-21 22:01:45.182: E/dalvikvm(19731): Could not find class 'android.support.v4.util.ArrayMap', referenced from method com.google.android.gms.common.api.GoogleApiClient$Builder.zzoI
+01-21 22:01:45.182: W/dalvikvm(19731): VFY: unable to resolve new-instance 199 (Landroid/support/v4/util/ArrayMap;) in Lcom/google/android/gms/common/api/GoogleApiClient$Builder;
+01-21 22:01:45.182: D/dalvikvm(19731): VFY: replacing opcode 0x22 at 0x000a
+01-21 22:01:45.182: W/dalvikvm(19731): VFY: unable to find class referenced in signature (Landroid/support/v4/app/FragmentActivity;)
+01-21 22:01:45.183: E/dalvikvm(19731): Could not find class 'android.support.v4.app.FragmentActivity', referenced from method com.google.android.gms.common.api.GoogleApiClient$Builder.enableAutoManage
+01-21 22:01:45.183: W/dalvikvm(19731): VFY: unable to resolve check-cast 193 (Landroid/support/v4/app/FragmentActivity;) in Lcom/google/android/gms/common/api/GoogleApiClient$Builder;
+01-21 22:01:45.183: D/dalvikvm(19731): VFY: replacing opcode 0x1f at 0x0010
+01-21 22:01:45.183: W/dalvikvm(19731): VFY: unable to find class referenced in signature (Landroid/support/v4/app/FragmentActivity;)
+01-21 22:01:45.183: W/dalvikvm(19731): VFY: unable to find class referenced in signature (Landroid/support/v4/app/FragmentActivity;)
+01-21 22:01:45.184: D/dalvikvm(19731): DexOpt: unable to opt direct call 0x034d at 0x13 in Lcom/google/android/gms/common/api/GoogleApiClient$Builder;.<init>
+01-21 22:01:45.184: D/dalvikvm(19731): DexOpt: unable to opt direct call 0x034d at 0x1a in Lcom/google/android/gms/common/api/GoogleApiClient$Builder;.<init>
+01-21 22:01:45.184: D/dalvikvm(19731): DexOpt: unable to opt direct call 0x034d at 0x0c in Lcom/google/android/gms/common/api/GoogleApiClient$Builder;.zzoI
+01-21 22:01:45.184: D/dalvikvm(19731): DexOpt: unable to opt direct call 0x034d at 0x11 in Lcom/google/android/gms/common/api/GoogleApiClient$Builder;.zzoI
+01-21 22:01:45.185: D/AndroidRuntime(19731): Shutting down VM
+01-21 22:01:45.185: W/dalvikvm(19731): threadid=1: thread exiting with uncaught exception (group=0x41fdf9a8)
+01-21 22:01:45.187: E/AndroidRuntime(19731): FATAL EXCEPTION: main
+01-21 22:01:45.187: E/AndroidRuntime(19731): java.lang.Error: FATAL EXCEPTION [main]
+01-21 22:01:45.187: E/AndroidRuntime(19731): Unity version     : 5.2.2p1
+01-21 22:01:45.187: E/AndroidRuntime(19731): Device model      : JYT JY-G5
+01-21 22:01:45.187: E/AndroidRuntime(19731): Device fingerprint: JIAYU/V8/V8:4.2.1/JOP40D/1394063225:user/test-keys
+01-21 22:01:45.187: E/AndroidRuntime(19731): Caused by: java.lang.NoClassDefFoundError: android.support.v4.util.ArrayMap
+01-21 22:01:45.187: E/AndroidRuntime(19731): 	at com.google.android.gms.common.api.GoogleApiClient$Builder.<init>(Unknown Source)
+01-21 22:01:45.187: E/AndroidRuntime(19731): 	at com.soomla.profile.social.google.SoomlaGooglePlus$SoomlaGooglePlusActivity.login(SoomlaGooglePlus.java:162)
+01-21 22:01:45.187: E/AndroidRuntime(19731): 	at com.soomla.profile.social.google.SoomlaGooglePlus$SoomlaGooglePlusActivity.onCreate(SoomlaGooglePlus.java:129)
+01-21 22:01:45.187: E/AndroidRuntime(19731): 	at android.app.Activity.performCreate(Activity.java:5122)
+01-21 22:01:45.187: E/AndroidRuntime(19731): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1081)
+01-21 22:01:45.187: E/AndroidRuntime(19731): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2270)
+01-21 22:01:45.187: E/AndroidRuntime(19731): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2358)
+01-21 22:01:45.187: E/AndroidRuntime(19731): 	at android.app.ActivityThread.access$600(ActivityThread.java:156)
+01-21 22:01:45.187: E/AndroidRuntime(19731): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1340)
+01-21 22:01:45.187: E/AndroidRuntime(19731): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+01-21 22:01:45.187: E/AndroidRuntime(19731): 	at android.os.Looper.loop(Looper.java:153)
+01-21 22:01:45.187: E/AndroidRuntime(19731): 	at android.app.ActivityThread.main(ActivityThread.java:5297)
+01-21 22:01:45.187: E/AndroidRuntime(19731): 	at java.lang.reflect.Method.invokeNative(Native Method)
+01-21 22:01:45.187: E/AndroidRuntime(19731): 	at java.lang.reflect.Method.invoke(Method.java:511)
+01-21 22:01:45.187: E/AndroidRuntime(19731): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:833)
+01-21 22:01:45.187: E/AndroidRuntime(19731): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:600)
+01-21 22:01:45.187: E/AndroidRuntime(19731): 	at dalvik.system.NativeStart.main(Native Method)
+01-21 22:01:49.518: I/Process(19731): Sending signal. PID: 19731 SIG: 9
