@@ -1,0 +1,541 @@
+01-22 09:04:42.302: D/Unity(23247): [SHA1] 3f9c6aadd03554cd6a4a07defc46c12444437e5b    3758496 bytes ~ lib/armeabi-v7a/libmono.so
+01-22 09:04:43.156: D/Unity(23247): [SHA1] 045045246166a443ea20b6cd3230e74f1ac7b939   25204615 bytes ~ lib/x86/libunity.so
+01-22 09:04:43.157: D/Unity(23247): [SHA1] 00907983a931d823290fabbba9a80ada7e3c0a53      27052 bytes ~ lib/x86/libmain.so
+01-22 09:04:43.271: D/Unity(23247): [SHA1] c3f02aff64c835e59f1c6391ab9999d1286acf4f    3636444 bytes ~ lib/x86/libmono.so
+01-22 09:04:43.271: D/Unity(23247): Mono path[0] = '/mnt/asec/com.com.pge.ccr-1/pkg.apk/assets/bin/Data/Managed'
+01-22 09:04:43.271: D/Unity(23247): Mono config path = 'assets/bin/Data/Managed'
+01-22 09:04:43.271: D/Unity(23247): PlayerConnection initialized from /mnt/asec/com.com.pge.ccr-1/pkg.apk/assets/bin/Data (debug = 0)
+01-22 09:04:43.272: D/Unity(23247): PlayerConnection initialized network socket : 0.0.0.0 55299
+01-22 09:04:43.272: D/Unity(23247): PlayerConnection initialized unix socket : Unity-com.com.pge.ccr
+01-22 09:04:43.272: D/Unity(23247): Multi-casting "[IP] 192.168.0.101 [Port] 55299 [Flags] 2 [Guid] 1307634316 [EditorId] 854868599 [Version] 1048832 [Id] AndroidPlayer(JYT_JY-G5@192.168.0.101) [Debug] 0" to [225.0.0.222:54997]...
+01-22 09:04:43.371: D/Unity(23247): InitializeScriptEngine OK (5f506ee0)
+01-22 09:04:43.371: D/Unity(23247): PlayerConnection already initialized - listening to [192.168.0.101:55299]
+01-22 09:04:43.397: D/Unity(23247): PlayerInitEngineNoGraphics OK
+01-22 09:04:43.415: D/Unity(23247): [EGL] Request: ES 2.0 RGB0 000 0/0
+01-22 09:04:43.417: D/Unity(23247): [EGL] Found: ID[21] ES 2.0 RGB16 565 0/0
+01-22 09:04:43.417: D/Unity(23247): [EGL] Request: ES 2.0 RGB0 000 0/0
+01-22 09:04:43.418: D/Unity(23247): [EGL] Found: ID[21] ES 2.0 RGB16 565 0/0
+01-22 09:04:43.418: D/Unity(23247): [EGL] Request: ES 2.0 RGBA32 8888 0/0
+01-22 09:04:43.420: D/Unity(23247): [EGL] Found: ID[15] ES 2.0 RGBA32 8888 0/0
+01-22 09:04:43.426: D/Unity(23247): ANativeWindow: (720/1280) RequestedResolution: (0/0) EGLSurface: (720/1280)
+01-22 09:04:43.438: D/Unity(23247): Renderer: PowerVR SGX 544MP
+01-22 09:04:43.438: D/Unity(23247): Vendor:   Imagination Technologies
+01-22 09:04:43.438: D/Unity(23247): Version:  OpenGL ES 2.0 build 1.9@2204701
+01-22 09:04:43.438: D/Unity(23247): GLES:     2
+01-22 09:04:43.438: D/Unity(23247): GL_EXT_debug_marker GL_OES_rgb8_rgba8 GL_OES_depth24 GL_OES_vertex_half_float GL_OES_texture_float GL_OES_texture_half_float GL_OES_element_index_uint GL_OES_mapbuffer GL_OES_fragment_precision_high GL_OES_compressed_ETC1_RGB8_texture GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_required_internalformat GL_OES_depth_texture GL_OES_get_program_binary GL_OES_packed_depth_stencil GL_OES_standard_derivatives GL_OES_vertex_array_object GL_OES_egl_sync GL_OES_texture_npot GL_EXT_multi_draw_arrays GL_EXT_texture_format_BGRA8888 GL_EXT_discard_framebuffer GL_EXT_shader_texture_lod GL_IMG_shader_binary GL_IMG_texture_compression_pvrtc GL_IMG_texture_compression_pvrtc2 GL_IMG_texture_npot GL_IMG_texture_format_BGRA8888 GL_IMG_read_format GL_IMG_program_binary GL_IMG_uniform_buffer_object GL_IMG_multisampled_render_to_texture
+01-22 09:04:43.502: D/Unity(23247): ETC2 0
+01-22 09:04:43.502: D/Unity(23247): OPENGL LOG: Creating OpenGL ES 2.0 graphics device
+01-22 09:04:43.502: D/Unity(23247): InitializeGfxDevice OK
+01-22 09:04:43.503: D/Unity(23247): Initialize engine version: 5.2.2p1 (6dd5cd7ea574)
+01-22 09:04:43.646: D/Unity(23247): AudioManager: Selecting AudioTrack output...
+01-22 09:04:43.665: D/Unity(23247): Begin MonoManager ReloadAssembly
+01-22 09:04:43.687: D/Unity(23247): Platform assembly: /mnt/asec/com.com.pge.ccr-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.dll (this message is harmless)
+01-22 09:04:43.695: D/Unity(23247): Loading /mnt/asec/com.com.pge.ccr-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.dll into Unity Child Domain
+01-22 09:04:43.768: D/Unity(23247): Platform assembly: /mnt/asec/com.com.pge.ccr-1/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp-firstpass.dll (this message is harmless)
+01-22 09:04:43.771: D/Unity(23247): Loading /mnt/asec/com.com.pge.ccr-1/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp-firstpass.dll into Unity Child Domain
+01-22 09:04:43.772: D/Unity(23247): Platform assembly: /mnt/asec/com.com.pge.ccr-1/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp.dll (this message is harmless)
+01-22 09:04:43.772: D/Unity(23247): Loading /mnt/asec/com.com.pge.ccr-1/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp.dll into Unity Child Domain
+01-22 09:04:43.777: D/Unity(23247): Platform assembly: /mnt/asec/com.com.pge.ccr-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.UI.dll (this message is harmless)
+01-22 09:04:43.780: D/Unity(23247): Loading /mnt/asec/com.com.pge.ccr-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.UI.dll into Unity Child Domain
+01-22 09:04:43.784: D/Unity(23247): Platform assembly: /mnt/asec/com.com.pge.ccr-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.Networking.dll (this message is harmless)
+01-22 09:04:43.788: D/Unity(23247): Loading /mnt/asec/com.com.pge.ccr-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.Networking.dll into Unity Child Domain
+01-22 09:04:43.790: D/Unity(23247): Platform assembly: /mnt/asec/com.com.pge.ccr-1/pkg.apk/assets/bin/Data/Managed/GrowIntegration.dll (this message is harmless)
+01-22 09:04:43.790: D/Unity(23247): Loading /mnt/asec/com.com.pge.ccr-1/pkg.apk/assets/bin/Data/Managed/GrowIntegration.dll into Unity Child Domain
+01-22 09:04:43.823: D/Unity(23247): Platform assembly: /mnt/asec/com.com.pge.ccr-1/pkg.apk/assets/bin/Data/Managed/System.Core.dll (this message is harmless)
+01-22 09:04:43.832: D/Unity(23247): - Completed reload, in  0.167 seconds
+01-22 09:04:43.836: D/Unity(23247): PlayerInitEngineGraphics OK
+01-22 09:04:43.837: D/Unity(23247): Found 10 native sensors
+01-22 09:04:43.839: D/Unity(23247): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+01-22 09:04:43.840: D/Unity(23247): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+01-22 09:04:43.848: D/Unity(23247): Requested framebuffer: resolution[720x1280], rgba[8/8/8/8], depth+stencil[on], samples[1]
+01-22 09:04:43.856: D/Unity(23247): Created framebuffer: resolution[720x1280], rgba[8/8/8/8], depth+stencil[24/8], samples[0] 
+01-22 09:04:44.030: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.030: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.030: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.031: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.031: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.031: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.031: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.031: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.082: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.094: D/Unity(23247): Platform assembly: /mnt/asec/com.com.pge.ccr-1/pkg.apk/assets/bin/Data/Managed/System.dll (this message is harmless)
+01-22 09:04:44.137: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.158: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.179: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.199: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.220: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.240: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.281: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.291: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.312: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.399: D/Unity(23247): -------- Shader compilation failed
+01-22 09:04:44.399: D/Unity(23247): #version 100
+01-22 09:04:44.399: D/Unity(23247): #extension GL_EXT_shader_texture_lod : enable
+01-22 09:04:44.399: D/Unity(23247): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+01-22 09:04:44.399: D/Unity(23247): {
+01-22 09:04:44.399: D/Unity(23247): #if defined(GL_EXT_shader_texture_lod)
+01-22 09:04:44.400: D/Unity(23247): 	return textureCubeLodEXT(sampler, coord, lod);
+01-22 09:04:44.400: D/Unity(23247): #else
+01-22 09:04:44.400: D/Unity(23247): 	return textureCube(sampler, coord, lod);
+01-22 09:04:44.400: D/Unity(23247): #endif
+01-22 09:04:44.400: D/Unity(23247): }
+01-22 09:04:44.400: D/Unity(23247): uniform mediump vec4 _TexA_HDR;
+01-22 09:04:44.400: D/Unity(23247): uniform mediump vec4 _TexB_HDR;
+01-22 09:04:44.400: D/Unity(23247): uniform lowp samplerCube _TexA;
+01-22 09:04:44.400: D/Unity(23247): uniform lowp samplerCube _TexB;
+01-22 09:04:44.400: D/Unity(23247): uniform highp float _Level;
+01-22 09:04:44.400: D/Unity(23247): uniform highp float _value;
+01-22 09:04:44.400: D/Unity(23247): varying highp vec3 xlv_TEXCOORD0;
+01-22 09:04:44.400: D/Unity(23247): void main ()
+01-22 09:04:44.401: D/Unity(23247): {
+01-22 09:04:44.401: D/Unity(23247):   mediump vec3 res_1;
+01-22 09:04:44.401: D/Unity(23247):   mediump vec4 tmpvar_2;
+01-22 09:04:44.401: D/Unity(23247):   lowp vec4 tmpvar_3;
+01-22 09:04:44.401: D/Unity(23247):   tmpvar_3 = impl_low_textureCubeLodEXT (_TexA, xlv_TEXCOORD0, _Level);
+01-22 09:04:44.401: D/Unity(23247):   tmpvar_2 = tmpvar_3;
+01-22 09:04:44.401: D/Unity(23247):   mediump vec3 tmpvar_4;
+01-22 09:04:44.402: D/Unity(23247):   tmpvar_4 = ((_TexA_HDR.x * tmpvar_2.w) * tmpvar_2.xyz);
+01-22 09:04:44.402: D/Unity(23247):   mediump vec4 tmpvar_5;
+01-22 09:04:44.402: D/Unity(23247):   lowp vec4 tmpvar_6;
+01-22 09:04:44.402: D/Unity(23247):   tmpvar_6 = impl_low_textureCubeLodEXT (_TexB, xlv_TEXCOORD0, _Level);
+01-22 09:04:44.402: D/Unity(23247):   tmpvar_5 = tmpvar_6;
+01-22 09:04:44.402: D/Unity(23247):   mediump vec3 tmpvar_7;
+01-22 09:04:44.402: D/Unity(23247):   tmpvar_7 = ((_TexB_HDR.x * tmpvar_5.w) * tmpvar_5.xyz);
+01-22 09:04:44.402: D/Unity(23247):   highp vec3 tmpvar_8;
+01-22 09:04:44.403: D/Unity(23247):   tmpvar_8 = mix (tmpvar_4, tmpvar_7, vec3(_value));
+01-22 09:04:44.403: D/Unity(23247):   res_1 = tmpvar_8;
+01-22 09:04:44.403: D/Unity(23247):   mediump vec4 tmpvar_9;
+01-22 09:04:44.403: D/Unity(23247):   tmpvar_9.w = 1.0;
+01-22 09:04:44.403: D/Unity(23247):   tmpvar_9.xyz = res_1;
+01-22 09:04:44.403: D/Unity(23247):   gl_FragData[0] = tmpvar_9;
+01-22 09:04:44.403: D/Unity(23247): }
+01-22 09:04:44.403: D/Unity(23247): -------- failed compiling:
+01-22 09:04:44.403: D/Unity(23247): fragment evaluation shader
+01-22 09:04:44.404: D/Unity(23247): -------- GLSL error:
+01-22 09:04:44.404: D/Unity(23247): Compile failed.
+01-22 09:04:44.404: D/Unity(23247): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+01-22 09:04:44.404: D/Unity(23247): ERROR: 0:8: 'return' : function return is not matching type
+01-22 09:04:44.404: D/Unity(23247): ERROR: 2 compilation errors. No code generated.
+01-22 09:04:44.404: D/Unity(23247): textureCubeLodEXT or textureCubeGradEXT usage detected.
+01-22 09:04:44.404: D/Unity(23247): GL_EXT_shader_texture_lod extension is buggy on PowerVR drivers.
+01-22 09:04:44.404: D/Unity(23247): replacing textureCubeLodEXT->textureCubeLod and textureCubeGradEXT->textureCubeGradARB as a workaround.
+01-22 09:04:44.411: D/Unity(23247): -------- Shader compilation failed
+01-22 09:04:44.411: D/Unity(23247): #version 100
+01-22 09:04:44.411: D/Unity(23247): #extension GL_EXT_shader_texture_lod : enable
+01-22 09:04:44.411: D/Unity(23247): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+01-22 09:04:44.411: D/Unity(23247): {
+01-22 09:04:44.411: D/Unity(23247): #if defined(GL_EXT_shader_texture_lod)
+01-22 09:04:44.411: D/Unity(23247): 	return textureCubeLodEXT(sampler, coord, lod);
+01-22 09:04:44.411: D/Unity(23247): #else
+01-22 09:04:44.411: D/Unity(23247): 	return textureCube(sampler, coord, lod);
+01-22 09:04:44.411: D/Unity(23247): #endif
+01-22 09:04:44.411: D/Unity(23247): }
+01-22 09:04:44.411: D/Unity(23247): uniform highp float _Level;
+01-22 09:04:44.411: D/Unity(23247): uniform lowp samplerCube _MainTex;
+01-22 09:04:44.411: D/Unity(23247): varying highp vec4 xlv_TEXCOORD0;
+01-22 09:04:44.411: D/Unity(23247): void main ()
+01-22 09:04:44.411: D/Unity(23247): {
+01-22 09:04:44.411: D/Unity(23247):   highp vec4 tmpvar_1;
+01-22 09:04:44.411: D/Unity(23247):   lowp vec4 tmpvar_2;
+01-22 09:04:44.411: D/Unity(23247):   tmpvar_2 = impl_low_textureCubeLodEXT (_MainTex, xlv_TEXCOORD0.xyz, _Level);
+01-22 09:04:44.411: D/Unity(23247):   tmpvar_1 = tmpvar_2;
+01-22 09:04:44.411: D/Unity(23247):   gl_FragData[0] = tmpvar_1;
+01-22 09:04:44.411: D/Unity(23247): }
+01-22 09:04:44.411: D/Unity(23247): -------- failed compiling:
+01-22 09:04:44.411: D/Unity(23247): fragment evaluation shader
+01-22 09:04:44.411: D/Unity(23247): -------- GLSL error:
+01-22 09:04:44.411: D/Unity(23247): Compile failed.
+01-22 09:04:44.411: D/Unity(23247): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+01-22 09:04:44.411: D/Unity(23247): ERROR: 0:8: 'return' : function return is not matching type
+01-22 09:04:44.411: D/Unity(23247): ERROR: 2 compilation errors. No code generated.
+01-22 09:04:44.411: D/Unity(23247): textureCubeLodEXT or textureCubeGradEXT usage detected.
+01-22 09:04:44.411: D/Unity(23247): GL_EXT_shader_texture_lod extension is buggy on PowerVR drivers.
+01-22 09:04:44.411: D/Unity(23247): replacing textureCubeLodEXT->textureCubeLod and textureCubeGradEXT->textureCubeGradARB as a workaround.
+01-22 09:04:44.501: D/Unity(23247): -------- Shader compilation failed
+01-22 09:04:44.502: D/Unity(23247): #version 100
+01-22 09:04:44.502: D/Unity(23247): #extension GL_EXT_shader_texture_lod : enable
+01-22 09:04:44.502: D/Unity(23247): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+01-22 09:04:44.502: D/Unity(23247): {
+01-22 09:04:44.502: D/Unity(23247): #if defined(GL_EXT_shader_texture_lod)
+01-22 09:04:44.502: D/Unity(23247): 	return textureCubeLodEXT(sampler, coord, lod);
+01-22 09:04:44.502: D/Unity(23247): #else
+01-22 09:04:44.502: D/Unity(23247): 	return textureCube(sampler, coord, lod);
+01-22 09:04:44.502: D/Unity(23247): #endif
+01-22 09:04:44.502: D/Unity(23247): }
+01-22 09:04:44.502: D/Unity(23247): uniform highp vec3 _WorldSpaceCameraPos;
+01-22 09:04:44.502: D/Unity(23247): uniform highp vec4 _ProjectionParams;
+01-22 09:04:44.502: D/Unity(23247): uniform highp vec4 _ZBufferParams;
+01-22 09:04:44.502: D/Unity(23247): uniform lowp samplerCube unity_SpecCube0;
+01-22 09:04:44.502: D/Unity(23247): uniform highp vec4 unity_SpecCube0_BoxMax;
+01-22 09:04:44.502: D/Unity(23247): uniform highp vec4 unity_SpecCube0_BoxMin;
+01-22 09:04:44.502: D/Unity(23247): uniform mediump vec4 unity_SpecCube0_HDR;
+01-22 09:04:44.502: D/Unity(23247): uniform highp vec4 unity_SpecCube1_ProbePosition;
+01-22 09:04:44.502: D/Unity(23247): uniform highp sampler2D _CameraDepthTexture;
+01-22 09:04:44.502: D/Unity(23247): uniform highp mat4 _CameraToWorld;
+01-22 09:04:44.502: D/Unity(23247): uniform sampler2D _CameraGBufferTexture0;
+01-22 09:04:44.502: D/Unity(23247): uniform sampler2D _CameraGBufferTexture1;
+01-22 09:04:44.502: D/Unity(23247): uniform sampler2D _CameraGBufferTexture2;
+01-22 09:04:44.502: D/Unity(23247): varying highp vec4 xlv_TEXCOORD0;
+01-22 09:04:44.502: D/Unity(23247): varying highp vec3 xlv_TEXCOORD1;
+01-22 09:04:44.502: D/Unity(23247): void main ()
+01-22 09:04:44.502: D/Unity(23247): {
+01-22 09:04:44.502: D/Unity(23247):   mediump vec3 worldNormalRefl_1;
+01-22 09:04:44.502: D/Unity(23247):   mediump vec4 gbuffer2_2;
+01-22 09:04:44.502: D/Unity(23247):   mediump vec4 gbuffer1_3;
+01-22 09:04:44.502: D/Unity(23247):   mediump vec4 gbuffer0_4;
+01-22 09:04:44.502: D/Unity(23247):   highp vec2 tmpvar_5;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_5 = (xlv_TEXCOORD0.xy / xlv_TEXCOORD0.w);
+01-22 09:04:44.502: D/Unity(23247):   highp vec4 tmpvar_6;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_6.w = 1.0;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_6.xyz = ((xlv_TEXCOORD1 * (_ProjectionParams.z / xlv_TEXCOORD1.z)) * (1.0/((
+01-22 09:04:44.502: D/Unity(23247):     (_ZBufferParams.x * texture2D (_CameraDepthTexture, tmpvar_5).x)
+01-22 09:04:44.502: D/Unity(23247):    + _ZBufferParams.y))));
+01-22 09:04:44.502: D/Unity(23247):   highp vec3 tmpvar_7;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_7 = (_CameraToWorld * tmpvar_6).xyz;
+01-22 09:04:44.502: D/Unity(23247):   lowp vec4 tmpvar_8;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_8 = texture2D (_CameraGBufferTexture0, tmpvar_5);
+01-22 09:04:44.502: D/Unity(23247):   gbuffer0_4 = tmpvar_8;
+01-22 09:04:44.502: D/Unity(23247):   lowp vec4 tmpvar_9;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_9 = texture2D (_CameraGBufferTexture1, tmpvar_5);
+01-22 09:04:44.502: D/Unity(23247):   gbuffer1_3 = tmpvar_9;
+01-22 09:04:44.502: D/Unity(23247):   lowp vec4 tmpvar_10;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_10 = texture2D (_CameraGBufferTexture2, tmpvar_5);
+01-22 09:04:44.502: D/Unity(23247):   gbuffer2_2 = tmpvar_10;
+01-22 09:04:44.502: D/Unity(23247):   mediump vec3 tmpvar_11;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_11 = normalize(((gbuffer2_2.xyz * 2.0) - 1.0));
+01-22 09:04:44.502: D/Unity(23247):   highp vec3 tmpvar_12;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_12 = normalize((tmpvar_7 - _WorldSpaceCameraPos));
+01-22 09:04:44.502: D/Unity(23247):   highp vec3 tmpvar_13;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_13 = (tmpvar_12 - (2.0 * (
+01-22 09:04:44.502: D/Unity(23247):     dot (tmpvar_11, tmpvar_12)
+01-22 09:04:44.502: D/Unity(23247):    * tmpvar_11)));
+01-22 09:04:44.502: D/Unity(23247):   worldNormalRefl_1 = tmpvar_13;
+01-22 09:04:44.502: D/Unity(23247):   mediump vec4 tmpvar_14;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_14.xyz = worldNormalRefl_1;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_14.w = (pow ((1.0 - gbuffer1_3.w), 0.75) * 7.0);
+01-22 09:04:44.502: D/Unity(23247):   lowp vec4 tmpvar_15;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_15 = impl_low_textureCubeLodEXT (unity_SpecCube0, worldNormalRefl_1, tmpvar_14.w);
+01-22 09:04:44.502: D/Unity(23247):   mediump vec4 tmpvar_16;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_16 = tmpvar_15;
+01-22 09:04:44.502: D/Unity(23247):   mediump vec3 viewDir_17;
+01-22 09:04:44.502: D/Unity(23247):   viewDir_17 = -(tmpvar_12);
+01-22 09:04:44.502: D/Unity(23247):   mediump float x_18;
+01-22 09:04:44.502: D/Unity(23247):   x_18 = (1.0 - max (0.0, dot (tmpvar_11, viewDir_17)));
+01-22 09:04:44.502: D/Unity(23247):   mediump vec4 tmpvar_19;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_19.w = 1.0;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_19.xyz = (((
+01-22 09:04:44.502: D/Unity(23247):     (unity_SpecCube0_HDR.x * tmpvar_16.w)
+01-22 09:04:44.502: D/Unity(23247):    * tmpvar_16.xyz) * gbuffer0_4.w) * mix (gbuffer1_3.xyz, vec3(clamp (
+01-22 09:04:44.502: D/Unity(23247):     (gbuffer1_3.w + (1.0 - (1.0 - max (
+01-22 09:04:44.502: D/Unity(23247):       max (gbuffer1_3.x, gbuffer1_3.y)
+01-22 09:04:44.502: D/Unity(23247):     , gbuffer1_3.z))))
+01-22 09:04:44.502: D/Unity(23247):   , 0.0, 1.0)), vec3((
+01-22 09:04:44.502: D/Unity(23247):     (x_18 * x_18)
+01-22 09:04:44.502: D/Unity(23247):    * 
+01-22 09:04:44.502: D/Unity(23247):     (x_18 * x_18)
+01-22 09:04:44.502: D/Unity(23247):   ))));
+01-22 09:04:44.502: D/Unity(23247):   mediump vec3 p_20;
+01-22 09:04:44.502: D/Unity(23247):   p_20 = tmpvar_7;
+01-22 09:04:44.502: D/Unity(23247):   mediump vec3 aabbMin_21;
+01-22 09:04:44.502: D/Unity(23247):   aabbMin_21 = unity_SpecCube0_BoxMin.xyz;
+01-22 09:04:44.502: D/Unity(23247):   mediump vec3 aabbMax_22;
+01-22 09:04:44.502: D/Unity(23247):   aabbMax_22 = unity_SpecCube0_BoxMax.xyz;
+01-22 09:04:44.502: D/Unity(23247):   mediump vec3 tmpvar_23;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_23 = max (max ((p_20 - aabbMax_22), (aabbMin_21 - p_20)), vec3(0.0, 0.0, 0.0));
+01-22 09:04:44.502: D/Unity(23247):   mediump float tmpvar_24;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_24 = sqrt(dot (tmpvar_23, tmpvar_23));
+01-22 09:04:44.502: D/Unity(23247):   mediump float tmpvar_25;
+01-22 09:04:44.502: D/Unity(23247):   highp float tmpvar_26;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_26 = clamp ((1.0 - (tmpvar_24 / unity_SpecCube1_ProbePosition.w)), 0.0, 1.0);
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_25 = tmpvar_26;
+01-22 09:04:44.502: D/Unity(23247):   mediump vec4 tmpvar_27;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_27.xyz = tmpvar_19.xyz;
+01-22 09:04:44.502: D/Unity(23247):   tmpvar_27.w = tmpvar_25;
+01-22 09:04:44.502: D/Unity(23247):   gl_FragData[0] = tmpvar_27;
+01-22 09:04:44.502: D/Unity(23247): }
+01-22 09:04:44.502: D/Unity(23247): -------- failed compiling:
+01-22 09:04:44.502: D/Unity(23247): fragment evaluation shader
+01-22 09:04:44.502: D/Unity(23247): -------- GLSL error:
+01-22 09:04:44.502: D/Unity(23247): Compile failed.
+01-22 09:04:44.502: D/Unity(23247): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+01-22 09:04:44.502: D/Unity(23247): ERROR: 0:8: 'return' : function return is not matching type
+01-22 09:04:44.502: D/Unity(23247): ERROR: 2 compilation errors. No code generated.
+01-22 09:04:44.503: D/Unity(23247): textureCubeLodEXT or textureCubeGradEXT usage detected.
+01-22 09:04:44.503: D/Unity(23247): GL_EXT_shader_texture_lod extension is buggy on PowerVR drivers.
+01-22 09:04:44.503: D/Unity(23247): replacing textureCubeLodEXT->textureCubeLod and textureCubeGradEXT->textureCubeGradARB as a workaround.
+01-22 09:04:44.512: D/Unity(23247): -------- Shader compilation failed
+01-22 09:04:44.512: D/Unity(23247): #version 100
+01-22 09:04:44.512: D/Unity(23247): #extension GL_EXT_shader_texture_lod : enable
+01-22 09:04:44.512: D/Unity(23247): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+01-22 09:04:44.512: D/Unity(23247): {
+01-22 09:04:44.512: D/Unity(23247): #if defined(GL_EXT_shader_texture_lod)
+01-22 09:04:44.512: D/Unity(23247): 	return textureCubeLodEXT(sampler, coord, lod);
+01-22 09:04:44.512: D/Unity(23247): #else
+01-22 09:04:44.512: D/Unity(23247): 	return textureCube(sampler, coord, lod);
+01-22 09:04:44.512: D/Unity(23247): #endif
+01-22 09:04:44.512: D/Unity(23247): }
+01-22 09:04:44.512: D/Unity(23247): uniform lowp samplerCube _MainTex;
+01-22 09:04:44.512: D/Unity(23247): uniform mediump float _Level;
+01-22 09:04:44.512: D/Unity(23247): varying mediump vec4 xlv_TEXCOORD0;
+01-22 09:04:44.512: D/Unity(23247): void main ()
+01-22 09:04:44.512: D/Unity(23247): {
+01-22 09:04:44.512: D/Unity(23247):   mediump vec4 tmpvar_1;
+01-22 09:04:44.512: D/Unity(23247):   lowp vec4 tmpvar_2;
+01-22 09:04:44.512: D/Unity(23247):   tmpvar_2 = impl_low_textureCubeLodEXT (_MainTex, xlv_TEXCOORD0.xyz, _Level);
+01-22 09:04:44.512: D/Unity(23247):   tmpvar_1 = tmpvar_2;
+01-22 09:04:44.512: D/Unity(23247):   gl_FragData[0] = tmpvar_1;
+01-22 09:04:44.512: D/Unity(23247): }
+01-22 09:04:44.512: D/Unity(23247): -------- failed compiling:
+01-22 09:04:44.512: D/Unity(23247): fragment evaluation shader
+01-22 09:04:44.512: D/Unity(23247): -------- GLSL error:
+01-22 09:04:44.512: D/Unity(23247): Compile failed.
+01-22 09:04:44.512: D/Unity(23247): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+01-22 09:04:44.512: D/Unity(23247): ERROR: 0:8: 'return' : function return is not matching type
+01-22 09:04:44.512: D/Unity(23247): ERROR: 2 compilation errors. No code generated.
+01-22 09:04:44.512: D/Unity(23247): textureCubeLodEXT or textureCubeGradEXT usage detected.
+01-22 09:04:44.512: D/Unity(23247): GL_EXT_shader_texture_lod extension is buggy on PowerVR drivers.
+01-22 09:04:44.512: D/Unity(23247): replacing textureCubeLodEXT->textureCubeLod and textureCubeGradEXT->textureCubeGradARB as a workaround.
+01-22 09:04:44.562: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.563: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.563: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.563: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.563: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.563: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.563: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.563: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.580: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.738: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.738: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.738: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.738: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.738: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.738: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.752: D/Unity(23247): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+01-22 09:04:44.774: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.781: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:44.878: D/Unity(23247): Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+01-22 09:04:45.070: I/Unity(23247): SOOMLA CoreEvents Initializing CoreEvents and Soomla Core ...
+01-22 09:04:45.070: I/Unity(23247): UnityEngine.Debug:Internal_Log(Int32, String, Object)
+01-22 09:04:45.070: I/Unity(23247): UnityEngine.Debug:Log(Object)
+01-22 09:04:45.070: I/Unity(23247): Soomla.SoomlaUtils:LogDebug(String, String) (at E:\Users\Unity3D\GooglePlus\Assets\Plugins\Soomla\Core\SoomlaUtils.cs:50)
+01-22 09:04:45.070: I/Unity(23247): Soomla.CoreEvents:Initialize() (at E:\Users\Unity3D\GooglePlus\Assets\Plugins\Soomla\Core\CoreEvents.cs:50)
+01-22 09:04:45.070: I/Unity(23247): Soomla.Profile.ProfileEvents:Initialize() (at E:\Users\Unity3D\GooglePlus\Assets\Plugins\Soomla\Profile\ProfileEvents.cs:61)
+01-22 09:04:45.070: I/Unity(23247): Soomla.Profile.SoomlaProfile:Initialize() (at E:\Users\Unity3D\GooglePlus\Assets\Plugins\Soomla\Profile\SoomlaProfile.cs:67)
+01-22 09:04:45.070: I/Unity(23247): SoomlaOperation:Start() (at E:\Users\Unity3D\GooglePlus\Assets\Scripts\SoomlaOperation.cs:168)
+01-22 09:04:45.070: I/Unity(23247):  
+01-22 09:04:45.070: I/Unity(23247): (Filename: E Line: 0)
+01-22 09:04:45.154: I/Unity(23247): SOOMLA ProfileEvents Initializing ProfileEvents ...
+01-22 09:04:45.154: I/Unity(23247): UnityEngine.Debug:Internal_Log(Int32, String, Object)
+01-22 09:04:45.154: I/Unity(23247): UnityEngine.Debug:Log(Object)
+01-22 09:04:45.154: I/Unity(23247): Soomla.SoomlaUtils:LogDebug(String, String) (at E:\Users\Unity3D\GooglePlus\Assets\Plugins\Soomla\Core\SoomlaUtils.cs:50)
+01-22 09:04:45.154: I/Unity(23247): Soomla.Profile.ProfileEvents:Initialize() (at E:\Users\Unity3D\GooglePlus\Assets\Plugins\Soomla\Profile\ProfileEvents.cs:64)
+01-22 09:04:45.154: I/Unity(23247): Soomla.Profile.SoomlaProfile:Initialize() (at E:\Users\Unity3D\GooglePlus\Assets\Plugins\Soomla\Profile\SoomlaProfile.cs:67)
+01-22 09:04:45.154: I/Unity(23247): SoomlaOperation:Start() (at E:\Users\Unity3D\GooglePlus\Assets\Scripts\SoomlaOperation.cs:168)
+01-22 09:04:45.154: I/Unity(23247):  
+01-22 09:04:45.154: I/Unity(23247): (Filename: E Line: 0)
+01-22 09:04:45.394: I/Unity(23247): SOOMLA ProfileEvents SOOMLA/UNITY onSoomlaProfileInitialized
+01-22 09:04:45.394: I/Unity(23247): UnityEngine.Debug:Internal_Log(Int32, String, Object)
+01-22 09:04:45.394: I/Unity(23247): UnityEngine.Debug:Log(Object)
+01-22 09:04:45.394: I/Unity(23247): Soomla.SoomlaUtils:LogDebug(String, String) (at E:\Users\Unity3D\GooglePlus\Assets\Plugins\Soomla\Core\SoomlaUtils.cs:50)
+01-22 09:04:45.394: I/Unity(23247): Soomla.Profile.ProfileEvents:onSoomlaProfileInitialized() (at E:\Users\Unity3D\GooglePlus\Assets\Plugins\Soomla\Profile\ProfileEvents.cs:84)
+01-22 09:04:45.394: I/Unity(23247):  
+01-22 09:04:45.394: I/Unity(23247): (Filename: E Line: 0)
+01-22 09:04:45.396: D/Unity(23247): Setting up 1 worker threads for Enlighten.
+01-22 09:04:45.399: D/Unity(23247):   Thread -> id: 61455520 -> priority: 1 
+01-22 09:04:45.403: I/Unity(23247): SoomlaOperation SoomlaProfile Initialized !
+01-22 09:04:45.403: I/Unity(23247): UnityEngine.Debug:Internal_Log(Int32, String, Object)
+01-22 09:04:45.403: I/Unity(23247): UnityEngine.Debug:Log(Object)
+01-22 09:04:45.403: I/Unity(23247): Soomla.SoomlaUtils:LogDebug(String, String) (at E:\Users\Unity3D\GooglePlus\Assets\Plugins\Soomla\Core\SoomlaUtils.cs:50)
+01-22 09:04:45.403: I/Unity(23247): SoomlaOperation:<Start>m__0() (at E:\Users\Unity3D\GooglePlus\Assets\Scripts\SoomlaOperation.cs:54)
+01-22 09:04:45.403: I/Unity(23247): Soomla.Profile.SoomlaProfile:TryFireProfileInitialized() (at E:\Users\Unity3D\GooglePlus\Assets\Plugins\Soomla\Profile\SoomlaProfile.cs:1078)
+01-22 09:04:45.403: I/Unity(23247): Soomla.Profile.ProfileEvents:onSoomlaProfileInitialized() (at E:\Users\Unity3D\GooglePlus\Assets\Plugins\Soomla\Profile\ProfileEvents.cs:87)
+01-22 09:04:45.403: I/Unity(23247):  
+01-22 09:04:45.403: I/Unity(23247): (Filename: E Line: 0)
+01-22 09:04:45.428: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.428: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.428: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.428: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.428: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.428: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.428: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.428: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.428: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.428: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.428: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.428: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.475: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.492: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.513: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.538: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.585: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.613: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.632: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.659: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.678: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.700: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.724: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.794: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.818: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.840: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.875: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.875: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.892: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.931: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.956: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:45.976: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.018: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.034: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.080: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.098: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.145: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.158: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.173: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.204: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.221: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.237: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.283: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.306: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.314: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.331: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.358: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.377: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.396: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.424: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.445: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.456: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.488: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.502: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.516: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.535: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.563: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.581: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.595: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.628: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.641: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.657: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.674: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.702: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.721: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.734: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.767: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.780: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.796: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.813: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.842: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.879: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.906: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.920: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.936: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.967: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:46.982: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.000: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.014: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.046: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.060: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.076: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.093: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.122: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.139: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.169: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.186: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.200: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.216: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.232: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.261: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.278: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.294: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.326: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.339: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.356: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.372: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.401: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.418: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.433: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.464: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.479: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.495: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.512: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.541: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.559: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.573: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.604: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.619: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.635: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.666: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.680: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.713: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.743: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.774: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.791: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.820: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.838: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.867: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.884: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:47.901: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.064: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.064: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.064: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.064: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.064: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.064: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.064: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.064: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.072: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.098: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.114: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.146: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.179: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.196: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.212: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.240: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.258: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.272: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.303: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.319: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.335: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.365: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.380: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.399: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.413: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.443: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.462: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.475: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.491: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.520: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.604: I/Unity(23247): SOOMLA SoomlaProfile Trying to login with provider google
+01-22 09:04:48.604: I/Unity(23247): UnityEngine.Debug:Internal_Log(Int32, String, Object)
+01-22 09:04:48.604: I/Unity(23247): UnityEngine.Debug:Log(Object)
+01-22 09:04:48.604: I/Unity(23247): Soomla.SoomlaUtils:LogDebug(String, String) (at E:\Users\Unity3D\GooglePlus\Assets\Plugins\Soomla\Core\SoomlaUtils.cs:50)
+01-22 09:04:48.604: I/Unity(23247): Soomla.Profile.SoomlaProfile:login(Provider, Boolean, String, Reward) (at E:\Users\Unity3D\GooglePlus\Assets\Plugins\Soomla\Profile\SoomlaProfile.cs:155)
+01-22 09:04:48.604: I/Unity(23247): Soomla.Profile.SoomlaProfile:Login(Provider, String, Reward) (at E:\Users\Unity3D\GooglePlus\Assets\Plugins\Soomla\Profile\SoomlaProfile.cs:151)
+01-22 09:04:48.604: I/Unity(23247): SoomlaOperation:OnGoogleLogin() (at E:\Users\Unity3D\GooglePlus\Assets\Scripts\SoomlaOperation.cs:262)
+01-22 09:04:48.604: I/Unity(23247): UnityEngine.Events.InvokableCall:Invoke(Object[])
+01-22 09:04:48.604: I/Unity(23247): UnityEngine.Events.InvokableCallList:Invoke(Object[])
+01-22 09:04:48.604: I/Unity(23247): UnityEngine.Events.UnityEventBase:Invoke(Object[])
+01-22 09:04:48.604: I/Unity(23247): UnityEngine.Events.UnityEvent:Invoke()
+01-22 09:04:48.604: I/Unity(23247): UnityEngine.UI.Button:Press() (at C:\buildslave\unity\build\Extensions\guisystem\UnityEngine.UI\UI\Core\Button.cs:35)
+01-22 09:04:48.604: I/Unity(23247): UnityEngine.UI.Button:OnPointerClick(PointerE
+01-22 09:04:48.619: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.619: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.619: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.619: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.657: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.657: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.673: D/Unity(23247): Unknown event structure (0)
+01-22 09:04:48.694: I/Unity(23247): SOOMLA ProfileEvents SOOMLA/UNITY onLoginStarted
+01-22 09:04:48.694: I/Unity(23247): UnityEngine.Debug:Internal_Log(Int32, String, Object)
+01-22 09:04:48.694: I/Unity(23247): UnityEngine.Debug:Log(Object)
+01-22 09:04:48.694: I/Unity(23247): Soomla.SoomlaUtils:LogDebug(String, String) (at E:\Users\Unity3D\GooglePlus\Assets\Plugins\Soomla\Core\SoomlaUtils.cs:50)
+01-22 09:04:48.694: I/Unity(23247): Soomla.Profile.ProfileEvents:onLoginStarted(String) (at E:\Users\Unity3D\GooglePlus\Assets\Plugins\Soomla\Profile\ProfileEvents.cs:124)
+01-22 09:04:48.694: I/Unity(23247):  
+01-22 09:04:48.694: I/Unity(23247): (Filename: E Line: 0)
+01-22 09:04:48.707: I/Unity(23247): onPause
+01-22 09:04:48.732: I/Unity(23247): SoomlaOperation SoomlaProfile - OnLoginStarted !
+01-22 09:04:48.732: I/Unity(23247): UnityEngine.Debug:Internal_Log(Int32, String, Object)
+01-22 09:04:48.732: I/Unity(23247): UnityEngine.Debug:Log(Object)
+01-22 09:04:48.732: I/Unity(23247): Soomla.SoomlaUtils:LogDebug(String, String) (at E:\Users\Unity3D\GooglePlus\Assets\Plugins\Soomla\Core\SoomlaUtils.cs:50)
+01-22 09:04:48.732: I/Unity(23247): SoomlaOperation:<Start>m__1(Provider, Boolean, String) (at E:\Users\Unity3D\GooglePlus\Assets\Scripts\SoomlaOperation.cs:58)
+01-22 09:04:48.732: I/Unity(23247): Soomla.Profile.ProfileEvents:onLoginStarted(String) (at E:\Users\Unity3D\GooglePlus\Assets\Plugins\Soomla\Profile\ProfileEvents.cs:132)
+01-22 09:04:48.732: I/Unity(23247):  
+01-22 09:04:48.732: I/Unity(23247): (Filename: E Line: 0)
+01-22 09:04:48.759: D/Unity(23247): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
