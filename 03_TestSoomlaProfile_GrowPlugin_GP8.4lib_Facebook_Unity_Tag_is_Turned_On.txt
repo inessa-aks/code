@@ -1,0 +1,1257 @@
+01-31 22:42:29.695: I/Unity(31887): splash_mode = 0 (integer)
+01-31 22:42:29.695: I/Unity(31887): hide_status_bar = True (bool)
+01-31 22:42:29.695: I/Unity(31887): useObb = False (bool)
+01-31 22:42:29.724: D/Unity(31887): surfaces: attach glview
+01-31 22:42:29.729: I/Unity(31887): Choreographer available: Enabling VSYNC timing
+01-31 22:42:29.736: I/Unity(31887): onResume
+01-31 22:42:29.775: D/Unity(31887): [EGL] Attaching window :0x5cb11b00
+01-31 22:42:29.775: D/Unity(31887): [EGL] Attaching window :0x5cb11b00
+01-31 22:42:29.824: I/Unity(31887): windowFocusChanged: true
+01-31 22:42:29.852: D/Unity(31887): SystemInfo CPU = ARMv7 VFPv3 NEON, Cores = 4, Memory = 1983mb
+01-31 22:42:29.852: D/Unity(31887): SystemInfo ARM big.LITTLE configuration: 4 big (mask: 15), 0 little (mask: 0)
+01-31 22:42:30.589: D/Unity(31887): [SHA1] fec4b90a554551162d55c21dc542ea96d053ce36   21483059 bytes ~ lib/armeabi-v7a/libunity.so
+01-31 22:42:30.591: D/Unity(31887): [SHA1] 3751d6eefb61279a6ebac91ce6eb16f88bfd5faf      44013 bytes ~ lib/armeabi-v7a/libmain.so
+01-31 22:42:30.705: D/Unity(31887): [SHA1] 3f9c6aadd03554cd6a4a07defc46c12444437e5b    3758496 bytes ~ lib/armeabi-v7a/libmono.so
+01-31 22:42:31.542: D/Unity(31887): [SHA1] 045045246166a443ea20b6cd3230e74f1ac7b939   25204615 bytes ~ lib/x86/libunity.so
+01-31 22:42:31.543: D/Unity(31887): [SHA1] 00907983a931d823290fabbba9a80ada7e3c0a53      27052 bytes ~ lib/x86/libmain.so
+01-31 22:42:31.670: D/Unity(31887): [SHA1] c3f02aff64c835e59f1c6391ab9999d1286acf4f    3636444 bytes ~ lib/x86/libmono.so
+01-31 22:42:31.671: D/Unity(31887): Mono path[0] = '/mnt/asec/com.soomla.test3-1/pkg.apk/assets/bin/Data/Managed'
+01-31 22:42:31.671: D/Unity(31887): Mono config path = 'assets/bin/Data/Managed'
+01-31 22:42:31.671: D/Unity(31887): PlayerConnection initialized from /mnt/asec/com.soomla.test3-1/pkg.apk/assets/bin/Data (debug = 0)
+01-31 22:42:31.672: D/Unity(31887): PlayerConnection initialized network socket : 0.0.0.0 55395
+01-31 22:42:31.672: D/Unity(31887): PlayerConnection initialized unix socket : Unity-com.soomla.test3
+01-31 22:42:31.672: D/Unity(31887): Multi-casting "[IP] 192.168.0.101 [Port] 55395 [Flags] 2 [Guid] 99813740 [EditorId] 3841434838 [Version] 1048832 [Id] AndroidPlayer(JYT_JY-G5@192.168.0.101) [Debug] 0" to [225.0.0.222:54997]...
+01-31 22:42:31.772: D/Unity(31887): InitializeScriptEngine OK (5f85aee0)
+01-31 22:42:31.773: D/Unity(31887): PlayerConnection already initialized - listening to [192.168.0.101:55395]
+01-31 22:42:31.800: D/Unity(31887): PlayerInitEngineNoGraphics OK
+01-31 22:42:31.814: D/Unity(31887): [EGL] Request: ES 2.0 RGB0 000 0/0
+01-31 22:42:31.816: D/Unity(31887): [EGL] Found: ID[21] ES 2.0 RGB16 565 0/0
+01-31 22:42:31.816: D/Unity(31887): [EGL] Request: ES 2.0 RGB0 000 0/0
+01-31 22:42:31.817: D/Unity(31887): [EGL] Found: ID[21] ES 2.0 RGB16 565 0/0
+01-31 22:42:31.817: D/Unity(31887): [EGL] Request: ES 2.0 RGBA32 8888 0/0
+01-31 22:42:31.819: D/Unity(31887): [EGL] Found: ID[15] ES 2.0 RGBA32 8888 0/0
+01-31 22:42:31.825: D/Unity(31887): ANativeWindow: (720/1280) RequestedResolution: (0/0) EGLSurface: (720/1280)
+01-31 22:42:31.837: D/Unity(31887): Renderer: PowerVR SGX 544MP
+01-31 22:42:31.837: D/Unity(31887): Vendor:   Imagination Technologies
+01-31 22:42:31.837: D/Unity(31887): Version:  OpenGL ES 2.0 build 1.9@2204701
+01-31 22:42:31.837: D/Unity(31887): GLES:     2
+01-31 22:42:31.837: D/Unity(31887): GL_EXT_debug_marker GL_OES_rgb8_rgba8 GL_OES_depth24 GL_OES_vertex_half_float GL_OES_texture_float GL_OES_texture_half_float GL_OES_element_index_uint GL_OES_mapbuffer GL_OES_fragment_precision_high GL_OES_compressed_ETC1_RGB8_texture GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_required_internalformat GL_OES_depth_texture GL_OES_get_program_binary GL_OES_packed_depth_stencil GL_OES_standard_derivatives GL_OES_vertex_array_object GL_OES_egl_sync GL_OES_texture_npot GL_EXT_multi_draw_arrays GL_EXT_texture_format_BGRA8888 GL_EXT_discard_framebuffer GL_EXT_shader_texture_lod GL_IMG_shader_binary GL_IMG_texture_compression_pvrtc GL_IMG_texture_compression_pvrtc2 GL_IMG_texture_npot GL_IMG_texture_format_BGRA8888 GL_IMG_read_format GL_IMG_program_binary GL_IMG_uniform_buffer_object GL_IMG_multisampled_render_to_texture
+01-31 22:42:31.901: D/Unity(31887): ETC2 0
+01-31 22:42:31.901: D/Unity(31887): OPENGL LOG: Creating OpenGL ES 2.0 graphics device
+01-31 22:42:31.902: D/Unity(31887): InitializeGfxDevice OK
+01-31 22:42:31.902: D/Unity(31887): Initialize engine version: 5.2.2p1 (6dd5cd7ea574)
+01-31 22:42:31.984: D/Unity(31887): AudioManager: Selecting AudioTrack output...
+01-31 22:42:31.994: D/Unity(31887): Begin MonoManager ReloadAssembly
+01-31 22:42:32.012: D/Unity(31887): Platform assembly: /mnt/asec/com.soomla.test3-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.dll (this message is harmless)
+01-31 22:42:32.020: D/Unity(31887): Loading /mnt/asec/com.soomla.test3-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.dll into Unity Child Domain
+01-31 22:42:32.088: D/Unity(31887): Platform assembly: /mnt/asec/com.soomla.test3-1/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp-firstpass.dll (this message is harmless)
+01-31 22:42:32.091: D/Unity(31887): Loading /mnt/asec/com.soomla.test3-1/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp-firstpass.dll into Unity Child Domain
+01-31 22:42:32.092: D/Unity(31887): Platform assembly: /mnt/asec/com.soomla.test3-1/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp.dll (this message is harmless)
+01-31 22:42:32.093: D/Unity(31887): Loading /mnt/asec/com.soomla.test3-1/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp.dll into Unity Child Domain
+01-31 22:42:32.098: D/Unity(31887): Platform assembly: /mnt/asec/com.soomla.test3-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.UI.dll (this message is harmless)
+01-31 22:42:32.100: D/Unity(31887): Loading /mnt/asec/com.soomla.test3-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.UI.dll into Unity Child Domain
+01-31 22:42:32.105: D/Unity(31887): Platform assembly: /mnt/asec/com.soomla.test3-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.Networking.dll (this message is harmless)
+01-31 22:42:32.107: D/Unity(31887): Loading /mnt/asec/com.soomla.test3-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.Networking.dll into Unity Child Domain
+01-31 22:42:32.111: D/Unity(31887): Platform assembly: /mnt/asec/com.soomla.test3-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.Networking.dll (this message is harmless)
+01-31 22:42:32.113: D/Unity(31887): Loading /mnt/asec/com.soomla.test3-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.Networking.dll into Unity Child Domain
+01-31 22:42:32.118: D/Unity(31887): Platform assembly: /mnt/asec/com.soomla.test3-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.UI.dll (this message is harmless)
+01-31 22:42:32.121: D/Unity(31887): Loading /mnt/asec/com.soomla.test3-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.UI.dll into Unity Child Domain
+01-31 22:42:32.122: D/Unity(31887): Platform assembly: /mnt/asec/com.soomla.test3-1/pkg.apk/assets/bin/Data/Managed/GrowIntegration.dll (this message is harmless)
+01-31 22:42:32.122: D/Unity(31887): Loading /mnt/asec/com.soomla.test3-1/pkg.apk/assets/bin/Data/Managed/GrowIntegration.dll into Unity Child Domain
+01-31 22:42:32.155: D/Unity(31887): Platform assembly: /mnt/asec/com.soomla.test3-1/pkg.apk/assets/bin/Data/Managed/System.Core.dll (this message is harmless)
+01-31 22:42:32.165: D/Unity(31887): - Completed reload, in  0.172 seconds
+01-31 22:42:32.169: D/Unity(31887): PlayerInitEngineGraphics OK
+01-31 22:42:32.169: D/Unity(31887): Found 10 native sensors
+01-31 22:42:32.171: D/Unity(31887): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+01-31 22:42:32.172: D/Unity(31887): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+01-31 22:42:32.181: D/Unity(31887): Requested framebuffer: resolution[720x1280], rgba[8/8/8/8], depth+stencil[on], samples[1]
+01-31 22:42:32.190: D/Unity(31887): Created framebuffer: resolution[720x1280], rgba[8/8/8/8], depth+stencil[24/8], samples[0] 
+01-31 22:42:32.362: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:32.362: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:32.362: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:32.362: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:32.362: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:32.436: D/Unity(31887): Platform assembly: /mnt/asec/com.soomla.test3-1/pkg.apk/assets/bin/Data/Managed/System.dll (this message is harmless)
+01-31 22:42:32.782: D/Unity(31887): -------- Shader compilation failed
+01-31 22:42:32.782: D/Unity(31887): #version 100
+01-31 22:42:32.782: D/Unity(31887): #extension GL_EXT_shader_texture_lod : enable
+01-31 22:42:32.782: D/Unity(31887): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+01-31 22:42:32.782: D/Unity(31887): {
+01-31 22:42:32.782: D/Unity(31887): #if defined(GL_EXT_shader_texture_lod)
+01-31 22:42:32.782: D/Unity(31887): 	return textureCubeLodEXT(sampler, coord, lod);
+01-31 22:42:32.782: D/Unity(31887): #else
+01-31 22:42:32.782: D/Unity(31887): 	return textureCube(sampler, coord, lod);
+01-31 22:42:32.782: D/Unity(31887): #endif
+01-31 22:42:32.782: D/Unity(31887): }
+01-31 22:42:32.782: D/Unity(31887): uniform mediump vec4 _TexA_HDR;
+01-31 22:42:32.782: D/Unity(31887): uniform mediump vec4 _TexB_HDR;
+01-31 22:42:32.782: D/Unity(31887): uniform lowp samplerCube _TexA;
+01-31 22:42:32.782: D/Unity(31887): uniform lowp samplerCube _TexB;
+01-31 22:42:32.782: D/Unity(31887): uniform highp float _Level;
+01-31 22:42:32.782: D/Unity(31887): uniform highp float _value;
+01-31 22:42:32.782: D/Unity(31887): varying highp vec3 xlv_TEXCOORD0;
+01-31 22:42:32.782: D/Unity(31887): void main ()
+01-31 22:42:32.782: D/Unity(31887): {
+01-31 22:42:32.782: D/Unity(31887):   mediump vec3 res_1;
+01-31 22:42:32.782: D/Unity(31887):   mediump vec4 tmpvar_2;
+01-31 22:42:32.782: D/Unity(31887):   lowp vec4 tmpvar_3;
+01-31 22:42:32.782: D/Unity(31887):   tmpvar_3 = impl_low_textureCubeLodEXT (_TexA, xlv_TEXCOORD0, _Level);
+01-31 22:42:32.782: D/Unity(31887):   tmpvar_2 = tmpvar_3;
+01-31 22:42:32.782: D/Unity(31887):   mediump vec3 tmpvar_4;
+01-31 22:42:32.782: D/Unity(31887):   tmpvar_4 = ((_TexA_HDR.x * tmpvar_2.w) * tmpvar_2.xyz);
+01-31 22:42:32.782: D/Unity(31887):   mediump vec4 tmpvar_5;
+01-31 22:42:32.782: D/Unity(31887):   lowp vec4 tmpvar_6;
+01-31 22:42:32.782: D/Unity(31887):   tmpvar_6 = impl_low_textureCubeLodEXT (_TexB, xlv_TEXCOORD0, _Level);
+01-31 22:42:32.782: D/Unity(31887):   tmpvar_5 = tmpvar_6;
+01-31 22:42:32.782: D/Unity(31887):   mediump vec3 tmpvar_7;
+01-31 22:42:32.782: D/Unity(31887):   tmpvar_7 = ((_TexB_HDR.x * tmpvar_5.w) * tmpvar_5.xyz);
+01-31 22:42:32.782: D/Unity(31887):   highp vec3 tmpvar_8;
+01-31 22:42:32.782: D/Unity(31887):   tmpvar_8 = mix (tmpvar_4, tmpvar_7, vec3(_value));
+01-31 22:42:32.782: D/Unity(31887):   res_1 = tmpvar_8;
+01-31 22:42:32.782: D/Unity(31887):   mediump vec4 tmpvar_9;
+01-31 22:42:32.782: D/Unity(31887):   tmpvar_9.w = 1.0;
+01-31 22:42:32.782: D/Unity(31887):   tmpvar_9.xyz = res_1;
+01-31 22:42:32.782: D/Unity(31887):   gl_FragData[0] = tmpvar_9;
+01-31 22:42:32.782: D/Unity(31887): }
+01-31 22:42:32.782: D/Unity(31887): -------- failed compiling:
+01-31 22:42:32.782: D/Unity(31887): fragment evaluation shader
+01-31 22:42:32.782: D/Unity(31887): -------- GLSL error:
+01-31 22:42:32.782: D/Unity(31887): Compile failed.
+01-31 22:42:32.782: D/Unity(31887): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+01-31 22:42:32.782: D/Unity(31887): ERROR: 0:8: 'return' : function return is not matching type
+01-31 22:42:32.782: D/Unity(31887): ERROR: 2 compilation errors. No code generated.
+01-31 22:42:32.782: D/Unity(31887): textureCubeLodEXT or textureCubeGradEXT usage detected.
+01-31 22:42:32.782: D/Unity(31887): GL_EXT_shader_texture_lod extension is buggy on PowerVR drivers.
+01-31 22:42:32.782: D/Unity(31887): replacing textureCubeLodEXT->textureCubeLod and textureCubeGradEXT->textureCubeGradARB as a workaround.
+01-31 22:42:32.788: D/Unity(31887): -------- Shader compilation failed
+01-31 22:42:32.788: D/Unity(31887): #version 100
+01-31 22:42:32.788: D/Unity(31887): #extension GL_EXT_shader_texture_lod : enable
+01-31 22:42:32.788: D/Unity(31887): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+01-31 22:42:32.788: D/Unity(31887): {
+01-31 22:42:32.788: D/Unity(31887): #if defined(GL_EXT_shader_texture_lod)
+01-31 22:42:32.788: D/Unity(31887): 	return textureCubeLodEXT(sampler, coord, lod);
+01-31 22:42:32.788: D/Unity(31887): #else
+01-31 22:42:32.788: D/Unity(31887): 	return textureCube(sampler, coord, lod);
+01-31 22:42:32.788: D/Unity(31887): #endif
+01-31 22:42:32.788: D/Unity(31887): }
+01-31 22:42:32.788: D/Unity(31887): uniform highp float _Level;
+01-31 22:42:32.788: D/Unity(31887): uniform lowp samplerCube _MainTex;
+01-31 22:42:32.788: D/Unity(31887): varying highp vec4 xlv_TEXCOORD0;
+01-31 22:42:32.788: D/Unity(31887): void main ()
+01-31 22:42:32.788: D/Unity(31887): {
+01-31 22:42:32.788: D/Unity(31887):   highp vec4 tmpvar_1;
+01-31 22:42:32.788: D/Unity(31887):   lowp vec4 tmpvar_2;
+01-31 22:42:32.788: D/Unity(31887):   tmpvar_2 = impl_low_textureCubeLodEXT (_MainTex, xlv_TEXCOORD0.xyz, _Level);
+01-31 22:42:32.788: D/Unity(31887):   tmpvar_1 = tmpvar_2;
+01-31 22:42:32.788: D/Unity(31887):   gl_FragData[0] = tmpvar_1;
+01-31 22:42:32.788: D/Unity(31887): }
+01-31 22:42:32.788: D/Unity(31887): -------- failed compiling:
+01-31 22:42:32.788: D/Unity(31887): fragment evaluation shader
+01-31 22:42:32.788: D/Unity(31887): -------- GLSL error:
+01-31 22:42:32.788: D/Unity(31887): Compile failed.
+01-31 22:42:32.788: D/Unity(31887): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+01-31 22:42:32.788: D/Unity(31887): ERROR: 0:8: 'return' : function return is not matching type
+01-31 22:42:32.788: D/Unity(31887): ERROR: 2 compilation errors. No code generated.
+01-31 22:42:32.788: D/Unity(31887): textureCubeLodEXT or textureCubeGradEXT usage detected.
+01-31 22:42:32.788: D/Unity(31887): GL_EXT_shader_texture_lod extension is buggy on PowerVR drivers.
+01-31 22:42:32.788: D/Unity(31887): replacing textureCubeLodEXT->textureCubeLod and textureCubeGradEXT->textureCubeGradARB as a workaround.
+01-31 22:42:32.880: D/Unity(31887): -------- Shader compilation failed
+01-31 22:42:32.880: D/Unity(31887): #version 100
+01-31 22:42:32.880: D/Unity(31887): #extension GL_EXT_shader_texture_lod : enable
+01-31 22:42:32.880: D/Unity(31887): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+01-31 22:42:32.880: D/Unity(31887): {
+01-31 22:42:32.880: D/Unity(31887): #if defined(GL_EXT_shader_texture_lod)
+01-31 22:42:32.880: D/Unity(31887): 	return textureCubeLodEXT(sampler, coord, lod);
+01-31 22:42:32.880: D/Unity(31887): #else
+01-31 22:42:32.880: D/Unity(31887): 	return textureCube(sampler, coord, lod);
+01-31 22:42:32.880: D/Unity(31887): #endif
+01-31 22:42:32.880: D/Unity(31887): }
+01-31 22:42:32.880: D/Unity(31887): uniform highp vec3 _WorldSpaceCameraPos;
+01-31 22:42:32.880: D/Unity(31887): uniform highp vec4 _ProjectionParams;
+01-31 22:42:32.880: D/Unity(31887): uniform highp vec4 _ZBufferParams;
+01-31 22:42:32.880: D/Unity(31887): uniform lowp samplerCube unity_SpecCube0;
+01-31 22:42:32.880: D/Unity(31887): uniform highp vec4 unity_SpecCube0_BoxMax;
+01-31 22:42:32.880: D/Unity(31887): uniform highp vec4 unity_SpecCube0_BoxMin;
+01-31 22:42:32.880: D/Unity(31887): uniform mediump vec4 unity_SpecCube0_HDR;
+01-31 22:42:32.880: D/Unity(31887): uniform highp vec4 unity_SpecCube1_ProbePosition;
+01-31 22:42:32.880: D/Unity(31887): uniform highp sampler2D _CameraDepthTexture;
+01-31 22:42:32.880: D/Unity(31887): uniform highp mat4 _CameraToWorld;
+01-31 22:42:32.880: D/Unity(31887): uniform sampler2D _CameraGBufferTexture0;
+01-31 22:42:32.880: D/Unity(31887): uniform sampler2D _CameraGBufferTexture1;
+01-31 22:42:32.880: D/Unity(31887): uniform sampler2D _CameraGBufferTexture2;
+01-31 22:42:32.880: D/Unity(31887): varying highp vec4 xlv_TEXCOORD0;
+01-31 22:42:32.880: D/Unity(31887): varying highp vec3 xlv_TEXCOORD1;
+01-31 22:42:32.880: D/Unity(31887): void main ()
+01-31 22:42:32.880: D/Unity(31887): {
+01-31 22:42:32.880: D/Unity(31887):   mediump vec3 worldNormalRefl_1;
+01-31 22:42:32.880: D/Unity(31887):   mediump vec4 gbuffer2_2;
+01-31 22:42:32.880: D/Unity(31887):   mediump vec4 gbuffer1_3;
+01-31 22:42:32.880: D/Unity(31887):   mediump vec4 gbuffer0_4;
+01-31 22:42:32.880: D/Unity(31887):   highp vec2 tmpvar_5;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_5 = (xlv_TEXCOORD0.xy / xlv_TEXCOORD0.w);
+01-31 22:42:32.880: D/Unity(31887):   highp vec4 tmpvar_6;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_6.w = 1.0;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_6.xyz = ((xlv_TEXCOORD1 * (_ProjectionParams.z / xlv_TEXCOORD1.z)) * (1.0/((
+01-31 22:42:32.880: D/Unity(31887):     (_ZBufferParams.x * texture2D (_CameraDepthTexture, tmpvar_5).x)
+01-31 22:42:32.880: D/Unity(31887):    + _ZBufferParams.y))));
+01-31 22:42:32.880: D/Unity(31887):   highp vec3 tmpvar_7;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_7 = (_CameraToWorld * tmpvar_6).xyz;
+01-31 22:42:32.880: D/Unity(31887):   lowp vec4 tmpvar_8;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_8 = texture2D (_CameraGBufferTexture0, tmpvar_5);
+01-31 22:42:32.880: D/Unity(31887):   gbuffer0_4 = tmpvar_8;
+01-31 22:42:32.880: D/Unity(31887):   lowp vec4 tmpvar_9;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_9 = texture2D (_CameraGBufferTexture1, tmpvar_5);
+01-31 22:42:32.880: D/Unity(31887):   gbuffer1_3 = tmpvar_9;
+01-31 22:42:32.880: D/Unity(31887):   lowp vec4 tmpvar_10;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_10 = texture2D (_CameraGBufferTexture2, tmpvar_5);
+01-31 22:42:32.880: D/Unity(31887):   gbuffer2_2 = tmpvar_10;
+01-31 22:42:32.880: D/Unity(31887):   mediump vec3 tmpvar_11;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_11 = normalize(((gbuffer2_2.xyz * 2.0) - 1.0));
+01-31 22:42:32.880: D/Unity(31887):   highp vec3 tmpvar_12;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_12 = normalize((tmpvar_7 - _WorldSpaceCameraPos));
+01-31 22:42:32.880: D/Unity(31887):   highp vec3 tmpvar_13;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_13 = (tmpvar_12 - (2.0 * (
+01-31 22:42:32.880: D/Unity(31887):     dot (tmpvar_11, tmpvar_12)
+01-31 22:42:32.880: D/Unity(31887):    * tmpvar_11)));
+01-31 22:42:32.880: D/Unity(31887):   worldNormalRefl_1 = tmpvar_13;
+01-31 22:42:32.880: D/Unity(31887):   mediump vec4 tmpvar_14;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_14.xyz = worldNormalRefl_1;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_14.w = (pow ((1.0 - gbuffer1_3.w), 0.75) * 7.0);
+01-31 22:42:32.880: D/Unity(31887):   lowp vec4 tmpvar_15;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_15 = impl_low_textureCubeLodEXT (unity_SpecCube0, worldNormalRefl_1, tmpvar_14.w);
+01-31 22:42:32.880: D/Unity(31887):   mediump vec4 tmpvar_16;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_16 = tmpvar_15;
+01-31 22:42:32.880: D/Unity(31887):   mediump vec3 viewDir_17;
+01-31 22:42:32.880: D/Unity(31887):   viewDir_17 = -(tmpvar_12);
+01-31 22:42:32.880: D/Unity(31887):   mediump float x_18;
+01-31 22:42:32.880: D/Unity(31887):   x_18 = (1.0 - max (0.0, dot (tmpvar_11, viewDir_17)));
+01-31 22:42:32.880: D/Unity(31887):   mediump vec4 tmpvar_19;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_19.w = 1.0;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_19.xyz = (((
+01-31 22:42:32.880: D/Unity(31887):     (unity_SpecCube0_HDR.x * tmpvar_16.w)
+01-31 22:42:32.880: D/Unity(31887):    * tmpvar_16.xyz) * gbuffer0_4.w) * mix (gbuffer1_3.xyz, vec3(clamp (
+01-31 22:42:32.880: D/Unity(31887):     (gbuffer1_3.w + (1.0 - (1.0 - max (
+01-31 22:42:32.880: D/Unity(31887):       max (gbuffer1_3.x, gbuffer1_3.y)
+01-31 22:42:32.880: D/Unity(31887):     , gbuffer1_3.z))))
+01-31 22:42:32.880: D/Unity(31887):   , 0.0, 1.0)), vec3((
+01-31 22:42:32.880: D/Unity(31887):     (x_18 * x_18)
+01-31 22:42:32.880: D/Unity(31887):    * 
+01-31 22:42:32.880: D/Unity(31887):     (x_18 * x_18)
+01-31 22:42:32.880: D/Unity(31887):   ))));
+01-31 22:42:32.880: D/Unity(31887):   mediump vec3 p_20;
+01-31 22:42:32.880: D/Unity(31887):   p_20 = tmpvar_7;
+01-31 22:42:32.880: D/Unity(31887):   mediump vec3 aabbMin_21;
+01-31 22:42:32.880: D/Unity(31887):   aabbMin_21 = unity_SpecCube0_BoxMin.xyz;
+01-31 22:42:32.880: D/Unity(31887):   mediump vec3 aabbMax_22;
+01-31 22:42:32.880: D/Unity(31887):   aabbMax_22 = unity_SpecCube0_BoxMax.xyz;
+01-31 22:42:32.880: D/Unity(31887):   mediump vec3 tmpvar_23;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_23 = max (max ((p_20 - aabbMax_22), (aabbMin_21 - p_20)), vec3(0.0, 0.0, 0.0));
+01-31 22:42:32.880: D/Unity(31887):   mediump float tmpvar_24;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_24 = sqrt(dot (tmpvar_23, tmpvar_23));
+01-31 22:42:32.880: D/Unity(31887):   mediump float tmpvar_25;
+01-31 22:42:32.880: D/Unity(31887):   highp float tmpvar_26;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_26 = clamp ((1.0 - (tmpvar_24 / unity_SpecCube1_ProbePosition.w)), 0.0, 1.0);
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_25 = tmpvar_26;
+01-31 22:42:32.880: D/Unity(31887):   mediump vec4 tmpvar_27;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_27.xyz = tmpvar_19.xyz;
+01-31 22:42:32.880: D/Unity(31887):   tmpvar_27.w = tmpvar_25;
+01-31 22:42:32.880: D/Unity(31887):   gl_FragData[0] = tmpvar_27;
+01-31 22:42:32.880: D/Unity(31887): }
+01-31 22:42:32.880: D/Unity(31887): -------- failed compiling:
+01-31 22:42:32.880: D/Unity(31887): fragment evaluation shader
+01-31 22:42:32.880: D/Unity(31887): -------- GLSL error:
+01-31 22:42:32.880: D/Unity(31887): Compile failed.
+01-31 22:42:32.880: D/Unity(31887): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+01-31 22:42:32.880: D/Unity(31887): ERROR: 0:8: 'return' : function return is not matching type
+01-31 22:42:32.880: D/Unity(31887): ERROR: 2 compilation errors. No code generated.
+01-31 22:42:32.880: D/Unity(31887): textureCubeLodEXT or textureCubeGradEXT usage detected.
+01-31 22:42:32.880: D/Unity(31887): GL_EXT_shader_texture_lod extension is buggy on PowerVR drivers.
+01-31 22:42:32.880: D/Unity(31887): replacing textureCubeLodEXT->textureCubeLod and textureCubeGradEXT->textureCubeGradARB as a workaround.
+01-31 22:42:32.890: D/Unity(31887): -------- Shader compilation failed
+01-31 22:42:32.890: D/Unity(31887): #version 100
+01-31 22:42:32.890: D/Unity(31887): #extension GL_EXT_shader_texture_lod : enable
+01-31 22:42:32.890: D/Unity(31887): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+01-31 22:42:32.890: D/Unity(31887): {
+01-31 22:42:32.890: D/Unity(31887): #if defined(GL_EXT_shader_texture_lod)
+01-31 22:42:32.890: D/Unity(31887): 	return textureCubeLodEXT(sampler, coord, lod);
+01-31 22:42:32.890: D/Unity(31887): #else
+01-31 22:42:32.890: D/Unity(31887): 	return textureCube(sampler, coord, lod);
+01-31 22:42:32.890: D/Unity(31887): #endif
+01-31 22:42:32.890: D/Unity(31887): }
+01-31 22:42:32.890: D/Unity(31887): uniform lowp samplerCube _MainTex;
+01-31 22:42:32.890: D/Unity(31887): uniform mediump float _Level;
+01-31 22:42:32.890: D/Unity(31887): varying mediump vec4 xlv_TEXCOORD0;
+01-31 22:42:32.890: D/Unity(31887): void main ()
+01-31 22:42:32.890: D/Unity(31887): {
+01-31 22:42:32.890: D/Unity(31887):   mediump vec4 tmpvar_1;
+01-31 22:42:32.890: D/Unity(31887):   lowp vec4 tmpvar_2;
+01-31 22:42:32.890: D/Unity(31887):   tmpvar_2 = impl_low_textureCubeLodEXT (_MainTex, xlv_TEXCOORD0.xyz, _Level);
+01-31 22:42:32.890: D/Unity(31887):   tmpvar_1 = tmpvar_2;
+01-31 22:42:32.890: D/Unity(31887):   gl_FragData[0] = tmpvar_1;
+01-31 22:42:32.890: D/Unity(31887): }
+01-31 22:42:32.890: D/Unity(31887): -------- failed compiling:
+01-31 22:42:32.890: D/Unity(31887): fragment evaluation shader
+01-31 22:42:32.890: D/Unity(31887): -------- GLSL error:
+01-31 22:42:32.890: D/Unity(31887): Compile failed.
+01-31 22:42:32.890: D/Unity(31887): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+01-31 22:42:32.890: D/Unity(31887): ERROR: 0:8: 'return' : function return is not matching type
+01-31 22:42:32.890: D/Unity(31887): ERROR: 2 compilation errors. No code generated.
+01-31 22:42:32.890: D/Unity(31887): textureCubeLodEXT or textureCubeGradEXT usage detected.
+01-31 22:42:32.890: D/Unity(31887): GL_EXT_shader_texture_lod extension is buggy on PowerVR drivers.
+01-31 22:42:32.890: D/Unity(31887): replacing textureCubeLodEXT->textureCubeLod and textureCubeGradEXT->textureCubeGradARB as a workaround.
+01-31 22:42:32.981: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.112: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.125: D/Unity(31887): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+01-31 22:42:33.153: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.164: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.273: D/Unity(31887): Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+01-31 22:42:33.478: I/Unity(31887): SOOMLA CoreEvents Initializing CoreEvents and Soomla Core ...
+01-31 22:42:33.478: I/Unity(31887): UnityEngine.Debug:Internal_Log(Int32, String, Object)
+01-31 22:42:33.478: I/Unity(31887): UnityEngine.Debug:Log(Object)
+01-31 22:42:33.478: I/Unity(31887): Soomla.SoomlaUtils:LogDebug(String, String) (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Core\SoomlaUtils.cs:50)
+01-31 22:42:33.478: I/Unity(31887): Soomla.CoreEvents:Initialize() (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Core\CoreEvents.cs:50)
+01-31 22:42:33.478: I/Unity(31887): Soomla.Profile.ProfileEvents:Initialize() (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Profile\ProfileEvents.cs:61)
+01-31 22:42:33.478: I/Unity(31887): Soomla.Profile.SoomlaProfile:Initialize() (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Profile\SoomlaProfile.cs:67)
+01-31 22:42:33.478: I/Unity(31887): SoomlaOperation:Start() (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Scripts\SoomlaOperation.cs:124)
+01-31 22:42:33.478: I/Unity(31887):  
+01-31 22:42:33.478: I/Unity(31887): (Filename: E Line: 0)
+01-31 22:42:33.536: D/SOOMLA Unity SoomlaEventHandler(31887): Initializing SoomlaEventHandler ...
+01-31 22:42:33.586: I/Unity(31887): SOOMLA ProfileEvents Initializing ProfileEvents ...
+01-31 22:42:33.586: I/Unity(31887): UnityEngine.Debug:Internal_Log(Int32, String, Object)
+01-31 22:42:33.586: I/Unity(31887): UnityEngine.Debug:Log(Object)
+01-31 22:42:33.586: I/Unity(31887): Soomla.SoomlaUtils:LogDebug(String, String) (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Core\SoomlaUtils.cs:50)
+01-31 22:42:33.586: I/Unity(31887): Soomla.Profile.ProfileEvents:Initialize() (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Profile\ProfileEvents.cs:64)
+01-31 22:42:33.586: I/Unity(31887): Soomla.Profile.SoomlaProfile:Initialize() (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Profile\SoomlaProfile.cs:67)
+01-31 22:42:33.586: I/Unity(31887): SoomlaOperation:Start() (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Scripts\SoomlaOperation.cs:124)
+01-31 22:42:33.586: I/Unity(31887):  
+01-31 22:42:33.586: I/Unity(31887): (Filename: E Line: 0)
+01-31 22:42:33.590: D/SOOMLA Unity ProfileEventHandler(31887): Initializing ProfileEventHandler ...
+01-31 22:42:33.636: D/SOOMLA UnitySoomlaProfile(31887): Initializing SoomlaProfile from bridge
+01-31 22:42:33.853: I/Unity(31887): SOOMLA ProfileEvents SOOMLA/UNITY onSoomlaProfileInitialized
+01-31 22:42:33.853: I/Unity(31887): UnityEngine.Debug:Internal_Log(Int32, String, Object)
+01-31 22:42:33.853: I/Unity(31887): UnityEngine.Debug:Log(Object)
+01-31 22:42:33.853: I/Unity(31887): Soomla.SoomlaUtils:LogDebug(String, String) (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Core\SoomlaUtils.cs:50)
+01-31 22:42:33.853: I/Unity(31887): Soomla.Profile.ProfileEvents:onSoomlaProfileInitialized() (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Profile\ProfileEvents.cs:84)
+01-31 22:42:33.853: I/Unity(31887):  
+01-31 22:42:33.853: I/Unity(31887): (Filename: E Line: 0)
+01-31 22:42:33.859: D/Unity(31887): Setting up 1 worker threads for Enlighten.
+01-31 22:42:33.859: D/Unity(31887):   Thread -> id: 614567e0 -> priority: 1 
+01-31 22:42:33.862: I/Unity(31887): SoomlaOperation SoomlaProfile Initialized !
+01-31 22:42:33.862: I/Unity(31887): UnityEngine.Debug:Internal_Log(Int32, String, Object)
+01-31 22:42:33.862: I/Unity(31887): UnityEngine.Debug:Log(Object)
+01-31 22:42:33.862: I/Unity(31887): Soomla.SoomlaUtils:LogDebug(String, String) (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Core\SoomlaUtils.cs:50)
+01-31 22:42:33.862: I/Unity(31887): SoomlaOperation:<Start>m__0() (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Scripts\SoomlaOperation.cs:54)
+01-31 22:42:33.862: I/Unity(31887): Soomla.Profile.SoomlaProfile:TryFireProfileInitialized() (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Profile\SoomlaProfile.cs:1078)
+01-31 22:42:33.862: I/Unity(31887): Soomla.Profile.ProfileEvents:onSoomlaProfileInitialized() (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Profile\ProfileEvents.cs:87)
+01-31 22:42:33.862: I/Unity(31887):  
+01-31 22:42:33.862: I/Unity(31887): (Filename: E Line: 0)
+01-31 22:42:33.887: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.888: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.888: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.888: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.888: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.888: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.888: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.888: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.888: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.888: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.888: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.888: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.892: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.931: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.931: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.990: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.990: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:33.998: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.031: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.032: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.056: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.078: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.119: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.119: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.132: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.168: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.204: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.204: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.235: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.235: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.261: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.301: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.301: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.318: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.367: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.367: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.374: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.404: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.453: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.453: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.478: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.518: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.518: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.526: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.569: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.569: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.589: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.622: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.629: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.645: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.686: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.686: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.711: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.751: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.751: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.772: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.802: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.802: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.857: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.857: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.868: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.882: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.912: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.931: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.967: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.967: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:34.989: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.023: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.036: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.073: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.073: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.085: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.142: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.142: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.142: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.162: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.190: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.210: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.247: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.247: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.267: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.300: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.315: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.353: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.353: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.362: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.424: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.425: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.425: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.471: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.471: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.516: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.533: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.563: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.563: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.641: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.697: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.871: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.871: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.871: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.871: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.871: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.871: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.871: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.883: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.918: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.937: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.982: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.982: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:35.982: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:36.031: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:36.032: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:36.073: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:36.073: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:36.185: I/Unity(31887): SOOMLA SoomlaProfile Trying to login with provider google
+01-31 22:42:36.185: I/Unity(31887): UnityEngine.Debug:Internal_Log(Int32, String, Object)
+01-31 22:42:36.185: I/Unity(31887): UnityEngine.Debug:Log(Object)
+01-31 22:42:36.185: I/Unity(31887): Soomla.SoomlaUtils:LogDebug(String, String) (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Core\SoomlaUtils.cs:50)
+01-31 22:42:36.185: I/Unity(31887): Soomla.Profile.SoomlaProfile:login(Provider, Boolean, String, Reward) (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Profile\SoomlaProfile.cs:155)
+01-31 22:42:36.185: I/Unity(31887): Soomla.Profile.SoomlaProfile:Login(Provider, String, Reward) (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Profile\SoomlaProfile.cs:151)
+01-31 22:42:36.185: I/Unity(31887): SoomlaOperation:OnGoogleLogin() (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Scripts\SoomlaOperation.cs:153)
+01-31 22:42:36.185: I/Unity(31887): UnityEngine.Events.InvokableCall:Invoke(Object[])
+01-31 22:42:36.185: I/Unity(31887): UnityEngine.Events.InvokableCallList:Invoke(Object[])
+01-31 22:42:36.185: I/Unity(31887): UnityEngine.Events.UnityEventBase:Invoke(Object[])
+01-31 22:42:36.185: I/Unity(31887): UnityEngine.Events.UnityEvent:Invoke()
+01-31 22:42:36.185: I/Unity(31887): UnityEn
+01-31 22:42:36.214: I/Unity(31887): SOOMLA ProfileEvents SOOMLA/UNITY onLoginStarted
+01-31 22:42:36.214: I/Unity(31887): UnityEngine.Debug:Internal_Log(Int32, String, Object)
+01-31 22:42:36.214: I/Unity(31887): UnityEngine.Debug:Log(Object)
+01-31 22:42:36.214: I/Unity(31887): Soomla.SoomlaUtils:LogDebug(String, String) (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Core\SoomlaUtils.cs:50)
+01-31 22:42:36.214: I/Unity(31887): Soomla.Profile.ProfileEvents:onLoginStarted(String) (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Profile\ProfileEvents.cs:124)
+01-31 22:42:36.214: I/Unity(31887):  
+01-31 22:42:36.214: I/Unity(31887): (Filename: E Line: 0)
+01-31 22:42:36.236: I/Unity(31887): onPause
+01-31 22:42:36.260: I/Unity(31887): SoomlaOperation SoomlaProfile - OnLoginStarted !
+01-31 22:42:36.260: I/Unity(31887): UnityEngine.Debug:Internal_Log(Int32, String, Object)
+01-31 22:42:36.260: I/Unity(31887): UnityEngine.Debug:Log(Object)
+01-31 22:42:36.260: I/Unity(31887): Soomla.SoomlaUtils:LogDebug(String, String) (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Core\SoomlaUtils.cs:50)
+01-31 22:42:36.260: I/Unity(31887): SoomlaOperation:<Start>m__1(Provider, Boolean, String) (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Scripts\SoomlaOperation.cs:58)
+01-31 22:42:36.260: I/Unity(31887): Soomla.Profile.ProfileEvents:onLoginStarted(String) (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Profile\ProfileEvents.cs:132)
+01-31 22:42:36.260: I/Unity(31887):  
+01-31 22:42:36.260: I/Unity(31887): (Filename: E Line: 0)
+01-31 22:42:36.299: D/Unity(31887): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+01-31 22:42:36.334: I/Unity(31887): windowFocusChanged: false
+01-31 22:42:39.809: I/Unity(31887): windowFocusChanged: true
+01-31 22:42:39.821: I/Unity(31887): onResume
+01-31 22:42:39.826: D/Unity(31887): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+01-31 22:42:39.828: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:39.829: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:39.829: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:39.829: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:39.830: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:39.830: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:39.830: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:39.830: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:39.855: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:39.865: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:39.892: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:39.914: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:39.944: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:39.944: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:39.963: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.001: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.001: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.057: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.057: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.097: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.097: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.105: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.145: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.145: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.190: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.190: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.206: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.239: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.282: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.282: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.330: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.330: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.375: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.381: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.424: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.443: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.443: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.484: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.485: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.501: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.531: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.573: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.573: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.582: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.624: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.641: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.679: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.687: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.705: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.745: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.745: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.794: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.812: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.851: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.851: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.874: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.901: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.972: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.972: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:40.982: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.046: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.047: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.047: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.120: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.120: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.124: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.170: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.170: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.219: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.219: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.265: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.265: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.265: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.337: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.337: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.337: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.352: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.385: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.385: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.431: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.443: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.488: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.488: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.544: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.602: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.602: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.602: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.649: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.693: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.708: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.739: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.763: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.763: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.800: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.850: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.907: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.907: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.959: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:41.974: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.013: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.013: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.041: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.078: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.089: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.129: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.129: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.146: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.164: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.253: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.253: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.270: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.287: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.329: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.329: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.394: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.433: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.434: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.442: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.508: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.548: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.565: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.604: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.604: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.688: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.774: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.774: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.787: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.838: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.838: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.847: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.889: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.889: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.944: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.944: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:42.972: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.009: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.029: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.063: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.063: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.115: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.115: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.125: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.179: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.179: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.187: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.231: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.250: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.265: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.305: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.305: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.355: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.355: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.371: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.393: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.430: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.431: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.485: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.486: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.536: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.581: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.582: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.628: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.687: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.763: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.843: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.862: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.889: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.922: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.951: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.951: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.963: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:43.983: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.001: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.029: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.062: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.062: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.090: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.103: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.140: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.142: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.231: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.231: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.232: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.356: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.356: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.371: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.382: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.425: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.444: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.467: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.484: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.510: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.527: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.583: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.606: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.665: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.665: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.666: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.692: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.755: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.755: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.755: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.762: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.800: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.801: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.840: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.881: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.881: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.883: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.909: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.931: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.951: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:44.971: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:45.034: I/Unity(31887): onPause
+01-31 22:42:45.041: I/Unity(31887): SOOMLA ProfileEvents SOOMLA/UNITY onSocialActionStarted
+01-31 22:42:45.041: I/Unity(31887): UnityEngine.Debug:Internal_Log(Int32, String, Object)
+01-31 22:42:45.041: I/Unity(31887): UnityEngine.Debug:Log(Object)
+01-31 22:42:45.041: I/Unity(31887): Soomla.SoomlaUtils:LogDebug(String, String) (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Core\SoomlaUtils.cs:50)
+01-31 22:42:45.041: I/Unity(31887): Soomla.Profile.ProfileEvents:onSocialActionStarted(String) (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Profile\ProfileEvents.cs:267)
+01-31 22:42:45.041: I/Unity(31887):  
+01-31 22:42:45.041: I/Unity(31887): (Filename: E Line: 0)
+01-31 22:42:45.113: D/Unity(31887): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+01-31 22:42:45.128: I/Unity(31887): windowFocusChanged: false
+01-31 22:42:53.787: I/Unity(31887): onResume
+01-31 22:42:53.794: I/Unity(31887): windowFocusChanged: true
+01-31 22:42:53.798: D/Unity(31887): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+01-31 22:42:53.805: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:53.805: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:53.805: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:53.805: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:53.805: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:53.805: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:53.805: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:53.815: I/Unity(31887): SOOMLA ProfileEvents SOOMLA/UNITY onSocialActionFinished
+01-31 22:42:53.815: I/Unity(31887): UnityEngine.Debug:Internal_Log(Int32, String, Object)
+01-31 22:42:53.815: I/Unity(31887): UnityEngine.Debug:Log(Object)
+01-31 22:42:53.815: I/Unity(31887): Soomla.SoomlaUtils:LogDebug(String, String) (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Core\SoomlaUtils.cs:50)
+01-31 22:42:53.815: I/Unity(31887): Soomla.Profile.ProfileEvents:onSocialActionFinished(String) (at E:\Users\Unity3D\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Profile\ProfileEvents.cs:288)
+01-31 22:42:53.815: I/Unity(31887):  
+01-31 22:42:53.815: I/Unity(31887): (Filename: E Line: 0)
+01-31 22:42:53.834: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:53.854: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:53.878: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:53.905: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:53.933: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:53.933: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:53.957: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.023: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.023: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.024: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.057: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.057: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.071: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.124: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.189: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.239: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.256: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.293: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.293: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.320: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.357: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.357: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.382: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.422: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.422: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.442: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.471: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.472: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.526: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.526: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.537: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.551: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.590: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.591: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.615: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.656: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.656: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.674: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.704: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.724: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.760: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.761: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.785: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.826: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.827: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.835: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.876: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.876: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.918: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.918: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.938: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:54.968: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.013: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.013: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.021: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.031: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.063: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.107: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.107: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.114: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.157: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.157: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.202: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.202: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.216: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.250: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.293: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.293: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.328: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.343: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.386: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.386: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.437: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.437: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.480: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.480: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.497: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.529: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.575: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.575: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.575: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.620: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.621: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.661: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.661: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.686: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.727: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.727: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.736: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.774: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.774: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.792: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.836: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.836: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.854: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.886: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.903: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.942: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.942: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.961: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:55.993: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.028: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.071: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.071: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.071: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.118: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.118: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.136: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.176: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.176: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.195: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.226: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.243: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.281: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.281: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.306: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.348: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.348: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.355: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.398: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.398: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.453: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.453: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.453: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.479: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.519: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.519: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.568: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.585: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.626: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.626: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.634: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.677: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.677: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.692: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.731: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.731: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.757: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.796: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.796: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.818: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.847: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.864: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.881: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.921: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.940: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.974: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:56.975: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.025: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.026: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.035: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.051: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.092: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.092: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.142: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.159: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.197: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.222: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.262: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.282: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.313: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.333: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.333: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.387: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.437: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.437: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.453: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.472: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.512: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.519: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.561: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.561: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.578: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.616: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.616: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.682: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.733: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.733: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.789: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.790: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.799: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.840: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.841: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.857: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.895: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.895: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.921: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:57.981: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.012: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.027: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.045: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.085: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.085: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.092: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.136: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.136: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.151: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.190: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.202: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.217: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.254: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.254: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.278: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.300: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.346: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.360: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.380: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.402: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.419: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.444: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.457: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.516: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.516: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.517: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.541: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.551: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.585: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.630: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.630: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.633: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.678: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.678: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.702: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.726: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.739: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.760: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.800: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.819: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.865: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.884: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.904: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.946: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.946: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:58.978: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.033: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.033: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.054: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.074: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.120: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.152: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.172: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.195: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.235: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.292: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.332: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.374: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.397: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.446: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.446: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.467: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.476: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.516: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.532: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.575: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.604: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.634: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.655: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.699: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.715: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.773: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.792: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.840: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.915: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.917: D/Unity(31887): Unknown event structure (0)
+01-31 22:42:59.968: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.037: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.037: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.037: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.100: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.124: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.144: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.184: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.184: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.194: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.232: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.232: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.255: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.285: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.358: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.359: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.360: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.371: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.424: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.533: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.580: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.629: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.642: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.657: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.718: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.731: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.768: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.782: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.797: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.828: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.859: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.924: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.925: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.935: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.970: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:00.995: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.038: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.092: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.092: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.170: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.200: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.232: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.278: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.327: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.417: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.496: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.528: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.555: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.620: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.646: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.697: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.697: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.738: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.757: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.805: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.844: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.845: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.866: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.881: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.894: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.918: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.936: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.955: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.993: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:01.993: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.017: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.064: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.064: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.077: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.110: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.155: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.155: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.156: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.174: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.202: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.250: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.250: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.253: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.317: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.317: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.318: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.338: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.353: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.392: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.392: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.430: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.431: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.455: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.476: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.497: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.516: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.554: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.554: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.578: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.623: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.623: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.636: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.670: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.709: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.721: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.773: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.773: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.773: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.838: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.838: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.839: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.857: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.885: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.926: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.926: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.953: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.953: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:02.978: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.018: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.018: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.034: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.084: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.084: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.093: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.130: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.150: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.179: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.179: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.191: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.229: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.269: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.269: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.293: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.319: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.335: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.374: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.374: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.426: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.426: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.439: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.478: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.478: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.523: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.524: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.531: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.568: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.607: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.607: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.622: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.670: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.670: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.671: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.695: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.715: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.755: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.755: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.785: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.796: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.832: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.832: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.855: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.879: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.903: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.925: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.942: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.970: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.984: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:03.999: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.019: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.059: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.059: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.072: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.122: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.122: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.147: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.187: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.187: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.203: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.227: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.253: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.253: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.275: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.296: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.341: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.341: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.355: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.373: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.394: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.415: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.436: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.453: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.480: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.494: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.534: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.534: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.554: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.575: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.593: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.620: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.634: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.652: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.674: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.694: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.715: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.732: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.760: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.773: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.791: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.820: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.853: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.854: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.871: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.898: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.930: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.952: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.953: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.994: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:04.994: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.021: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.066: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.066: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.079: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.129: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.129: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.132: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.179: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.179: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.200: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.225: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.240: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.269: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.280: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.348: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.349: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.349: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.363: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.425: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.425: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.426: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.467: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.471: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.499: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.550: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.550: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.595: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.653: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.653: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.654: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.684: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.700: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.737: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.737: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.783: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.809: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.851: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.851: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.882: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.894: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.917: D/Unity(31887): Unknown event structure (0)
+01-31 22:43:05.957: I/Unity(31887): onPause
+01-31 22:43:06.004: D/Unity(31887): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+01-31 22:43:06.009: I/Unity(31887): windowFocusChanged: false
+01-31 22:43:06.138: D/Unity(31887): [EGL] Attaching window :0x0
+01-31 22:43:07.501: I/Unity(31887): onDestroy
