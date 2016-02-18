@@ -1,0 +1,1184 @@
+02-18 09:30:19.512: I/Unity(7642): splash_mode = 0 (integer)
+02-18 09:30:19.512: I/Unity(7642): hide_status_bar = True (bool)
+02-18 09:30:19.512: I/Unity(7642): useObb = False (bool)
+02-18 09:30:19.966: D/Unity(7642): surfaces: attach glview
+02-18 09:30:19.969: I/Unity(7642): Choreographer available: Enabling VSYNC timing
+02-18 09:30:19.974: I/Unity(7642): onResume
+02-18 09:30:20.015: D/Unity(7642): [EGL] Attaching window :0x5cafe7b8
+02-18 09:30:20.015: D/Unity(7642): [EGL] Attaching window :0x5cafe7b8
+02-18 09:30:20.062: I/Unity(7642): windowFocusChanged: true
+02-18 09:30:20.213: D/Unity(7642): SystemInfo CPU = ARMv7 VFPv3 NEON, Cores = 4, Memory = 1983mb
+02-18 09:30:20.213: D/Unity(7642): SystemInfo ARM big.LITTLE configuration: 4 big (mask: 15), 0 little (mask: 0)
+02-18 09:30:21.135: D/Unity(7642): [SHA1] fec4b90a554551162d55c21dc542ea96d053ce36   21483059 bytes ~ lib/armeabi-v7a/libunity.so
+02-18 09:30:21.137: D/Unity(7642): [SHA1] 3751d6eefb61279a6ebac91ce6eb16f88bfd5faf      44013 bytes ~ lib/armeabi-v7a/libmain.so
+02-18 09:30:21.286: D/Unity(7642): [SHA1] 3f9c6aadd03554cd6a4a07defc46c12444437e5b    3758496 bytes ~ lib/armeabi-v7a/libmono.so
+02-18 09:30:22.321: D/Unity(7642): [SHA1] 045045246166a443ea20b6cd3230e74f1ac7b939   25204615 bytes ~ lib/x86/libunity.so
+02-18 09:30:22.322: D/Unity(7642): [SHA1] 00907983a931d823290fabbba9a80ada7e3c0a53      27052 bytes ~ lib/x86/libmain.so
+02-18 09:30:22.457: D/Unity(7642): [SHA1] c3f02aff64c835e59f1c6391ab9999d1286acf4f    3636444 bytes ~ lib/x86/libmono.so
+02-18 09:30:22.475: D/Unity(7642): Mono path[0] = '/mnt/asec/com.soomla.test-1/pkg.apk/assets/bin/Data/Managed'
+02-18 09:30:22.475: D/Unity(7642): Mono config path = 'assets/bin/Data/Managed'
+02-18 09:30:22.528: D/Unity(7642): PlayerConnection initialized from /mnt/asec/com.soomla.test-1/pkg.apk/assets/bin/Data (debug = 0)
+02-18 09:30:22.534: D/Unity(7642): PlayerConnection initialized network socket : 0.0.0.0 55380
+02-18 09:30:22.534: D/Unity(7642): PlayerConnection initialized unix socket : Unity-com.soomla.test
+02-18 09:30:22.534: D/Unity(7642): Multi-casting "[IP] 192.168.0.101 [Port] 55380 [Flags] 2 [Guid] 1255390462 [EditorId] 2575436269 [Version] 1048832 [Id] AndroidPlayer(JYT_JY-G5@192.168.0.101) [Debug] 0" to [225.0.0.222:54997]...
+02-18 09:30:22.930: D/Unity(7642): InitializeScriptEngine OK (5f998ee0)
+02-18 09:30:22.930: D/Unity(7642): PlayerConnection already initialized - listening to [192.168.0.101:55380]
+02-18 09:30:23.131: D/Unity(7642): PlayerInitEngineNoGraphics OK
+02-18 09:30:23.150: D/Unity(7642): [EGL] Request: ES 2.0 RGB0 000 0/0
+02-18 09:30:23.151: D/Unity(7642): [EGL] Found: ID[21] ES 2.0 RGB16 565 0/0
+02-18 09:30:23.157: D/Unity(7642): [EGL] Request: ES 2.0 RGB0 000 0/0
+02-18 09:30:23.157: D/Unity(7642): [EGL] Found: ID[21] ES 2.0 RGB16 565 0/0
+02-18 09:30:23.162: D/Unity(7642): [EGL] Request: ES 2.0 RGBA32 8888 0/0
+02-18 09:30:23.164: D/Unity(7642): [EGL] Found: ID[15] ES 2.0 RGBA32 8888 0/0
+02-18 09:30:23.170: D/Unity(7642): ANativeWindow: (720/1280) RequestedResolution: (0/0) EGLSurface: (720/1280)
+02-18 09:30:23.182: D/Unity(7642): Renderer: PowerVR SGX 544MP
+02-18 09:30:23.182: D/Unity(7642): Vendor:   Imagination Technologies
+02-18 09:30:23.182: D/Unity(7642): Version:  OpenGL ES 2.0 build 1.9@2204701
+02-18 09:30:23.182: D/Unity(7642): GLES:     2
+02-18 09:30:23.182: D/Unity(7642): GL_EXT_debug_marker GL_OES_rgb8_rgba8 GL_OES_depth24 GL_OES_vertex_half_float GL_OES_texture_float GL_OES_texture_half_float GL_OES_element_index_uint GL_OES_mapbuffer GL_OES_fragment_precision_high GL_OES_compressed_ETC1_RGB8_texture GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_required_internalformat GL_OES_depth_texture GL_OES_get_program_binary GL_OES_packed_depth_stencil GL_OES_standard_derivatives GL_OES_vertex_array_object GL_OES_egl_sync GL_OES_texture_npot GL_EXT_multi_draw_arrays GL_EXT_texture_format_BGRA8888 GL_EXT_discard_framebuffer GL_EXT_shader_texture_lod GL_IMG_shader_binary GL_IMG_texture_compression_pvrtc GL_IMG_texture_compression_pvrtc2 GL_IMG_texture_npot GL_IMG_texture_format_BGRA8888 GL_IMG_read_format GL_IMG_program_binary GL_IMG_uniform_buffer_object GL_IMG_multisampled_render_to_texture
+02-18 09:30:23.241: D/Unity(7642): ETC2 0
+02-18 09:30:23.241: D/Unity(7642): OPENGL LOG: Creating OpenGL ES 2.0 graphics device
+02-18 09:30:23.242: D/Unity(7642): InitializeGfxDevice OK
+02-18 09:30:23.242: D/Unity(7642): Initialize engine version: 5.2.2p1 (6dd5cd7ea574)
+02-18 09:30:23.387: D/Unity(7642): AudioManager: Selecting AudioTrack output...
+02-18 09:30:23.399: D/Unity(7642): Begin MonoManager ReloadAssembly
+02-18 09:30:23.432: D/Unity(7642): Platform assembly: /mnt/asec/com.soomla.test-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.dll (this message is harmless)
+02-18 09:30:23.441: D/Unity(7642): Loading /mnt/asec/com.soomla.test-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.dll into Unity Child Domain
+02-18 09:30:23.524: D/Unity(7642): Platform assembly: /mnt/asec/com.soomla.test-1/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp-firstpass.dll (this message is harmless)
+02-18 09:30:23.531: D/Unity(7642): Loading /mnt/asec/com.soomla.test-1/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp-firstpass.dll into Unity Child Domain
+02-18 09:30:23.532: D/Unity(7642): Platform assembly: /mnt/asec/com.soomla.test-1/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp.dll (this message is harmless)
+02-18 09:30:23.533: D/Unity(7642): Loading /mnt/asec/com.soomla.test-1/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp.dll into Unity Child Domain
+02-18 09:30:23.543: D/Unity(7642): Platform assembly: /mnt/asec/com.soomla.test-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.UI.dll (this message is harmless)
+02-18 09:30:23.546: D/Unity(7642): Loading /mnt/asec/com.soomla.test-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.UI.dll into Unity Child Domain
+02-18 09:30:23.554: D/Unity(7642): Platform assembly: /mnt/asec/com.soomla.test-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.Networking.dll (this message is harmless)
+02-18 09:30:23.556: D/Unity(7642): Loading /mnt/asec/com.soomla.test-1/pkg.apk/assets/bin/Data/Managed/UnityEngine.Networking.dll into Unity Child Domain
+02-18 09:30:23.557: D/Unity(7642): Platform assembly: /mnt/asec/com.soomla.test-1/pkg.apk/assets/bin/Data/Managed/GrowIntegration.dll (this message is harmless)
+02-18 09:30:23.558: D/Unity(7642): Loading /mnt/asec/com.soomla.test-1/pkg.apk/assets/bin/Data/Managed/GrowIntegration.dll into Unity Child Domain
+02-18 09:30:23.598: D/Unity(7642): Platform assembly: /mnt/asec/com.soomla.test-1/pkg.apk/assets/bin/Data/Managed/System.Core.dll (this message is harmless)
+02-18 09:30:23.608: D/Unity(7642): - Completed reload, in  0.209 seconds
+02-18 09:30:23.617: D/Unity(7642): PlayerInitEngineGraphics OK
+02-18 09:30:23.618: D/Unity(7642): Found 10 native sensors
+02-18 09:30:23.620: D/Unity(7642): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+02-18 09:30:23.621: D/Unity(7642): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+02-18 09:30:23.630: D/Unity(7642): Requested framebuffer: resolution[720x1280], rgba[8/8/8/8], depth+stencil[on], samples[1]
+02-18 09:30:23.639: D/Unity(7642): Created framebuffer: resolution[720x1280], rgba[8/8/8/8], depth+stencil[24/8], samples[0] 
+02-18 09:30:23.861: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:23.861: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:23.861: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:23.861: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:23.861: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:23.861: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:23.861: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:23.861: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:23.861: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:23.881: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:23.891: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:23.912: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:23.932: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:23.943: D/Unity(7642): Platform assembly: /mnt/asec/com.soomla.test-1/pkg.apk/assets/bin/Data/Managed/System.dll (this message is harmless)
+02-18 09:30:23.963: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:23.973: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:24.014: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:24.034: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:24.055: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:24.075: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:24.096: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:24.117: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:24.178: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:24.219: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:35.292: D/Unity(7642): -------- Shader compilation failed
+02-18 09:30:35.292: D/Unity(7642): #version 100
+02-18 09:30:35.292: D/Unity(7642): #extension GL_EXT_shader_texture_lod : enable
+02-18 09:30:35.292: D/Unity(7642): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+02-18 09:30:35.292: D/Unity(7642): {
+02-18 09:30:35.292: D/Unity(7642): #if defined(GL_EXT_shader_texture_lod)
+02-18 09:30:35.292: D/Unity(7642): 	return textureCubeLodEXT(sampler, coord, lod);
+02-18 09:30:35.292: D/Unity(7642): #else
+02-18 09:30:35.292: D/Unity(7642): 	return textureCube(sampler, coord, lod);
+02-18 09:30:35.292: D/Unity(7642): #endif
+02-18 09:30:35.292: D/Unity(7642): }
+02-18 09:30:35.292: D/Unity(7642): uniform mediump vec4 _TexA_HDR;
+02-18 09:30:35.292: D/Unity(7642): uniform mediump vec4 _TexB_HDR;
+02-18 09:30:35.292: D/Unity(7642): uniform lowp samplerCube _TexA;
+02-18 09:30:35.292: D/Unity(7642): uniform lowp samplerCube _TexB;
+02-18 09:30:35.292: D/Unity(7642): uniform highp float _Level;
+02-18 09:30:35.292: D/Unity(7642): uniform highp float _value;
+02-18 09:30:35.292: D/Unity(7642): varying highp vec3 xlv_TEXCOORD0;
+02-18 09:30:35.292: D/Unity(7642): void main ()
+02-18 09:30:35.292: D/Unity(7642): {
+02-18 09:30:35.292: D/Unity(7642):   mediump vec3 res_1;
+02-18 09:30:35.292: D/Unity(7642):   mediump vec4 tmpvar_2;
+02-18 09:30:35.292: D/Unity(7642):   lowp vec4 tmpvar_3;
+02-18 09:30:35.292: D/Unity(7642):   tmpvar_3 = impl_low_textureCubeLodEXT (_TexA, xlv_TEXCOORD0, _Level);
+02-18 09:30:35.292: D/Unity(7642):   tmpvar_2 = tmpvar_3;
+02-18 09:30:35.292: D/Unity(7642):   mediump vec3 tmpvar_4;
+02-18 09:30:35.292: D/Unity(7642):   tmpvar_4 = ((_TexA_HDR.x * tmpvar_2.w) * tmpvar_2.xyz);
+02-18 09:30:35.292: D/Unity(7642):   mediump vec4 tmpvar_5;
+02-18 09:30:35.292: D/Unity(7642):   lowp vec4 tmpvar_6;
+02-18 09:30:35.292: D/Unity(7642):   tmpvar_6 = impl_low_textureCubeLodEXT (_TexB, xlv_TEXCOORD0, _Level);
+02-18 09:30:35.292: D/Unity(7642):   tmpvar_5 = tmpvar_6;
+02-18 09:30:35.292: D/Unity(7642):   mediump vec3 tmpvar_7;
+02-18 09:30:35.292: D/Unity(7642):   tmpvar_7 = ((_TexB_HDR.x * tmpvar_5.w) * tmpvar_5.xyz);
+02-18 09:30:35.292: D/Unity(7642):   highp vec3 tmpvar_8;
+02-18 09:30:35.292: D/Unity(7642):   tmpvar_8 = mix (tmpvar_4, tmpvar_7, vec3(_value));
+02-18 09:30:35.292: D/Unity(7642):   res_1 = tmpvar_8;
+02-18 09:30:35.292: D/Unity(7642):   mediump vec4 tmpvar_9;
+02-18 09:30:35.292: D/Unity(7642):   tmpvar_9.w = 1.0;
+02-18 09:30:35.292: D/Unity(7642):   tmpvar_9.xyz = res_1;
+02-18 09:30:35.292: D/Unity(7642):   gl_FragData[0] = tmpvar_9;
+02-18 09:30:35.292: D/Unity(7642): }
+02-18 09:30:35.292: D/Unity(7642): -------- failed compiling:
+02-18 09:30:35.292: D/Unity(7642): fragment evaluation shader
+02-18 09:30:35.292: D/Unity(7642): -------- GLSL error:
+02-18 09:30:35.292: D/Unity(7642): Compile failed.
+02-18 09:30:35.292: D/Unity(7642): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+02-18 09:30:35.292: D/Unity(7642): ERROR: 0:8: 'return' : function return is not matching type
+02-18 09:30:35.292: D/Unity(7642): ERROR: 2 compilation errors. No code generated.
+02-18 09:30:35.292: D/Unity(7642): textureCubeLodEXT or textureCubeGradEXT usage detected.
+02-18 09:30:35.292: D/Unity(7642): GL_EXT_shader_texture_lod extension is buggy on PowerVR drivers.
+02-18 09:30:35.292: D/Unity(7642): replacing textureCubeLodEXT->textureCubeLod and textureCubeGradEXT->textureCubeGradARB as a workaround.
+02-18 09:30:35.345: D/Unity(7642): -------- Shader compilation failed
+02-18 09:30:35.345: D/Unity(7642): #version 100
+02-18 09:30:35.345: D/Unity(7642): #extension GL_EXT_shader_texture_lod : enable
+02-18 09:30:35.345: D/Unity(7642): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+02-18 09:30:35.345: D/Unity(7642): {
+02-18 09:30:35.345: D/Unity(7642): #if defined(GL_EXT_shader_texture_lod)
+02-18 09:30:35.345: D/Unity(7642): 	return textureCubeLodEXT(sampler, coord, lod);
+02-18 09:30:35.345: D/Unity(7642): #else
+02-18 09:30:35.345: D/Unity(7642): 	return textureCube(sampler, coord, lod);
+02-18 09:30:35.345: D/Unity(7642): #endif
+02-18 09:30:35.345: D/Unity(7642): }
+02-18 09:30:35.345: D/Unity(7642): uniform highp float _Level;
+02-18 09:30:35.345: D/Unity(7642): uniform lowp samplerCube _MainTex;
+02-18 09:30:35.345: D/Unity(7642): varying highp vec4 xlv_TEXCOORD0;
+02-18 09:30:35.345: D/Unity(7642): void main ()
+02-18 09:30:35.345: D/Unity(7642): {
+02-18 09:30:35.345: D/Unity(7642):   highp vec4 tmpvar_1;
+02-18 09:30:35.345: D/Unity(7642):   lowp vec4 tmpvar_2;
+02-18 09:30:35.345: D/Unity(7642):   tmpvar_2 = impl_low_textureCubeLodEXT (_MainTex, xlv_TEXCOORD0.xyz, _Level);
+02-18 09:30:35.345: D/Unity(7642):   tmpvar_1 = tmpvar_2;
+02-18 09:30:35.345: D/Unity(7642):   gl_FragData[0] = tmpvar_1;
+02-18 09:30:35.345: D/Unity(7642): }
+02-18 09:30:35.345: D/Unity(7642): -------- failed compiling:
+02-18 09:30:35.345: D/Unity(7642): fragment evaluation shader
+02-18 09:30:35.345: D/Unity(7642): -------- GLSL error:
+02-18 09:30:35.345: D/Unity(7642): Compile failed.
+02-18 09:30:35.345: D/Unity(7642): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+02-18 09:30:35.345: D/Unity(7642): ERROR: 0:8: 'return' : function return is not matching type
+02-18 09:30:35.345: D/Unity(7642): ERROR: 2 compilation errors. No code generated.
+02-18 09:30:35.345: D/Unity(7642): textureCubeLodEXT or textureCubeGradEXT usage detected.
+02-18 09:30:35.345: D/Unity(7642): GL_EXT_shader_texture_lod extension is buggy on PowerVR drivers.
+02-18 09:30:35.345: D/Unity(7642): replacing textureCubeLodEXT->textureCubeLod and textureCubeGradEXT->textureCubeGradARB as a workaround.
+02-18 09:30:36.378: D/Unity(7642): -------- Shader compilation failed
+02-18 09:30:36.378: D/Unity(7642): #version 100
+02-18 09:30:36.378: D/Unity(7642): #extension GL_EXT_shader_texture_lod : enable
+02-18 09:30:36.378: D/Unity(7642): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+02-18 09:30:36.378: D/Unity(7642): {
+02-18 09:30:36.378: D/Unity(7642): #if defined(GL_EXT_shader_texture_lod)
+02-18 09:30:36.378: D/Unity(7642): 	return textureCubeLodEXT(sampler, coord, lod);
+02-18 09:30:36.378: D/Unity(7642): #else
+02-18 09:30:36.378: D/Unity(7642): 	return textureCube(sampler, coord, lod);
+02-18 09:30:36.378: D/Unity(7642): #endif
+02-18 09:30:36.378: D/Unity(7642): }
+02-18 09:30:36.378: D/Unity(7642): uniform highp vec3 _WorldSpaceCameraPos;
+02-18 09:30:36.378: D/Unity(7642): uniform highp vec4 _ProjectionParams;
+02-18 09:30:36.378: D/Unity(7642): uniform highp vec4 _ZBufferParams;
+02-18 09:30:36.378: D/Unity(7642): uniform lowp samplerCube unity_SpecCube0;
+02-18 09:30:36.378: D/Unity(7642): uniform highp vec4 unity_SpecCube0_BoxMax;
+02-18 09:30:36.378: D/Unity(7642): uniform highp vec4 unity_SpecCube0_BoxMin;
+02-18 09:30:36.378: D/Unity(7642): uniform mediump vec4 unity_SpecCube0_HDR;
+02-18 09:30:36.378: D/Unity(7642): uniform highp vec4 unity_SpecCube1_ProbePosition;
+02-18 09:30:36.378: D/Unity(7642): uniform highp sampler2D _CameraDepthTexture;
+02-18 09:30:36.378: D/Unity(7642): uniform highp mat4 _CameraToWorld;
+02-18 09:30:36.378: D/Unity(7642): uniform sampler2D _CameraGBufferTexture0;
+02-18 09:30:36.378: D/Unity(7642): uniform sampler2D _CameraGBufferTexture1;
+02-18 09:30:36.378: D/Unity(7642): uniform sampler2D _CameraGBufferTexture2;
+02-18 09:30:36.378: D/Unity(7642): varying highp vec4 xlv_TEXCOORD0;
+02-18 09:30:36.378: D/Unity(7642): varying highp vec3 xlv_TEXCOORD1;
+02-18 09:30:36.378: D/Unity(7642): void main ()
+02-18 09:30:36.378: D/Unity(7642): {
+02-18 09:30:36.378: D/Unity(7642):   mediump vec3 worldNormalRefl_1;
+02-18 09:30:36.378: D/Unity(7642):   mediump vec4 gbuffer2_2;
+02-18 09:30:36.378: D/Unity(7642):   mediump vec4 gbuffer1_3;
+02-18 09:30:36.378: D/Unity(7642):   mediump vec4 gbuffer0_4;
+02-18 09:30:36.378: D/Unity(7642):   highp vec2 tmpvar_5;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_5 = (xlv_TEXCOORD0.xy / xlv_TEXCOORD0.w);
+02-18 09:30:36.378: D/Unity(7642):   highp vec4 tmpvar_6;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_6.w = 1.0;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_6.xyz = ((xlv_TEXCOORD1 * (_ProjectionParams.z / xlv_TEXCOORD1.z)) * (1.0/((
+02-18 09:30:36.378: D/Unity(7642):     (_ZBufferParams.x * texture2D (_CameraDepthTexture, tmpvar_5).x)
+02-18 09:30:36.378: D/Unity(7642):    + _ZBufferParams.y))));
+02-18 09:30:36.378: D/Unity(7642):   highp vec3 tmpvar_7;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_7 = (_CameraToWorld * tmpvar_6).xyz;
+02-18 09:30:36.378: D/Unity(7642):   lowp vec4 tmpvar_8;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_8 = texture2D (_CameraGBufferTexture0, tmpvar_5);
+02-18 09:30:36.378: D/Unity(7642):   gbuffer0_4 = tmpvar_8;
+02-18 09:30:36.378: D/Unity(7642):   lowp vec4 tmpvar_9;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_9 = texture2D (_CameraGBufferTexture1, tmpvar_5);
+02-18 09:30:36.378: D/Unity(7642):   gbuffer1_3 = tmpvar_9;
+02-18 09:30:36.378: D/Unity(7642):   lowp vec4 tmpvar_10;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_10 = texture2D (_CameraGBufferTexture2, tmpvar_5);
+02-18 09:30:36.378: D/Unity(7642):   gbuffer2_2 = tmpvar_10;
+02-18 09:30:36.378: D/Unity(7642):   mediump vec3 tmpvar_11;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_11 = normalize(((gbuffer2_2.xyz * 2.0) - 1.0));
+02-18 09:30:36.378: D/Unity(7642):   highp vec3 tmpvar_12;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_12 = normalize((tmpvar_7 - _WorldSpaceCameraPos));
+02-18 09:30:36.378: D/Unity(7642):   highp vec3 tmpvar_13;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_13 = (tmpvar_12 - (2.0 * (
+02-18 09:30:36.378: D/Unity(7642):     dot (tmpvar_11, tmpvar_12)
+02-18 09:30:36.378: D/Unity(7642):    * tmpvar_11)));
+02-18 09:30:36.378: D/Unity(7642):   worldNormalRefl_1 = tmpvar_13;
+02-18 09:30:36.378: D/Unity(7642):   mediump vec4 tmpvar_14;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_14.xyz = worldNormalRefl_1;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_14.w = (pow ((1.0 - gbuffer1_3.w), 0.75) * 7.0);
+02-18 09:30:36.378: D/Unity(7642):   lowp vec4 tmpvar_15;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_15 = impl_low_textureCubeLodEXT (unity_SpecCube0, worldNormalRefl_1, tmpvar_14.w);
+02-18 09:30:36.378: D/Unity(7642):   mediump vec4 tmpvar_16;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_16 = tmpvar_15;
+02-18 09:30:36.378: D/Unity(7642):   mediump vec3 viewDir_17;
+02-18 09:30:36.378: D/Unity(7642):   viewDir_17 = -(tmpvar_12);
+02-18 09:30:36.378: D/Unity(7642):   mediump float x_18;
+02-18 09:30:36.378: D/Unity(7642):   x_18 = (1.0 - max (0.0, dot (tmpvar_11, viewDir_17)));
+02-18 09:30:36.378: D/Unity(7642):   mediump vec4 tmpvar_19;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_19.w = 1.0;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_19.xyz = (((
+02-18 09:30:36.378: D/Unity(7642):     (unity_SpecCube0_HDR.x * tmpvar_16.w)
+02-18 09:30:36.378: D/Unity(7642):    * tmpvar_16.xyz) * gbuffer0_4.w) * mix (gbuffer1_3.xyz, vec3(clamp (
+02-18 09:30:36.378: D/Unity(7642):     (gbuffer1_3.w + (1.0 - (1.0 - max (
+02-18 09:30:36.378: D/Unity(7642):       max (gbuffer1_3.x, gbuffer1_3.y)
+02-18 09:30:36.378: D/Unity(7642):     , gbuffer1_3.z))))
+02-18 09:30:36.378: D/Unity(7642):   , 0.0, 1.0)), vec3((
+02-18 09:30:36.378: D/Unity(7642):     (x_18 * x_18)
+02-18 09:30:36.378: D/Unity(7642):    * 
+02-18 09:30:36.378: D/Unity(7642):     (x_18 * x_18)
+02-18 09:30:36.378: D/Unity(7642):   ))));
+02-18 09:30:36.378: D/Unity(7642):   mediump vec3 p_20;
+02-18 09:30:36.378: D/Unity(7642):   p_20 = tmpvar_7;
+02-18 09:30:36.378: D/Unity(7642):   mediump vec3 aabbMin_21;
+02-18 09:30:36.378: D/Unity(7642):   aabbMin_21 = unity_SpecCube0_BoxMin.xyz;
+02-18 09:30:36.378: D/Unity(7642):   mediump vec3 aabbMax_22;
+02-18 09:30:36.378: D/Unity(7642):   aabbMax_22 = unity_SpecCube0_BoxMax.xyz;
+02-18 09:30:36.378: D/Unity(7642):   mediump vec3 tmpvar_23;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_23 = max (max ((p_20 - aabbMax_22), (aabbMin_21 - p_20)), vec3(0.0, 0.0, 0.0));
+02-18 09:30:36.378: D/Unity(7642):   mediump float tmpvar_24;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_24 = sqrt(dot (tmpvar_23, tmpvar_23));
+02-18 09:30:36.378: D/Unity(7642):   mediump float tmpvar_25;
+02-18 09:30:36.378: D/Unity(7642):   highp float tmpvar_26;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_26 = clamp ((1.0 - (tmpvar_24 / unity_SpecCube1_ProbePosition.w)), 0.0, 1.0);
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_25 = tmpvar_26;
+02-18 09:30:36.378: D/Unity(7642):   mediump vec4 tmpvar_27;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_27.xyz = tmpvar_19.xyz;
+02-18 09:30:36.378: D/Unity(7642):   tmpvar_27.w = tmpvar_25;
+02-18 09:30:36.378: D/Unity(7642):   gl_FragData[0] = tmpvar_27;
+02-18 09:30:36.378: D/Unity(7642): }
+02-18 09:30:36.378: D/Unity(7642): -------- failed compiling:
+02-18 09:30:36.378: D/Unity(7642): fragment evaluation shader
+02-18 09:30:36.378: D/Unity(7642): -------- GLSL error:
+02-18 09:30:36.378: D/Unity(7642): Compile failed.
+02-18 09:30:36.378: D/Unity(7642): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+02-18 09:30:36.378: D/Unity(7642): ERROR: 0:8: 'return' : function return is not matching type
+02-18 09:30:36.378: D/Unity(7642): ERROR: 2 compilation errors. No code generated.
+02-18 09:30:36.378: D/Unity(7642): textureCubeLodEXT or textureCubeGradEXT usage detected.
+02-18 09:30:36.378: D/Unity(7642): GL_EXT_shader_texture_lod extension is buggy on PowerVR drivers.
+02-18 09:30:36.378: D/Unity(7642): replacing textureCubeLodEXT->textureCubeLod and textureCubeGradEXT->textureCubeGradARB as a workaround.
+02-18 09:30:36.700: D/Unity(7642): -------- Shader compilation failed
+02-18 09:30:36.700: D/Unity(7642): #version 100
+02-18 09:30:36.700: D/Unity(7642): #extension GL_EXT_shader_texture_lod : enable
+02-18 09:30:36.700: D/Unity(7642): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+02-18 09:30:36.700: D/Unity(7642): {
+02-18 09:30:36.700: D/Unity(7642): #if defined(GL_EXT_shader_texture_lod)
+02-18 09:30:36.700: D/Unity(7642): 	return textureCubeLodEXT(sampler, coord, lod);
+02-18 09:30:36.700: D/Unity(7642): #else
+02-18 09:30:36.700: D/Unity(7642): 	return textureCube(sampler, coord, lod);
+02-18 09:30:36.700: D/Unity(7642): #endif
+02-18 09:30:36.700: D/Unity(7642): }
+02-18 09:30:36.700: D/Unity(7642): uniform lowp samplerCube _MainTex;
+02-18 09:30:36.700: D/Unity(7642): uniform mediump float _Level;
+02-18 09:30:36.700: D/Unity(7642): varying mediump vec4 xlv_TEXCOORD0;
+02-18 09:30:36.700: D/Unity(7642): void main ()
+02-18 09:30:36.700: D/Unity(7642): {
+02-18 09:30:36.700: D/Unity(7642):   mediump vec4 tmpvar_1;
+02-18 09:30:36.700: D/Unity(7642):   lowp vec4 tmpvar_2;
+02-18 09:30:36.700: D/Unity(7642):   tmpvar_2 = impl_low_textureCubeLodEXT (_MainTex, xlv_TEXCOORD0.xyz, _Level);
+02-18 09:30:36.700: D/Unity(7642):   tmpvar_1 = tmpvar_2;
+02-18 09:30:36.700: D/Unity(7642):   gl_FragData[0] = tmpvar_1;
+02-18 09:30:36.700: D/Unity(7642): }
+02-18 09:30:36.700: D/Unity(7642): -------- failed compiling:
+02-18 09:30:36.700: D/Unity(7642): fragment evaluation shader
+02-18 09:30:36.700: D/Unity(7642): -------- GLSL error:
+02-18 09:30:36.700: D/Unity(7642): Compile failed.
+02-18 09:30:36.700: D/Unity(7642): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+02-18 09:30:36.700: D/Unity(7642): ERROR: 0:8: 'return' : function return is not matching type
+02-18 09:30:36.700: D/Unity(7642): ERROR: 2 compilation errors. No code generated.
+02-18 09:30:36.700: D/Unity(7642): textureCubeLodEXT or textureCubeGradEXT usage detected.
+02-18 09:30:36.700: D/Unity(7642): GL_EXT_shader_texture_lod extension is buggy on PowerVR drivers.
+02-18 09:30:36.700: D/Unity(7642): replacing textureCubeLodEXT->textureCubeLod and textureCubeGradEXT->textureCubeGradARB as a workaround.
+02-18 09:30:37.335: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.335: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.335: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.335: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.335: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.335: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.335: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.335: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.335: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.335: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.335: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.336: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.520: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.520: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.520: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.520: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.520: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.520: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.520: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.520: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.533: D/Unity(7642): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+02-18 09:30:37.553: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.556: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:37.652: D/Unity(7642): Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+02-18 09:30:38.124: D/Unity(7642): Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+02-18 09:30:38.193: I/Unity(7642): Using Unity SDK v7.2.2
+02-18 09:30:38.193: I/Unity(7642): UnityEngine.Debug:Internal_Log(Int32, String, Object)
+02-18 09:30:38.193: I/Unity(7642): UnityEngine.Debug:Log(Object)
+02-18 09:30:38.193: I/Unity(7642): Facebook.Unity.CustomLogger:Info(String) (at E:\Users\Unity3D\CityCarRun5\Assets\Plugins\Facebook\Scripts\Utils\FacebookLogger.cs:105)
+02-18 09:30:38.193: I/Unity(7642): Facebook.Unity.FacebookLogger:Info(String) (at E:\Users\Unity3D\CityCarRun5\Assets\Plugins\Facebook\Scripts\Utils\FacebookLogger.cs:49)
+02-18 09:30:38.193: I/Unity(7642): Facebook.Unity.FB:LogVersion() (at E:\Users\Unity3D\CityCarRun5\Assets\Plugins\Facebook\Scripts\FB.cs:623)
+02-18 09:30:38.193: I/Unity(7642): Facebook.Unity.FB:Init(String, Boolean, Boolean, Boolean, Boolean, Boolean, String, HideUnityDelegate, InitDelegate) (at E:\Users\Unity3D\CityCarRun5\Assets\Plugins\Facebook\Scripts\FB.cs:205)
+02-18 09:30:38.193: I/Unity(7642): Facebook.Unity.FB:Init(InitDelegate, HideUnityDelegate, String) (at E:\Users\Unity3D\CityCarRun5\Assets\Plugins\Facebook\Scripts\FB.cs:147)
+02-18 09:30:38.193: I/Unity(7642): Soomla.Profile.FBSocialProvider:.ctor() (at E:\Users\Unity3D\CityCarRun5\Assets\Plugins\Soomla\Profile\social-providers\FBSocialProvider.cs:50)
+02-18 09:30:38.193: I/Unity(7642): Soomla.Profile.SoomlaProfile:Initialize() (at E:\Users\Unity3
+02-18 09:30:38.201: I/Facebook.Unity.FBDebug(7642): Using Unity SDK v7.2.2
+02-18 09:30:38.221: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:38.221: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.221: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:38.221: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.221: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-18 09:30:38.221: D/Unity(7642): >			, 1d4002e2
+02-18 09:30:38.221: D/Unity(7642): >			, 31100005
+02-18 09:30:38.221: D/Unity(7642): >			, 7f600009
+02-18 09:30:38.221: D/Unity(7642): >			, 00000001
+02-18 09:30:38.221: D/Unity(7642): >			)
+02-18 09:30:38.222: D/Unity(7642): ? getMethodID("java.lang.Class", "forName", "(Ljava/lang/String;)Ljava/lang/Object;", static)
+02-18 09:30:38.222: D/Unity(7642): ! Class Class.forName(String);
+02-18 09:30:38.222: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.222: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.222: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.222: D/Unity(7642): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-18 09:30:38.222: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.222: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.222: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:38.222: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.222: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d4002e2, 570d1a68 
+02-18 09:30:38.222: D/Unity(7642): >			, 31200005
+02-18 09:30:38.222: D/Unity(7642): >			)
+02-18 09:30:38.222: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.222: D/Unity(7642): > AndroidJNI_CUSTOM_GetObjectClass()
+02-18 09:30:38.222: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.222: D/Unity(7642): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-18 09:30:38.222: D/Unity(7642): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-18 09:30:38.222: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.222: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.222: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.222: D/Unity(7642): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-18 09:30:38.222: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-18 09:30:38.222: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-18 09:30:38.226: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:38.226: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.226: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:38.226: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.226: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-18 09:30:38.226: D/Unity(7642): >			, 1dc00332
+02-18 09:30:38.226: D/Unity(7642): >			, 31300005
+02-18 09:30:38.226: D/Unity(7642): >			, 7f800009
+02-18 09:30:38.226: D/Unity(7642): >			, 00000001
+02-18 09:30:38.226: D/Unity(7642): >			)
+02-18 09:30:38.226: D/Unity(7642): ? getMethodID("com.facebook.unity.FB", "GetSdkVersion", "()Ljava/lang/String;", static)
+02-18 09:30:38.227: D/Unity(7642): ! String FB.GetSdkVersion();
+02-18 09:30:38.227: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.227: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.227: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.227: D/Unity(7642): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-18 09:30:38.227: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.227: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.229: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticStringMethod(1dc00332, 57447ae8)
+02-18 09:30:38.230: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.234: I/Unity(7642): Using Unity SDK v7.2.2 with FBAndroidSDK/4.7.0
+02-18 09:30:38.234: I/Unity(7642): UnityEngine.Debug:Internal_Log(Int32, String, Object)
+02-18 09:30:38.234: I/Unity(7642): UnityEngine.Debug:Log(Object)
+02-18 09:30:38.234: I/Unity(7642): Facebook.Unity.CustomLogger:Info(String) (at E:\Users\Unity3D\CityCarRun5\Assets\Plugins\Facebook\Scripts\Utils\FacebookLogger.cs:105)
+02-18 09:30:38.234: I/Unity(7642): Facebook.Unity.FacebookLogger:Info(String) (at E:\Users\Unity3D\CityCarRun5\Assets\Plugins\Facebook\Scripts\Utils\FacebookLogger.cs:49)
+02-18 09:30:38.234: I/Unity(7642): Facebook.Unity.FB:LogVersion() (at E:\Users\Unity3D\CityCarRun5\Assets\Plugins\Facebook\Scripts\FB.cs:616)
+02-18 09:30:38.234: I/Unity(7642): Facebook.Unity.FB:OnDllLoaded() (at E:\Users\Unity3D\CityCarRun5\Assets\Plugins\Facebook\Scripts\FB.cs:597)
+02-18 09:30:38.234: I/Unity(7642): Facebook.Unity.CompiledFacebookLoader:Start() (at E:\Users\Unity3D\CityCarRun5\Assets\Plugins\Facebook\Scripts\FB.cs:794)
+02-18 09:30:38.234: I/Unity(7642):  
+02-18 09:30:38.234: I/Unity(7642): (Filename: E Line: 0)
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-18 09:30:38.234: D/Unity(7642): >			, 1d4002e2
+02-18 09:30:38.234: D/Unity(7642): >			, 31500005
+02-18 09:30:38.234: D/Unity(7642): >			, 7f900009
+02-18 09:30:38.234: D/Unity(7642): >			, 00000001
+02-18 09:30:38.234: D/Unity(7642): >			)
+02-18 09:30:38.234: D/Unity(7642): ? getMethodID("java.lang.Class", "forName", "(Ljava/lang/String;)Ljava/lang/Object;", static)
+02-18 09:30:38.234: D/Unity(7642): ! Class Class.forName(String);
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d4002e2, 570d1a68 
+02-18 09:30:38.234: D/Unity(7642): >			, 31600005
+02-18 09:30:38.234: D/Unity(7642): >			)
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_GetObjectClass()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-18 09:30:38.234: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-18 09:30:38.235: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:38.235: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.235: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:38.235: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.235: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-18 09:30:38.235: D/Unity(7642): >			, 1d600336
+02-18 09:30:38.235: D/Unity(7642): >			, 31700005
+02-18 09:30:38.235: D/Unity(7642): >			, 7fb00009
+02-18 09:30:38.235: D/Unity(7642): >			, 00000001
+02-18 09:30:38.235: D/Unity(7642): >			)
+02-18 09:30:38.235: D/Unity(7642): ? getMethodID("android.util.Log", "i", "(Ljava/lang/String;Ljava/lang/String;)I", static)
+02-18 09:30:38.235: D/Unity(7642): ! int Log.i(String, String);
+02-18 09:30:38.235: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.235: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.235: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.235: D/Unity(7642): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-18 09:30:38.235: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.235: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.235: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:38.235: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.235: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:38.235: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.235: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticIntMethod(1d600336, 571130d0 
+02-18 09:30:38.235: D/Unity(7642): >			, 31800005
+02-18 09:30:38.235: D/Unity(7642): >			, 7fc00009
+02-18 09:30:38.235: D/Unity(7642): >			)
+02-18 09:30:38.235: I/Facebook.Unity.FBDebug(7642): Using Unity SDK v7.2.2 with FBAndroidSDK/4.7.0
+02-18 09:30:38.235: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.235: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.235: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.235: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-18 09:30:38.240: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:38.240: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.240: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:38.240: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.240: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-18 09:30:38.240: D/Unity(7642): >			, 1dc00332
+02-18 09:30:38.240: D/Unity(7642): >			, 31900005
+02-18 09:30:38.240: D/Unity(7642): >			, 7fd00009
+02-18 09:30:38.240: D/Unity(7642): >			, 00000001
+02-18 09:30:38.240: D/Unity(7642): >			)
+02-18 09:30:38.240: D/Unity(7642): ? getMethodID("com.facebook.unity.FB", "SetUserAgentSuffix", "(Ljava/lang/String;)V", static)
+02-18 09:30:38.241: D/Unity(7642): ! void FB.SetUserAgentSuffix(String);
+02-18 09:30:38.241: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.241: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.241: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.241: D/Unity(7642): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-18 09:30:38.241: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.241: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.241: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:38.241: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.241: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticVoidMethod(1dc00332, 57447d18 
+02-18 09:30:38.241: D/Unity(7642): >			, 31a00005
+02-18 09:30:38.241: D/Unity(7642): >			)
+02-18 09:30:38.241: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.241: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.282: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:38.282: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.282: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:38.282: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.282: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-18 09:30:38.282: D/Unity(7642): >			, 1dc00332
+02-18 09:30:38.282: D/Unity(7642): >			, 31b00005
+02-18 09:30:38.282: D/Unity(7642): >			, 7ff00009
+02-18 09:30:38.282: D/Unity(7642): >			, 00000001
+02-18 09:30:38.282: D/Unity(7642): >			)
+02-18 09:30:38.282: D/Unity(7642): ? getMethodID("com.facebook.unity.FB", "Init", "(Ljava/lang/String;)V", static)
+02-18 09:30:38.283: D/Unity(7642): ! void FB.Init(String);
+02-18 09:30:38.283: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.283: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.283: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.283: D/Unity(7642): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-18 09:30:38.283: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.283: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.283: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:38.283: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.283: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticVoidMethod(1dc00332, 57447b20 
+02-18 09:30:38.283: D/Unity(7642): >			, 31c00005
+02-18 09:30:38.283: D/Unity(7642): >			)
+02-18 09:30:38.299: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:38.299: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:38.422: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-18 09:30:38.423: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-18 09:30:38.423: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-18 09:30:40.352: D/Unity(7642): Setting up 1 worker threads for Enlighten.
+02-18 09:30:40.352: D/Unity(7642):   Thread -> id: 64e5f018 -> priority: 1 
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_PushLocalFrame()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-18 09:30:40.382: D/Unity(7642): >			, 1d4002e2
+02-18 09:30:40.382: D/Unity(7642): >			, 31d00005
+02-18 09:30:40.382: D/Unity(7642): >			, 88c00009
+02-18 09:30:40.382: D/Unity(7642): >			, 00000001
+02-18 09:30:40.382: D/Unity(7642): >			)
+02-18 09:30:40.382: D/Unity(7642): ? getMethodID("java.lang.Class", "forName", "(Ljava/lang/String;)Ljava/lang/Object;", static)
+02-18 09:30:40.382: D/Unity(7642): ! Class Class.forName(String);
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d4002e2, 570d1a68 
+02-18 09:30:40.382: D/Unity(7642): >			, 31e00005
+02-18 09:30:40.382: D/Unity(7642): >			)
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_GetObjectClass()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-18 09:30:40.382: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-18 09:30:40.383: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:40.383: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:40.383: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:40.383: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:40.383: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-18 09:30:40.383: D/Unity(7642): >			, 1df00326
+02-18 09:30:40.383: D/Unity(7642): >			, 31f00005
+02-18 09:30:40.383: D/Unity(7642): >			, 88e00009
+02-18 09:30:40.383: D/Unity(7642): >			, 00000001
+02-18 09:30:40.383: D/Unity(7642): >			)
+02-18 09:30:40.383: D/Unity(7642): ? getMethodID("com.soomla.data.KeyValueStorage", "getValue", "(Ljava/lang/String;)Ljava/lang/String;", static)
+02-18 09:30:40.383: D/Unity(7642): ! String KeyValueStorage.getValue(String);
+02-18 09:30:40.383: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:40.383: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:40.383: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:40.383: D/Unity(7642): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-18 09:30:40.383: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:40.383: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:40.383: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:40.383: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:40.383: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticStringMethod(1df00326, 57444d08 
+02-18 09:30:40.383: D/Unity(7642): >			, 32000005
+02-18 09:30:40.383: D/Unity(7642): >			)
+02-18 09:30:40.386: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:40.386: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:40.386: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-18 09:30:40.387: D/Unity(7642): > AndroidJNI_CUSTOM_PopLocalFrame()
+02-18 09:30:42.119: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.119: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.119: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.119: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.119: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.119: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.119: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.119: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.119: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.119: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.119: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.119: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.188: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.188: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.209: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.221: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.238: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.282: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.283: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.301: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.314: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.379: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.379: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.379: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.394: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.453: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.453: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.453: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.486: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.549: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.549: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.563: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.579: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.623: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.639: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.673: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.673: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.719: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.747: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.793: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.793: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.793: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.812: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.843: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.890: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.904: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.923: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.965: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:42.965: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.042: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.042: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.042: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.058: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.094: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.140: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.140: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.153: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.214: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.214: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.245: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.264: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.310: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.310: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.332: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.340: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.384: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.384: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.402: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.415: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.435: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.481: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.481: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.494: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.555: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.555: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.555: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.571: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.607: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.652: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.652: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.652: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.680: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.725: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.725: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.742: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.756: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.779: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.825: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.825: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.837: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.853: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.898: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.898: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.912: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.937: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.958: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:43.973: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.017: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.017: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.034: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.066: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.114: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.114: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.114: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.144: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.165: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.210: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.210: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.222: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.239: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.284: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.284: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.301: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.315: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.337: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.380: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.380: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.394: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.455: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.455: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.455: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.471: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.506: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.552: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.552: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.552: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.581: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.626: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.642: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.657: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.676: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.721: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.735: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.795: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.795: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.812: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.848: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.893: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.894: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.922: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.970: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.970: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.973: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:44.993: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.028: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.048: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.093: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.093: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.093: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.122: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.167: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.175: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.220: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.220: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.265: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.266: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.277: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.294: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.340: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.360: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.391: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.436: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.437: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.510: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.511: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.542: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.562: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.606: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.619: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.638: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.684: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.684: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.694: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.756: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.756: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.757: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.806: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.833: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.855: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.855: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.879: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.896: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.944: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:45.954: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.016: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.016: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.016: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.044: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.067: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.088: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.136: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.136: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.137: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.157: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.194: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.194: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.212: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.235: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.259: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.290: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.304: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.324: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.343: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.373: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.373: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.395: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.417: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.435: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.486: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.486: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.508: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.528: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.540: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.577: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.577: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.598: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.621: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.667: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.689: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.697: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.734: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.734: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.758: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.774: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.824: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.824: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.852: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.899: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.899: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.916: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.978: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:46.984: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.002: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.059: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.059: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.060: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.079: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.096: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.157: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.180: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.202: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.225: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.247: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.256: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.292: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.338: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.363: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.383: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.408: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.428: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.455: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.455: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.474: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.504: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.697: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.698: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.698: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.698: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.698: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.698: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.749: D/Unity(7642): Unknown event structure (0)
+02-18 09:30:47.828: D/Unity(7642): > AndroidJNI_CUSTOM_PushLocalFrame()
+02-18 09:30:47.828: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:47.829: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.829: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:47.829: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.829: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-18 09:30:47.829: D/Unity(7642): >			, 1d4002e2
+02-18 09:30:47.829: D/Unity(7642): >			, 4e500005
+02-18 09:30:47.830: D/Unity(7642): >			, 8a200009
+02-18 09:30:47.830: D/Unity(7642): >			, 00000001
+02-18 09:30:47.830: D/Unity(7642): >			)
+02-18 09:30:47.830: D/Unity(7642): ? getMethodID("java.lang.Class", "forName", "(Ljava/lang/String;)Ljava/lang/Object;", static)
+02-18 09:30:47.830: D/Unity(7642): ! Class Class.forName(String);
+02-18 09:30:47.831: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.831: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.831: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.831: D/Unity(7642): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-18 09:30:47.831: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.831: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.832: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:47.832: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.832: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d4002e2, 570d1a68 
+02-18 09:30:47.832: D/Unity(7642): >			, 4e600005
+02-18 09:30:47.832: D/Unity(7642): >			)
+02-18 09:30:47.832: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.832: D/Unity(7642): > AndroidJNI_CUSTOM_GetObjectClass()
+02-18 09:30:47.832: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.832: D/Unity(7642): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-18 09:30:47.833: D/Unity(7642): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-18 09:30:47.833: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.834: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.834: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.835: D/Unity(7642): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-18 09:30:47.835: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-18 09:30:47.835: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-18 09:30:47.835: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:47.835: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.836: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:47.836: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.836: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-18 09:30:47.836: D/Unity(7642): >			, 1e000336
+02-18 09:30:47.836: D/Unity(7642): >			, 4e700005
+02-18 09:30:47.836: D/Unity(7642): >			, 8a400009
+02-18 09:30:47.836: D/Unity(7642): >			, 00000001
+02-18 09:30:47.837: D/Unity(7642): >			)
+02-18 09:30:47.837: D/Unity(7642): ? getMethodID("com.soomla.data.KeyValueStorage", "deleteKeyValue", "(Ljava/lang/String;)V", static)
+02-18 09:30:47.837: D/Unity(7642): ! void KeyValueStorage.deleteKeyValue(String);
+02-18 09:30:47.838: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.838: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.838: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.838: D/Unity(7642): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-18 09:30:47.838: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.838: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.839: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:47.839: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.839: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticVoidMethod(1e000336, 57444b10 
+02-18 09:30:47.839: D/Unity(7642): >			, 4e800005
+02-18 09:30:47.839: D/Unity(7642): >			)
+02-18 09:30:47.841: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.841: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.841: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-18 09:30:47.841: D/Unity(7642): > AndroidJNI_CUSTOM_PopLocalFrame()
+02-18 09:30:47.845: D/Unity(7642): > AndroidJNI_CUSTOM_PushLocalFrame()
+02-18 09:30:47.845: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:47.845: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.845: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:47.846: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.846: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-18 09:30:47.846: D/Unity(7642): >			, 1d4002e2
+02-18 09:30:47.846: D/Unity(7642): >			, 4e900005
+02-18 09:30:47.846: D/Unity(7642): >			, 8ae00009
+02-18 09:30:47.847: D/Unity(7642): >			, 00000001
+02-18 09:30:47.847: D/Unity(7642): >			)
+02-18 09:30:47.847: D/Unity(7642): ? getMethodID("java.lang.Class", "forName", "(Ljava/lang/String;)Ljava/lang/Object;", static)
+02-18 09:30:47.847: D/Unity(7642): ! Class Class.forName(String);
+02-18 09:30:47.847: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.847: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.847: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.848: D/Unity(7642): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-18 09:30:47.848: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.848: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.849: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:47.849: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.849: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d4002e2, 570d1a68 
+02-18 09:30:47.850: D/Unity(7642): >			, 4ea00005
+02-18 09:30:47.850: D/Unity(7642): >			)
+02-18 09:30:47.850: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.850: D/Unity(7642): > AndroidJNI_CUSTOM_GetObjectClass()
+02-18 09:30:47.850: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.850: D/Unity(7642): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-18 09:30:47.851: D/Unity(7642): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-18 09:30:47.851: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.851: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.851: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.851: D/Unity(7642): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-18 09:30:47.851: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-18 09:30:47.851: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-18 09:30:47.852: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:47.852: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.852: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:47.852: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.852: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-18 09:30:47.852: D/Unity(7642): >			, 1e100336
+02-18 09:30:47.853: D/Unity(7642): >			, 4eb00005
+02-18 09:30:47.853: D/Unity(7642): >			, 8b000009
+02-18 09:30:47.853: D/Unity(7642): >			, 00000001
+02-18 09:30:47.853: D/Unity(7642): >			)
+02-18 09:30:47.853: D/Unity(7642): ? getMethodID("com.soomla.profile.unity.ProfileEventHandler", "pushEventLoginStarted", "(Ljava/lang/String;ZLjava/lang/String;)V", static)
+02-18 09:30:47.855: D/Unity(7642): ! void ProfileEventHandler.pushEventLoginStarted(String, boolean, String);
+02-18 09:30:47.855: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.855: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.855: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.855: D/Unity(7642): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-18 09:30:47.856: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.856: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.856: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:47.856: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.856: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:47.856: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.857: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticVoidMethod(1e100336, 57424d20 
+02-18 09:30:47.857: D/Unity(7642): >			, 4ec00005
+02-18 09:30:47.857: D/Unity(7642): >			, 00000000
+02-18 09:30:47.857: D/Unity(7642): >			, 8b100009
+02-18 09:30:47.857: D/Unity(7642): >			)
+02-18 09:30:47.858: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.858: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.859: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.859: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.859: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-18 09:30:47.860: D/Unity(7642): > AndroidJNI_CUSTOM_PopLocalFrame()
+02-18 09:30:47.880: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:47.880: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.880: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:47.880: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.880: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-18 09:30:47.880: D/Unity(7642): >			, 1dc00332
+02-18 09:30:47.881: D/Unity(7642): >			, 4ed00005
+02-18 09:30:47.881: D/Unity(7642): >			, 8b200009
+02-18 09:30:47.881: D/Unity(7642): >			, 00000001
+02-18 09:30:47.881: D/Unity(7642): >			)
+02-18 09:30:47.881: D/Unity(7642): ? getMethodID("com.facebook.unity.FB", "LoginWithReadPermissions", "(Ljava/lang/String;)V", static)
+02-18 09:30:47.882: D/Unity(7642): ! void FB.LoginWithReadPermissions(String);
+02-18 09:30:47.883: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.883: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.883: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.883: D/Unity(7642): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-18 09:30:47.883: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.883: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:47.883: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:30:47.883: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.884: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticVoidMethod(1dc00332, 57447bc8 
+02-18 09:30:47.884: D/Unity(7642): >			, 4ee00005
+02-18 09:30:47.884: D/Unity(7642): >			)
+02-18 09:30:47.935: I/Unity(7642): onPause
+02-18 09:30:47.938: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:30:47.938: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:30:48.002: D/Unity(7642): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+02-18 09:30:48.026: I/Unity(7642): windowFocusChanged: false
+02-18 09:31:10.138: I/Unity(7642): windowFocusChanged: true
+02-18 09:31:10.147: I/Unity(7642): onResume
+02-18 09:31:10.151: D/Unity(7642): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+02-18 09:31:10.155: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.155: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.155: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.155: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.155: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.155: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.155: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.155: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.155: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.155: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.155: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.175: D/Unity(7642): > AndroidJNI_CUSTOM_PushLocalFrame()
+02-18 09:31:10.175: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-18 09:31:10.176: D/Unity(7642): >			, 1d4002e2
+02-18 09:31:10.176: D/Unity(7642): >			, 4f100005
+02-18 09:31:10.176: D/Unity(7642): >			, 8e100009
+02-18 09:31:10.176: D/Unity(7642): >			, 00000001
+02-18 09:31:10.176: D/Unity(7642): >			)
+02-18 09:31:10.176: D/Unity(7642): ? getMethodID("java.lang.Class", "forName", "(Ljava/lang/String;)Ljava/lang/Object;", static)
+02-18 09:31:10.176: D/Unity(7642): ! Class Class.forName(String);
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d4002e2, 570d1a68 
+02-18 09:31:10.176: D/Unity(7642): >			, 4f200005
+02-18 09:31:10.176: D/Unity(7642): >			)
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_GetObjectClass()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:31:10.176: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-18 09:31:10.176: D/Unity(7642): >			, 1d400382
+02-18 09:31:10.176: D/Unity(7642): >			, 4f300005
+02-18 09:31:10.176: D/Unity(7642): >			, 8e300009
+02-18 09:31:10.176: D/Unity(7642): >			, 00000001
+02-18 09:31:10.176: D/Unity(7642): >			)
+02-18 09:31:10.176: D/Unity(7642): ? getMethodID("com.soomla.profile.unity.ProfileEventHandler", "pushEventLoginCancelled", "(Ljava/lang/String;ZLjava/lang/String;)V", static)
+02-18 09:31:10.177: D/Unity(7642): ! void ProfileEventHandler.pushEventLoginCancelled(String, boolean, String);
+02-18 09:31:10.177: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:31:10.177: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:31:10.177: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:31:10.177: D/Unity(7642): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-18 09:31:10.177: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:31:10.177: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:31:10.177: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:31:10.177: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:31:10.177: D/Unity(7642): > AndroidJNI_CUSTOM_NewStringUTF()
+02-18 09:31:10.177: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:31:10.177: D/Unity(7642): > AndroidJNI_CUSTOM_CallStaticVoidMethod(1d400382, 57424c78 
+02-18 09:31:10.177: D/Unity(7642): >			, 4f400005
+02-18 09:31:10.177: D/Unity(7642): >			, 00000000
+02-18 09:31:10.177: D/Unity(7642): >			, 8e400009
+02-18 09:31:10.177: D/Unity(7642): >			)
+02-18 09:31:10.178: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:31:10.178: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:31:10.178: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-18 09:31:10.178: D/Unity(7642): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-18 09:31:10.178: D/Unity(7642): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-18 09:31:10.178: D/Unity(7642): > AndroidJNI_CUSTOM_PopLocalFrame()
+02-18 09:31:10.182: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.194: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.257: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.257: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.257: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.271: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.334: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.334: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.334: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.365: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.411: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.411: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.411: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.440: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.461: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.507: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.518: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.534: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.582: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.598: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.613: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.634: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.680: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.680: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.692: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.755: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.755: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.755: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.785: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.830: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.830: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.861: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.928: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.928: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.939: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:10.956: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.001: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.001: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.017: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.031: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.096: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.096: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.096: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.124: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.171: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.171: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.172: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.224: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.268: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.268: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.281: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.297: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.342: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.342: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.358: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.393: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.439: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.439: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.472: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.496: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.496: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.548: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.548: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.559: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.577: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.629: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.641: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.659: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.686: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.715: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.761: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.761: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.778: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.816: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.816: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.874: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.875: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.875: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.930: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.930: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.981: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:11.981: D/Unity(7642): Unknown event structure (0)
+02-18 09:31:12.041: I/Unity(7642): onPause
+02-18 09:31:12.091: D/Unity(7642): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+02-18 09:31:12.100: I/Unity(7642): windowFocusChanged: false
+02-18 09:31:12.237: D/Unity(7642): [EGL] Attaching window :0x0
