@@ -1,0 +1,857 @@
+02-19 18:15:17.971: I/Unity(7446): splash_mode = 0 (integer)
+02-19 18:15:17.971: I/Unity(7446): hide_status_bar = True (bool)
+02-19 18:15:17.971: I/Unity(7446): useObb = False (bool)
+02-19 18:15:17.996: D/Unity(7446): surfaces: attach glview
+02-19 18:15:18.000: I/Unity(7446): Choreographer available: Enabling VSYNC timing
+02-19 18:15:18.004: I/Unity(7446): onResume
+02-19 18:15:18.035: D/Unity(7446): [EGL] Attaching window :0x5cb26a10
+02-19 18:15:18.035: D/Unity(7446): [EGL] Attaching window :0x5cb26a10
+02-19 18:15:18.076: I/Unity(7446): windowFocusChanged: true
+02-19 18:15:18.097: D/Unity(7446): SystemInfo CPU = ARMv7 VFPv3 NEON, Cores = 4, Memory = 1983mb
+02-19 18:15:18.097: D/Unity(7446): SystemInfo ARM big.LITTLE configuration: 4 big (mask: 15), 0 little (mask: 0)
+02-19 18:15:18.866: D/Unity(7446): [SHA1] fec4b90a554551162d55c21dc542ea96d053ce36   21483059 bytes ~ lib/armeabi-v7a/libunity.so
+02-19 18:15:18.868: D/Unity(7446): [SHA1] 3751d6eefb61279a6ebac91ce6eb16f88bfd5faf      44013 bytes ~ lib/armeabi-v7a/libmain.so
+02-19 18:15:18.982: D/Unity(7446): [SHA1] 3f9c6aadd03554cd6a4a07defc46c12444437e5b    3758496 bytes ~ lib/armeabi-v7a/libmono.so
+02-19 18:15:19.817: D/Unity(7446): [SHA1] 045045246166a443ea20b6cd3230e74f1ac7b939   25204615 bytes ~ lib/x86/libunity.so
+02-19 18:15:19.818: D/Unity(7446): [SHA1] 00907983a931d823290fabbba9a80ada7e3c0a53      27052 bytes ~ lib/x86/libmain.so
+02-19 18:15:19.934: D/Unity(7446): [SHA1] c3f02aff64c835e59f1c6391ab9999d1286acf4f    3636444 bytes ~ lib/x86/libmono.so
+02-19 18:15:19.935: D/Unity(7446): Mono path[0] = '/mnt/asec/com.soomla.test-2/pkg.apk/assets/bin/Data/Managed'
+02-19 18:15:19.935: D/Unity(7446): Mono config path = 'assets/bin/Data/Managed'
+02-19 18:15:19.935: D/Unity(7446): PlayerConnection initialized from /mnt/asec/com.soomla.test-2/pkg.apk/assets/bin/Data (debug = 0)
+02-19 18:15:19.936: D/Unity(7446): PlayerConnection initialized network socket : 0.0.0.0 55108
+02-19 18:15:19.936: D/Unity(7446): PlayerConnection initialized unix socket : Unity-com.soomla.test
+02-19 18:15:19.937: D/Unity(7446): Multi-casting "[IP] 192.168.0.101 [Port] 55108 [Flags] 2 [Guid] 1947738377 [EditorId] 2517556098 [Version] 1048832 [Id] AndroidPlayer(JYT_JY-G5@192.168.0.101) [Debug] 0" to [225.0.0.222:54997]...
+02-19 18:15:20.035: D/Unity(7446): InitializeScriptEngine OK (5f830ee0)
+02-19 18:15:20.035: D/Unity(7446): PlayerConnection already initialized - listening to [192.168.0.101:55108]
+02-19 18:15:20.062: D/Unity(7446): PlayerInitEngineNoGraphics OK
+02-19 18:15:20.080: D/Unity(7446): [EGL] Request: ES 2.0 RGB0 000 0/0
+02-19 18:15:20.082: D/Unity(7446): [EGL] Found: ID[21] ES 2.0 RGB16 565 0/0
+02-19 18:15:20.082: D/Unity(7446): [EGL] Request: ES 2.0 RGB0 000 0/0
+02-19 18:15:20.083: D/Unity(7446): [EGL] Found: ID[21] ES 2.0 RGB16 565 0/0
+02-19 18:15:20.083: D/Unity(7446): [EGL] Request: ES 2.0 RGBA32 8888 0/0
+02-19 18:15:20.085: D/Unity(7446): [EGL] Found: ID[15] ES 2.0 RGBA32 8888 0/0
+02-19 18:15:20.091: D/Unity(7446): ANativeWindow: (720/1280) RequestedResolution: (0/0) EGLSurface: (720/1280)
+02-19 18:15:20.102: D/Unity(7446): Renderer: PowerVR SGX 544MP
+02-19 18:15:20.102: D/Unity(7446): Vendor:   Imagination Technologies
+02-19 18:15:20.102: D/Unity(7446): Version:  OpenGL ES 2.0 build 1.9@2204701
+02-19 18:15:20.102: D/Unity(7446): GLES:     2
+02-19 18:15:20.102: D/Unity(7446): GL_EXT_debug_marker GL_OES_rgb8_rgba8 GL_OES_depth24 GL_OES_vertex_half_float GL_OES_texture_float GL_OES_texture_half_float GL_OES_element_index_uint GL_OES_mapbuffer GL_OES_fragment_precision_high GL_OES_compressed_ETC1_RGB8_texture GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_required_internalformat GL_OES_depth_texture GL_OES_get_program_binary GL_OES_packed_depth_stencil GL_OES_standard_derivatives GL_OES_vertex_array_object GL_OES_egl_sync GL_OES_texture_npot GL_EXT_multi_draw_arrays GL_EXT_texture_format_BGRA8888 GL_EXT_discard_framebuffer GL_EXT_shader_texture_lod GL_IMG_shader_binary GL_IMG_texture_compression_pvrtc GL_IMG_texture_compression_pvrtc2 GL_IMG_texture_npot GL_IMG_texture_format_BGRA8888 GL_IMG_read_format GL_IMG_program_binary GL_IMG_uniform_buffer_object GL_IMG_multisampled_render_to_texture
+02-19 18:15:20.163: D/Unity(7446): ETC2 0
+02-19 18:15:20.163: D/Unity(7446): OPENGL LOG: Creating OpenGL ES 2.0 graphics device
+02-19 18:15:20.164: D/Unity(7446): InitializeGfxDevice OK
+02-19 18:15:20.164: D/Unity(7446): Initialize engine version: 5.2.2p1 (6dd5cd7ea574)
+02-19 18:15:20.246: D/Unity(7446): AudioManager: Selecting AudioTrack output...
+02-19 18:15:20.256: D/Unity(7446): Begin MonoManager ReloadAssembly
+02-19 18:15:20.275: D/Unity(7446): Platform assembly: /mnt/asec/com.soomla.test-2/pkg.apk/assets/bin/Data/Managed/UnityEngine.dll (this message is harmless)
+02-19 18:15:20.284: D/Unity(7446): Loading /mnt/asec/com.soomla.test-2/pkg.apk/assets/bin/Data/Managed/UnityEngine.dll into Unity Child Domain
+02-19 18:15:20.347: D/Unity(7446): Platform assembly: /mnt/asec/com.soomla.test-2/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp-firstpass.dll (this message is harmless)
+02-19 18:15:20.351: D/Unity(7446): Loading /mnt/asec/com.soomla.test-2/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp-firstpass.dll into Unity Child Domain
+02-19 18:15:20.356: D/Unity(7446): Platform assembly: /mnt/asec/com.soomla.test-2/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp.dll (this message is harmless)
+02-19 18:15:20.359: D/Unity(7446): Loading /mnt/asec/com.soomla.test-2/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp.dll into Unity Child Domain
+02-19 18:15:20.364: D/Unity(7446): Platform assembly: /mnt/asec/com.soomla.test-2/pkg.apk/assets/bin/Data/Managed/UnityEngine.UI.dll (this message is harmless)
+02-19 18:15:20.366: D/Unity(7446): Loading /mnt/asec/com.soomla.test-2/pkg.apk/assets/bin/Data/Managed/UnityEngine.UI.dll into Unity Child Domain
+02-19 18:15:20.370: D/Unity(7446): Platform assembly: /mnt/asec/com.soomla.test-2/pkg.apk/assets/bin/Data/Managed/UnityEngine.Networking.dll (this message is harmless)
+02-19 18:15:20.373: D/Unity(7446): Loading /mnt/asec/com.soomla.test-2/pkg.apk/assets/bin/Data/Managed/UnityEngine.Networking.dll into Unity Child Domain
+02-19 18:15:20.374: D/Unity(7446): Platform assembly: /mnt/asec/com.soomla.test-2/pkg.apk/assets/bin/Data/Managed/GrowIntegration.dll (this message is harmless)
+02-19 18:15:20.375: D/Unity(7446): Loading /mnt/asec/com.soomla.test-2/pkg.apk/assets/bin/Data/Managed/GrowIntegration.dll into Unity Child Domain
+02-19 18:15:20.408: D/Unity(7446): Platform assembly: /mnt/asec/com.soomla.test-2/pkg.apk/assets/bin/Data/Managed/System.Core.dll (this message is harmless)
+02-19 18:15:20.417: D/Unity(7446): - Completed reload, in  0.161 seconds
+02-19 18:15:20.420: D/Unity(7446): PlayerInitEngineGraphics OK
+02-19 18:15:20.421: D/Unity(7446): Found 10 native sensors
+02-19 18:15:20.422: D/Unity(7446): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+02-19 18:15:20.423: D/Unity(7446): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+02-19 18:15:20.434: D/Unity(7446): Requested framebuffer: resolution[720x1280], rgba[8/8/8/8], depth+stencil[on], samples[1]
+02-19 18:15:20.442: D/Unity(7446): Created framebuffer: resolution[720x1280], rgba[8/8/8/8], depth+stencil[24/8], samples[0] 
+02-19 18:15:20.613: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:20.613: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:20.613: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:20.613: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:20.613: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:20.613: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:20.613: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:20.613: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:20.634: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:20.680: D/Unity(7446): Platform assembly: /mnt/asec/com.soomla.test-2/pkg.apk/assets/bin/Data/Managed/System.dll (this message is harmless)
+02-19 18:15:20.726: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:20.777: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:20.818: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:20.880: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:20.901: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:20.923: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:20.933: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:20.973: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:21.043: D/Unity(7446): -------- Shader compilation failed
+02-19 18:15:21.043: D/Unity(7446): #version 100
+02-19 18:15:21.044: D/Unity(7446): #extension GL_EXT_shader_texture_lod : enable
+02-19 18:15:21.044: D/Unity(7446): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+02-19 18:15:21.044: D/Unity(7446): {
+02-19 18:15:21.044: D/Unity(7446): #if defined(GL_EXT_shader_texture_lod)
+02-19 18:15:21.044: D/Unity(7446): 	return textureCubeLodEXT(sampler, coord, lod);
+02-19 18:15:21.044: D/Unity(7446): #else
+02-19 18:15:21.044: D/Unity(7446): 	return textureCube(sampler, coord, lod);
+02-19 18:15:21.044: D/Unity(7446): #endif
+02-19 18:15:21.044: D/Unity(7446): }
+02-19 18:15:21.044: D/Unity(7446): uniform mediump vec4 _TexA_HDR;
+02-19 18:15:21.044: D/Unity(7446): uniform mediump vec4 _TexB_HDR;
+02-19 18:15:21.044: D/Unity(7446): uniform lowp samplerCube _TexA;
+02-19 18:15:21.045: D/Unity(7446): uniform lowp samplerCube _TexB;
+02-19 18:15:21.045: D/Unity(7446): uniform highp float _Level;
+02-19 18:15:21.045: D/Unity(7446): uniform highp float _value;
+02-19 18:15:21.045: D/Unity(7446): varying highp vec3 xlv_TEXCOORD0;
+02-19 18:15:21.045: D/Unity(7446): void main ()
+02-19 18:15:21.045: D/Unity(7446): {
+02-19 18:15:21.045: D/Unity(7446):   mediump vec3 res_1;
+02-19 18:15:21.045: D/Unity(7446):   mediump vec4 tmpvar_2;
+02-19 18:15:21.045: D/Unity(7446):   lowp vec4 tmpvar_3;
+02-19 18:15:21.045: D/Unity(7446):   tmpvar_3 = impl_low_textureCubeLodEXT (_TexA, xlv_TEXCOORD0, _Level);
+02-19 18:15:21.045: D/Unity(7446):   tmpvar_2 = tmpvar_3;
+02-19 18:15:21.045: D/Unity(7446):   mediump vec3 tmpvar_4;
+02-19 18:15:21.045: D/Unity(7446):   tmpvar_4 = ((_TexA_HDR.x * tmpvar_2.w) * tmpvar_2.xyz);
+02-19 18:15:21.046: D/Unity(7446):   mediump vec4 tmpvar_5;
+02-19 18:15:21.046: D/Unity(7446):   lowp vec4 tmpvar_6;
+02-19 18:15:21.046: D/Unity(7446):   tmpvar_6 = impl_low_textureCubeLodEXT (_TexB, xlv_TEXCOORD0, _Level);
+02-19 18:15:21.046: D/Unity(7446):   tmpvar_5 = tmpvar_6;
+02-19 18:15:21.046: D/Unity(7446):   mediump vec3 tmpvar_7;
+02-19 18:15:21.046: D/Unity(7446):   tmpvar_7 = ((_TexB_HDR.x * tmpvar_5.w) * tmpvar_5.xyz);
+02-19 18:15:21.046: D/Unity(7446):   highp vec3 tmpvar_8;
+02-19 18:15:21.046: D/Unity(7446):   tmpvar_8 = mix (tmpvar_4, tmpvar_7, vec3(_value));
+02-19 18:15:21.046: D/Unity(7446):   res_1 = tmpvar_8;
+02-19 18:15:21.046: D/Unity(7446):   mediump vec4 tmpvar_9;
+02-19 18:15:21.046: D/Unity(7446):   tmpvar_9.w = 1.0;
+02-19 18:15:21.046: D/Unity(7446):   tmpvar_9.xyz = res_1;
+02-19 18:15:21.046: D/Unity(7446):   gl_FragData[0] = tmpvar_9;
+02-19 18:15:21.047: D/Unity(7446): }
+02-19 18:15:21.047: D/Unity(7446): -------- failed compiling:
+02-19 18:15:21.047: D/Unity(7446): fragment evaluation shader
+02-19 18:15:21.047: D/Unity(7446): -------- GLSL error:
+02-19 18:15:21.047: D/Unity(7446): Compile failed.
+02-19 18:15:21.047: D/Unity(7446): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+02-19 18:15:21.047: D/Unity(7446): ERROR: 0:8: 'return' : function return is not matching type
+02-19 18:15:21.047: D/Unity(7446): ERROR: 2 compilation errors. No code generated.
+02-19 18:15:21.047: D/Unity(7446): textureCubeLodEXT or textureCubeGradEXT usage detected.
+02-19 18:15:21.047: D/Unity(7446): GL_EXT_shader_texture_lod extension is buggy on PowerVR drivers.
+02-19 18:15:21.047: D/Unity(7446): replacing textureCubeLodEXT->textureCubeLod and textureCubeGradEXT->textureCubeGradARB as a workaround.
+02-19 18:15:21.053: D/Unity(7446): -------- Shader compilation failed
+02-19 18:15:21.053: D/Unity(7446): #version 100
+02-19 18:15:21.053: D/Unity(7446): #extension GL_EXT_shader_texture_lod : enable
+02-19 18:15:21.054: D/Unity(7446): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+02-19 18:15:21.054: D/Unity(7446): {
+02-19 18:15:21.054: D/Unity(7446): #if defined(GL_EXT_shader_texture_lod)
+02-19 18:15:21.054: D/Unity(7446): 	return textureCubeLodEXT(sampler, coord, lod);
+02-19 18:15:21.054: D/Unity(7446): #else
+02-19 18:15:21.054: D/Unity(7446): 	return textureCube(sampler, coord, lod);
+02-19 18:15:21.054: D/Unity(7446): #endif
+02-19 18:15:21.054: D/Unity(7446): }
+02-19 18:15:21.054: D/Unity(7446): uniform highp float _Level;
+02-19 18:15:21.054: D/Unity(7446): uniform lowp samplerCube _MainTex;
+02-19 18:15:21.054: D/Unity(7446): varying highp vec4 xlv_TEXCOORD0;
+02-19 18:15:21.054: D/Unity(7446): void main ()
+02-19 18:15:21.055: D/Unity(7446): {
+02-19 18:15:21.055: D/Unity(7446):   highp vec4 tmpvar_1;
+02-19 18:15:21.055: D/Unity(7446):   lowp vec4 tmpvar_2;
+02-19 18:15:21.055: D/Unity(7446):   tmpvar_2 = impl_low_textureCubeLodEXT (_MainTex, xlv_TEXCOORD0.xyz, _Level);
+02-19 18:15:21.055: D/Unity(7446):   tmpvar_1 = tmpvar_2;
+02-19 18:15:21.055: D/Unity(7446):   gl_FragData[0] = tmpvar_1;
+02-19 18:15:21.055: D/Unity(7446): }
+02-19 18:15:21.055: D/Unity(7446): -------- failed compiling:
+02-19 18:15:21.055: D/Unity(7446): fragment evaluation shader
+02-19 18:15:21.055: D/Unity(7446): -------- GLSL error:
+02-19 18:15:21.055: D/Unity(7446): Compile failed.
+02-19 18:15:21.055: D/Unity(7446): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+02-19 18:15:21.055: D/Unity(7446): ERROR: 0:8: 'return' : function return is not matching type
+02-19 18:15:21.056: D/Unity(7446): ERROR: 2 compilation errors. No code generated.
+02-19 18:15:21.056: D/Unity(7446): textureCubeLodEXT or textureCubeGradEXT usage detected.
+02-19 18:15:21.056: D/Unity(7446): GL_EXT_shader_texture_lod extension is buggy on PowerVR drivers.
+02-19 18:15:21.056: D/Unity(7446): replacing textureCubeLodEXT->textureCubeLod and textureCubeGradEXT->textureCubeGradARB as a workaround.
+02-19 18:15:21.144: D/Unity(7446): -------- Shader compilation failed
+02-19 18:15:21.144: D/Unity(7446): #version 100
+02-19 18:15:21.144: D/Unity(7446): #extension GL_EXT_shader_texture_lod : enable
+02-19 18:15:21.144: D/Unity(7446): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+02-19 18:15:21.144: D/Unity(7446): {
+02-19 18:15:21.145: D/Unity(7446): #if defined(GL_EXT_shader_texture_lod)
+02-19 18:15:21.145: D/Unity(7446): 	return textureCubeLodEXT(sampler, coord, lod);
+02-19 18:15:21.145: D/Unity(7446): #else
+02-19 18:15:21.145: D/Unity(7446): 	return textureCube(sampler, coord, lod);
+02-19 18:15:21.145: D/Unity(7446): #endif
+02-19 18:15:21.146: D/Unity(7446): }
+02-19 18:15:21.146: D/Unity(7446): uniform highp vec3 _WorldSpaceCameraPos;
+02-19 18:15:21.146: D/Unity(7446): uniform highp vec4 _ProjectionParams;
+02-19 18:15:21.146: D/Unity(7446): uniform highp vec4 _ZBufferParams;
+02-19 18:15:21.146: D/Unity(7446): uniform lowp samplerCube unity_SpecCube0;
+02-19 18:15:21.146: D/Unity(7446): uniform highp vec4 unity_SpecCube0_BoxMax;
+02-19 18:15:21.146: D/Unity(7446): uniform highp vec4 unity_SpecCube0_BoxMin;
+02-19 18:15:21.146: D/Unity(7446): uniform mediump vec4 unity_SpecCube0_HDR;
+02-19 18:15:21.146: D/Unity(7446): uniform highp vec4 unity_SpecCube1_ProbePosition;
+02-19 18:15:21.146: D/Unity(7446): uniform highp sampler2D _CameraDepthTexture;
+02-19 18:15:21.146: D/Unity(7446): uniform highp mat4 _CameraToWorld;
+02-19 18:15:21.146: D/Unity(7446): uniform sampler2D _CameraGBufferTexture0;
+02-19 18:15:21.146: D/Unity(7446): uniform sampler2D _CameraGBufferTexture1;
+02-19 18:15:21.147: D/Unity(7446): uniform sampler2D _CameraGBufferTexture2;
+02-19 18:15:21.147: D/Unity(7446): varying highp vec4 xlv_TEXCOORD0;
+02-19 18:15:21.147: D/Unity(7446): varying highp vec3 xlv_TEXCOORD1;
+02-19 18:15:21.147: D/Unity(7446): void main ()
+02-19 18:15:21.147: D/Unity(7446): {
+02-19 18:15:21.147: D/Unity(7446):   mediump vec3 worldNormalRefl_1;
+02-19 18:15:21.147: D/Unity(7446):   mediump vec4 gbuffer2_2;
+02-19 18:15:21.147: D/Unity(7446):   mediump vec4 gbuffer1_3;
+02-19 18:15:21.147: D/Unity(7446):   mediump vec4 gbuffer0_4;
+02-19 18:15:21.147: D/Unity(7446):   highp vec2 tmpvar_5;
+02-19 18:15:21.147: D/Unity(7446):   tmpvar_5 = (xlv_TEXCOORD0.xy / xlv_TEXCOORD0.w);
+02-19 18:15:21.147: D/Unity(7446):   highp vec4 tmpvar_6;
+02-19 18:15:21.147: D/Unity(7446):   tmpvar_6.w = 1.0;
+02-19 18:15:21.147: D/Unity(7446):   tmpvar_6.xyz = ((xlv_TEXCOORD1 * (_ProjectionParams.z / xlv_TEXCOORD1.z)) * (1.0/((
+02-19 18:15:21.148: D/Unity(7446):     (_ZBufferParams.x * texture2D (_CameraDepthTexture, tmpvar_5).x)
+02-19 18:15:21.148: D/Unity(7446):    + _ZBufferParams.y))));
+02-19 18:15:21.148: D/Unity(7446):   highp vec3 tmpvar_7;
+02-19 18:15:21.148: D/Unity(7446):   tmpvar_7 = (_CameraToWorld * tmpvar_6).xyz;
+02-19 18:15:21.148: D/Unity(7446):   lowp vec4 tmpvar_8;
+02-19 18:15:21.148: D/Unity(7446):   tmpvar_8 = texture2D (_CameraGBufferTexture0, tmpvar_5);
+02-19 18:15:21.148: D/Unity(7446):   gbuffer0_4 = tmpvar_8;
+02-19 18:15:21.148: D/Unity(7446):   lowp vec4 tmpvar_9;
+02-19 18:15:21.148: D/Unity(7446):   tmpvar_9 = texture2D (_CameraGBufferTexture1, tmpvar_5);
+02-19 18:15:21.148: D/Unity(7446):   gbuffer1_3 = tmpvar_9;
+02-19 18:15:21.148: D/Unity(7446):   lowp vec4 tmpvar_10;
+02-19 18:15:21.148: D/Unity(7446):   tmpvar_10 = texture2D (_CameraGBufferTexture2, tmpvar_5);
+02-19 18:15:21.148: D/Unity(7446):   gbuffer2_2 = tmpvar_10;
+02-19 18:15:21.149: D/Unity(7446):   mediump vec3 tmpvar_11;
+02-19 18:15:21.149: D/Unity(7446):   tmpvar_11 = normalize(((gbuffer2_2.xyz * 2.0) - 1.0));
+02-19 18:15:21.149: D/Unity(7446):   highp vec3 tmpvar_12;
+02-19 18:15:21.149: D/Unity(7446):   tmpvar_12 = normalize((tmpvar_7 - _WorldSpaceCameraPos));
+02-19 18:15:21.149: D/Unity(7446):   highp vec3 tmpvar_13;
+02-19 18:15:21.149: D/Unity(7446):   tmpvar_13 = (tmpvar_12 - (2.0 * (
+02-19 18:15:21.149: D/Unity(7446):     dot (tmpvar_11, tmpvar_12)
+02-19 18:15:21.149: D/Unity(7446):    * tmpvar_11)));
+02-19 18:15:21.149: D/Unity(7446):   worldNormalRefl_1 = tmpvar_13;
+02-19 18:15:21.149: D/Unity(7446):   mediump vec4 tmpvar_14;
+02-19 18:15:21.149: D/Unity(7446):   tmpvar_14.xyz = worldNormalRefl_1;
+02-19 18:15:21.149: D/Unity(7446):   tmpvar_14.w = (pow ((1.0 - gbuffer1_3.w), 0.75) * 7.0);
+02-19 18:15:21.149: D/Unity(7446):   lowp vec4 tmpvar_15;
+02-19 18:15:21.149: D/Unity(7446):   tmpvar_15 = impl_low_textureCubeLodEXT (unity_SpecCube0, worldNormalRefl_1, tmpvar_14.w);
+02-19 18:15:21.150: D/Unity(7446):   mediump vec4 tmpvar_16;
+02-19 18:15:21.150: D/Unity(7446):   tmpvar_16 = tmpvar_15;
+02-19 18:15:21.150: D/Unity(7446):   mediump vec3 viewDir_17;
+02-19 18:15:21.150: D/Unity(7446):   viewDir_17 = -(tmpvar_12);
+02-19 18:15:21.150: D/Unity(7446):   mediump float x_18;
+02-19 18:15:21.150: D/Unity(7446):   x_18 = (1.0 - max (0.0, dot (tmpvar_11, viewDir_17)));
+02-19 18:15:21.150: D/Unity(7446):   mediump vec4 tmpvar_19;
+02-19 18:15:21.150: D/Unity(7446):   tmpvar_19.w = 1.0;
+02-19 18:15:21.150: D/Unity(7446):   tmpvar_19.xyz = (((
+02-19 18:15:21.150: D/Unity(7446):     (unity_SpecCube0_HDR.x * tmpvar_16.w)
+02-19 18:15:21.150: D/Unity(7446):    * tmpvar_16.xyz) * gbuffer0_4.w) * mix (gbuffer1_3.xyz, vec3(clamp (
+02-19 18:15:21.151: D/Unity(7446):     (gbuffer1_3.w + (1.0 - (1.0 - max (
+02-19 18:15:21.151: D/Unity(7446):       max (gbuffer1_3.x, gbuffer1_3.y)
+02-19 18:15:21.151: D/Unity(7446):     , gbuffer1_3.z))))
+02-19 18:15:21.151: D/Unity(7446):   , 0.0, 1.0)), vec3((
+02-19 18:15:21.151: D/Unity(7446):     (x_18 * x_18)
+02-19 18:15:21.151: D/Unity(7446):    * 
+02-19 18:15:21.151: D/Unity(7446):     (x_18 * x_18)
+02-19 18:15:21.151: D/Unity(7446):   ))));
+02-19 18:15:21.152: D/Unity(7446):   mediump vec3 p_20;
+02-19 18:15:21.152: D/Unity(7446):   p_20 = tmpvar_7;
+02-19 18:15:21.152: D/Unity(7446):   mediump vec3 aabbMin_21;
+02-19 18:15:21.152: D/Unity(7446):   aabbMin_21 = unity_SpecCube0_BoxMin.xyz;
+02-19 18:15:21.152: D/Unity(7446):   mediump vec3 aabbMax_22;
+02-19 18:15:21.152: D/Unity(7446):   aabbMax_22 = unity_SpecCube0_BoxMax.xyz;
+02-19 18:15:21.152: D/Unity(7446):   mediump vec3 tmpvar_23;
+02-19 18:15:21.152: D/Unity(7446):   tmpvar_23 = max (max ((p_20 - aabbMax_22), (aabbMin_21 - p_20)), vec3(0.0, 0.0, 0.0));
+02-19 18:15:21.152: D/Unity(7446):   mediump float tmpvar_24;
+02-19 18:15:21.153: D/Unity(7446):   tmpvar_24 = sqrt(dot (tmpvar_23, tmpvar_23));
+02-19 18:15:21.153: D/Unity(7446):   mediump float tmpvar_25;
+02-19 18:15:21.153: D/Unity(7446):   highp float tmpvar_26;
+02-19 18:15:21.153: D/Unity(7446):   tmpvar_26 = clamp ((1.0 - (tmpvar_24 / unity_SpecCube1_ProbePosition.w)), 0.0, 1.0);
+02-19 18:15:21.153: D/Unity(7446):   tmpvar_25 = tmpvar_26;
+02-19 18:15:21.153: D/Unity(7446):   mediump vec4 tmpvar_27;
+02-19 18:15:21.153: D/Unity(7446):   tmpvar_27.xyz = tmpvar_19.xyz;
+02-19 18:15:21.153: D/Unity(7446):   tmpvar_27.w = tmpvar_25;
+02-19 18:15:21.153: D/Unity(7446):   gl_FragData[0] = tmpvar_27;
+02-19 18:15:21.153: D/Unity(7446): }
+02-19 18:15:21.154: D/Unity(7446): -------- failed compiling:
+02-19 18:15:21.154: D/Unity(7446): fragment evaluation shader
+02-19 18:15:21.154: D/Unity(7446): -------- GLSL error:
+02-19 18:15:21.154: D/Unity(7446): Compile failed.
+02-19 18:15:21.154: D/Unity(7446): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+02-19 18:15:21.154: D/Unity(7446): ERROR: 0:8: 'return' : function return is not matching type
+02-19 18:15:21.154: D/Unity(7446): ERROR: 2 compilation errors. No code generated.
+02-19 18:15:21.154: D/Unity(7446): textureCubeLodEXT or textureCubeGradEXT usage detected.
+02-19 18:15:21.154: D/Unity(7446): GL_EXT_shader_texture_lod extension is buggy on PowerVR drivers.
+02-19 18:15:21.154: D/Unity(7446): replacing textureCubeLodEXT->textureCubeLod and textureCubeGradEXT->textureCubeGradARB as a workaround.
+02-19 18:15:21.162: D/Unity(7446): -------- Shader compilation failed
+02-19 18:15:21.162: D/Unity(7446): #version 100
+02-19 18:15:21.162: D/Unity(7446): #extension GL_EXT_shader_texture_lod : enable
+02-19 18:15:21.162: D/Unity(7446): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+02-19 18:15:21.162: D/Unity(7446): {
+02-19 18:15:21.162: D/Unity(7446): #if defined(GL_EXT_shader_texture_lod)
+02-19 18:15:21.162: D/Unity(7446): 	return textureCubeLodEXT(sampler, coord, lod);
+02-19 18:15:21.162: D/Unity(7446): #else
+02-19 18:15:21.162: D/Unity(7446): 	return textureCube(sampler, coord, lod);
+02-19 18:15:21.162: D/Unity(7446): #endif
+02-19 18:15:21.162: D/Unity(7446): }
+02-19 18:15:21.162: D/Unity(7446): uniform lowp samplerCube _MainTex;
+02-19 18:15:21.163: D/Unity(7446): uniform mediump float _Level;
+02-19 18:15:21.163: D/Unity(7446): varying mediump vec4 xlv_TEXCOORD0;
+02-19 18:15:21.163: D/Unity(7446): void main ()
+02-19 18:15:21.163: D/Unity(7446): {
+02-19 18:15:21.163: D/Unity(7446):   mediump vec4 tmpvar_1;
+02-19 18:15:21.163: D/Unity(7446):   lowp vec4 tmpvar_2;
+02-19 18:15:21.163: D/Unity(7446):   tmpvar_2 = impl_low_textureCubeLodEXT (_MainTex, xlv_TEXCOORD0.xyz, _Level);
+02-19 18:15:21.163: D/Unity(7446):   tmpvar_1 = tmpvar_2;
+02-19 18:15:21.163: D/Unity(7446):   gl_FragData[0] = tmpvar_1;
+02-19 18:15:21.163: D/Unity(7446): }
+02-19 18:15:21.163: D/Unity(7446): -------- failed compiling:
+02-19 18:15:21.163: D/Unity(7446): fragment evaluation shader
+02-19 18:15:21.164: D/Unity(7446): -------- GLSL error:
+02-19 18:15:21.164: D/Unity(7446): Compile failed.
+02-19 18:15:21.164: D/Unity(7446): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+02-19 18:15:21.164: D/Unity(7446): ERROR: 0:8: 'return' : function return is not matching type
+02-19 18:15:21.164: D/Unity(7446): ERROR: 2 compilation errors. No code generated.
+02-19 18:15:21.164: D/Unity(7446): textureCubeLodEXT or textureCubeGradEXT usage detected.
+02-19 18:15:21.164: D/Unity(7446): GL_EXT_shader_texture_lod extension is buggy on PowerVR drivers.
+02-19 18:15:21.164: D/Unity(7446): replacing textureCubeLodEXT->textureCubeLod and textureCubeGradEXT->textureCubeGradARB as a workaround.
+02-19 18:15:21.213: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:21.213: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:21.213: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:21.213: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:21.233: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:21.383: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:21.383: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:21.383: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:21.383: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:21.383: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:21.383: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:21.398: D/Unity(7446): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+02-19 18:15:21.402: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:21.502: D/Unity(7446): Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+02-19 18:15:21.687: D/SOOMLA Unity SoomlaEventHandler(7446): Initializing SoomlaEventHandler ...
+02-19 18:15:21.746: D/SOOMLA Unity ProfileEventHandler(7446): Initializing ProfileEventHandler ...
+02-19 18:15:21.794: D/SOOMLA UnitySoomlaProfile(7446): Initializing SoomlaProfile from bridge
+02-19 18:15:21.879: D/Unity(7446): Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+02-19 18:15:21.945: I/Unity(7446): Using Unity SDK v7.2.2
+02-19 18:15:21.945: I/Unity(7446): UnityEngine.Debug:Internal_Log(Int32, String, Object)
+02-19 18:15:21.945: I/Unity(7446): UnityEngine.Debug:Log(Object)
+02-19 18:15:21.945: I/Unity(7446): Facebook.Unity.CustomLogger:Info(String) (at E:\Users\Unity3D\05\Assets\Plugins\Facebook\Scripts\Utils\FacebookLogger.cs:105)
+02-19 18:15:21.945: I/Unity(7446): Facebook.Unity.FacebookLogger:Info(String) (at E:\Users\Unity3D\05\Assets\Plugins\Facebook\Scripts\Utils\FacebookLogger.cs:49)
+02-19 18:15:21.945: I/Unity(7446): Facebook.Unity.FB:LogVersion() (at E:\Users\Unity3D\05\Assets\Plugins\Facebook\Scripts\FB.cs:623)
+02-19 18:15:21.945: I/Unity(7446): Facebook.Unity.FB:Init(String, Boolean, Boolean, Boolean, Boolean, Boolean, String, HideUnityDelegate, InitDelegate) (at E:\Users\Unity3D\05\Assets\Plugins\Facebook\Scripts\FB.cs:205)
+02-19 18:15:21.945: I/Unity(7446): Facebook.Unity.FB:Init(InitDelegate, HideUnityDelegate, String) (at E:\Users\Unity3D\05\Assets\Plugins\Facebook\Scripts\FB.cs:147)
+02-19 18:15:21.945: I/Unity(7446): Soomla.Profile.FBSocialProvider:.ctor() (at E:\Users\Unity3D\05\Assets\Soomla\Scripts\Profile\social-providers\FBSocialProvider.cs:50)
+02-19 18:15:21.945: I/Unity(7446): Soomla.Profile.SoomlaProfile:Initialize() (at E:\Users\Unity3D\05\Assets\Soomla\Scripts\Profile\SoomlaProfile.cs:89
+02-19 18:15:21.953: I/Facebook.Unity.FBDebug(7446): Using Unity SDK v7.2.2
+02-19 18:15:21.974: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:21.974: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.974: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:21.974: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.974: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-19 18:15:21.974: D/Unity(7446): >			, 1d4002e2
+02-19 18:15:21.974: D/Unity(7446): >			, 31400005
+02-19 18:15:21.974: D/Unity(7446): >			, 7ae00009
+02-19 18:15:21.974: D/Unity(7446): >			, 00000001
+02-19 18:15:21.974: D/Unity(7446): >			)
+02-19 18:15:21.974: D/Unity(7446): ? getMethodID("java.lang.Class", "forName", "(Ljava/lang/String;)Ljava/lang/Object;", static)
+02-19 18:15:21.974: D/Unity(7446): ! Class Class.forName(String);
+02-19 18:15:21.974: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.974: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.974: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.974: D/Unity(7446): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-19 18:15:21.974: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.974: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.974: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:21.974: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.974: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d4002e2, 570d1a68 
+02-19 18:15:21.974: D/Unity(7446): >			, 31500005
+02-19 18:15:21.974: D/Unity(7446): >			)
+02-19 18:15:21.975: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.975: D/Unity(7446): > AndroidJNI_CUSTOM_GetObjectClass()
+02-19 18:15:21.975: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.975: D/Unity(7446): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-19 18:15:21.975: D/Unity(7446): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-19 18:15:21.975: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.975: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.975: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.975: D/Unity(7446): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-19 18:15:21.975: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-19 18:15:21.975: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-19 18:15:21.978: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:21.978: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.978: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:21.978: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.978: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-19 18:15:21.978: D/Unity(7446): >			, 1dc00332
+02-19 18:15:21.978: D/Unity(7446): >			, 31600005
+02-19 18:15:21.978: D/Unity(7446): >			, 7b000009
+02-19 18:15:21.978: D/Unity(7446): >			, 00000001
+02-19 18:15:21.978: D/Unity(7446): >			)
+02-19 18:15:21.979: D/Unity(7446): ? getMethodID("com.facebook.unity.FB", "GetSdkVersion", "()Ljava/lang/String;", static)
+02-19 18:15:21.979: D/Unity(7446): ! String FB.GetSdkVersion();
+02-19 18:15:21.979: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.979: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.979: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.979: D/Unity(7446): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-19 18:15:21.980: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.980: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.981: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticStringMethod(1dc00332, 57447f70)
+02-19 18:15:21.982: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.986: I/Unity(7446): Using Unity SDK v7.2.2 with FBAndroidSDK/4.7.0
+02-19 18:15:21.986: I/Unity(7446): UnityEngine.Debug:Internal_Log(Int32, String, Object)
+02-19 18:15:21.986: I/Unity(7446): UnityEngine.Debug:Log(Object)
+02-19 18:15:21.986: I/Unity(7446): Facebook.Unity.CustomLogger:Info(String) (at E:\Users\Unity3D\05\Assets\Plugins\Facebook\Scripts\Utils\FacebookLogger.cs:105)
+02-19 18:15:21.986: I/Unity(7446): Facebook.Unity.FacebookLogger:Info(String) (at E:\Users\Unity3D\05\Assets\Plugins\Facebook\Scripts\Utils\FacebookLogger.cs:49)
+02-19 18:15:21.986: I/Unity(7446): Facebook.Unity.FB:LogVersion() (at E:\Users\Unity3D\05\Assets\Plugins\Facebook\Scripts\FB.cs:616)
+02-19 18:15:21.986: I/Unity(7446): Facebook.Unity.FB:OnDllLoaded() (at E:\Users\Unity3D\05\Assets\Plugins\Facebook\Scripts\FB.cs:597)
+02-19 18:15:21.986: I/Unity(7446): Facebook.Unity.CompiledFacebookLoader:Start() (at E:\Users\Unity3D\05\Assets\Plugins\Facebook\Scripts\FB.cs:794)
+02-19 18:15:21.986: I/Unity(7446):  
+02-19 18:15:21.986: I/Unity(7446): (Filename: E Line: 0)
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-19 18:15:21.986: D/Unity(7446): >			, 1d4002e2
+02-19 18:15:21.986: D/Unity(7446): >			, 31800005
+02-19 18:15:21.986: D/Unity(7446): >			, 7b100009
+02-19 18:15:21.986: D/Unity(7446): >			, 00000001
+02-19 18:15:21.986: D/Unity(7446): >			)
+02-19 18:15:21.986: D/Unity(7446): ? getMethodID("java.lang.Class", "forName", "(Ljava/lang/String;)Ljava/lang/Object;", static)
+02-19 18:15:21.986: D/Unity(7446): ! Class Class.forName(String);
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d4002e2, 570d1a68 
+02-19 18:15:21.986: D/Unity(7446): >			, 31900005
+02-19 18:15:21.986: D/Unity(7446): >			)
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_GetObjectClass()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-19 18:15:21.986: D/Unity(7446): >			, 1d600336
+02-19 18:15:21.986: D/Unity(7446): >			, 31a00005
+02-19 18:15:21.986: D/Unity(7446): >			, 7b300009
+02-19 18:15:21.986: D/Unity(7446): >			, 00000001
+02-19 18:15:21.986: D/Unity(7446): >			)
+02-19 18:15:21.986: D/Unity(7446): ? getMethodID("android.util.Log", "i", "(Ljava/lang/String;Ljava/lang/String;)I", static)
+02-19 18:15:21.986: D/Unity(7446): ! int Log.i(String, String);
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticIntMethod(1d600336, 571130d0 
+02-19 18:15:21.986: D/Unity(7446): >			, 31b00005
+02-19 18:15:21.986: D/Unity(7446): >			, 7b400009
+02-19 18:15:21.986: D/Unity(7446): >			)
+02-19 18:15:21.986: I/Facebook.Unity.FBDebug(7446): Using Unity SDK v7.2.2 with FBAndroidSDK/4.7.0
+02-19 18:15:21.986: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.987: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.987: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.987: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-19 18:15:21.991: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:21.991: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.991: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:21.991: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.991: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-19 18:15:21.991: D/Unity(7446): >			, 1dc00332
+02-19 18:15:21.991: D/Unity(7446): >			, 31c00005
+02-19 18:15:21.991: D/Unity(7446): >			, 7b500009
+02-19 18:15:21.991: D/Unity(7446): >			, 00000001
+02-19 18:15:21.991: D/Unity(7446): >			)
+02-19 18:15:21.991: D/Unity(7446): ? getMethodID("com.facebook.unity.FB", "SetUserAgentSuffix", "(Ljava/lang/String;)V", static)
+02-19 18:15:21.992: D/Unity(7446): ! void FB.SetUserAgentSuffix(String);
+02-19 18:15:21.992: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.992: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.992: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.992: D/Unity(7446): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-19 18:15:21.992: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.992: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:21.992: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:21.992: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.992: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticVoidMethod(1dc00332, 574481a0 
+02-19 18:15:21.992: D/Unity(7446): >			, 31d00005
+02-19 18:15:21.992: D/Unity(7446): >			)
+02-19 18:15:21.992: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:21.992: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:22.024: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:22.024: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:22.024: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:22.024: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:22.024: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-19 18:15:22.024: D/Unity(7446): >			, 1dc00332
+02-19 18:15:22.024: D/Unity(7446): >			, 31e00005
+02-19 18:15:22.024: D/Unity(7446): >			, 7b700009
+02-19 18:15:22.024: D/Unity(7446): >			, 00000001
+02-19 18:15:22.024: D/Unity(7446): >			)
+02-19 18:15:22.025: D/Unity(7446): ? getMethodID("com.facebook.unity.FB", "Init", "(Ljava/lang/String;)V", static)
+02-19 18:15:22.025: D/Unity(7446): ! void FB.Init(String);
+02-19 18:15:22.025: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:22.025: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:22.025: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:22.025: D/Unity(7446): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-19 18:15:22.025: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:22.025: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:22.025: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:22.025: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:22.025: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticVoidMethod(1dc00332, 57447fa8 
+02-19 18:15:22.025: D/Unity(7446): >			, 31f00005
+02-19 18:15:22.025: D/Unity(7446): >			)
+02-19 18:15:22.036: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:22.036: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:22.173: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-19 18:15:22.174: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-19 18:15:22.174: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-19 18:15:22.255: D/Unity(7446): Setting up 1 worker threads for Enlighten.
+02-19 18:15:22.256: D/Unity(7446):   Thread -> id: 648df250 -> priority: 1 
+02-19 18:15:22.297: D/Unity(7446): > AndroidJNI_CUSTOM_PushLocalFrame()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-19 18:15:22.298: D/Unity(7446): >			, 1d4002e2
+02-19 18:15:22.298: D/Unity(7446): >			, 32000005
+02-19 18:15:22.298: D/Unity(7446): >			, 84400009
+02-19 18:15:22.298: D/Unity(7446): >			, 00000001
+02-19 18:15:22.298: D/Unity(7446): >			)
+02-19 18:15:22.298: D/Unity(7446): ? getMethodID("java.lang.Class", "forName", "(Ljava/lang/String;)Ljava/lang/Object;", static)
+02-19 18:15:22.298: D/Unity(7446): ! Class Class.forName(String);
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d4002e2, 570d1a68 
+02-19 18:15:22.298: D/Unity(7446): >			, 32100005
+02-19 18:15:22.298: D/Unity(7446): >			)
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_GetObjectClass()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:22.298: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-19 18:15:22.298: D/Unity(7446): >			, 1d70031e
+02-19 18:15:22.298: D/Unity(7446): >			, 32200005
+02-19 18:15:22.298: D/Unity(7446): >			, 84600009
+02-19 18:15:22.298: D/Unity(7446): >			, 00000001
+02-19 18:15:22.298: D/Unity(7446): >			)
+02-19 18:15:22.299: D/Unity(7446): ? getMethodID("com.soomla.data.KeyValueStorage", "getValue", "(Ljava/lang/String;)Ljava/lang/String;", static)
+02-19 18:15:22.299: D/Unity(7446): ! String KeyValueStorage.getValue(String);
+02-19 18:15:22.299: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:22.299: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:22.299: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:22.299: D/Unity(7446): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-19 18:15:22.299: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:22.299: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:22.299: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:22.299: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:22.299: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticStringMethod(1d70031e, 57444c58 
+02-19 18:15:22.299: D/Unity(7446): >			, 32300005
+02-19 18:15:22.299: D/Unity(7446): >			)
+02-19 18:15:22.301: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:22.301: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:22.301: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-19 18:15:22.301: D/Unity(7446): > AndroidJNI_CUSTOM_PopLocalFrame()
+02-19 18:15:22.326: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:22.326: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:22.326: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:22.326: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:22.326: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:22.326: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:22.326: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:22.326: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:22.326: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:22.326: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:22.326: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:22.326: D/Unity(7446): Unknown event structure (0)
+02-19 18:15:24.463: D/Unity(7446): > AndroidJNI_CUSTOM_PushLocalFrame()
+02-19 18:15:24.463: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:24.464: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.464: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:24.464: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.464: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-19 18:15:24.464: D/Unity(7446): >			, 1d4002e2
+02-19 18:15:24.464: D/Unity(7446): >			, 44600005
+02-19 18:15:24.464: D/Unity(7446): >			, 85b00009
+02-19 18:15:24.465: D/Unity(7446): >			, 00000001
+02-19 18:15:24.465: D/Unity(7446): >			)
+02-19 18:15:24.468: D/Unity(7446): ? getMethodID("java.lang.Class", "forName", "(Ljava/lang/String;)Ljava/lang/Object;", static)
+02-19 18:15:24.468: D/Unity(7446): ! Class Class.forName(String);
+02-19 18:15:24.468: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.468: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.469: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.469: D/Unity(7446): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-19 18:15:24.469: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.469: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.469: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:24.469: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.469: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d4002e2, 570d1a68 
+02-19 18:15:24.469: D/Unity(7446): >			, 44700005
+02-19 18:15:24.469: D/Unity(7446): >			)
+02-19 18:15:24.470: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.470: D/Unity(7446): > AndroidJNI_CUSTOM_GetObjectClass()
+02-19 18:15:24.470: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.470: D/Unity(7446): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-19 18:15:24.470: D/Unity(7446): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-19 18:15:24.471: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.471: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.471: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.471: D/Unity(7446): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-19 18:15:24.471: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-19 18:15:24.471: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-19 18:15:24.471: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:24.472: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.472: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:24.472: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.472: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-19 18:15:24.474: D/Unity(7446): >			, 1db00346
+02-19 18:15:24.474: D/Unity(7446): >			, 44800005
+02-19 18:15:24.474: D/Unity(7446): >			, 85d00009
+02-19 18:15:24.474: D/Unity(7446): >			, 00000001
+02-19 18:15:24.474: D/Unity(7446): >			)
+02-19 18:15:24.475: D/Unity(7446): ? getMethodID("com.soomla.data.KeyValueStorage", "deleteKeyValue", "(Ljava/lang/String;)V", static)
+02-19 18:15:24.476: D/Unity(7446): ! void KeyValueStorage.deleteKeyValue(String);
+02-19 18:15:24.476: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.476: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.476: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.476: D/Unity(7446): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-19 18:15:24.476: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.476: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.477: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:24.477: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.477: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticVoidMethod(1db00346, 57444a60 
+02-19 18:15:24.477: D/Unity(7446): >			, 44900005
+02-19 18:15:24.477: D/Unity(7446): >			)
+02-19 18:15:24.480: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.480: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.480: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-19 18:15:24.480: D/Unity(7446): > AndroidJNI_CUSTOM_PopLocalFrame()
+02-19 18:15:24.484: D/Unity(7446): > AndroidJNI_CUSTOM_PushLocalFrame()
+02-19 18:15:24.485: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:24.485: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.485: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:24.485: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.485: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-19 18:15:24.486: D/Unity(7446): >			, 1d4002e2
+02-19 18:15:24.486: D/Unity(7446): >			, 44a00005
+02-19 18:15:24.486: D/Unity(7446): >			, 86800009
+02-19 18:15:24.486: D/Unity(7446): >			, 00000001
+02-19 18:15:24.486: D/Unity(7446): >			)
+02-19 18:15:24.486: D/Unity(7446): ? getMethodID("java.lang.Class", "forName", "(Ljava/lang/String;)Ljava/lang/Object;", static)
+02-19 18:15:24.487: D/Unity(7446): ! Class Class.forName(String);
+02-19 18:15:24.487: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.487: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.487: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.487: D/Unity(7446): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-19 18:15:24.488: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.488: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.488: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:24.488: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.488: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d4002e2, 570d1a68 
+02-19 18:15:24.488: D/Unity(7446): >			, 44b00005
+02-19 18:15:24.488: D/Unity(7446): >			)
+02-19 18:15:24.488: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.489: D/Unity(7446): > AndroidJNI_CUSTOM_GetObjectClass()
+02-19 18:15:24.489: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.489: D/Unity(7446): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-19 18:15:24.489: D/Unity(7446): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-19 18:15:24.489: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.489: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.489: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.489: D/Unity(7446): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-19 18:15:24.490: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-19 18:15:24.490: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-19 18:15:24.490: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:24.490: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.490: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:24.490: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.491: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-19 18:15:24.491: D/Unity(7446): >			, 1dc00346
+02-19 18:15:24.491: D/Unity(7446): >			, 44c00005
+02-19 18:15:24.491: D/Unity(7446): >			, 86a00009
+02-19 18:15:24.491: D/Unity(7446): >			, 00000001
+02-19 18:15:24.491: D/Unity(7446): >			)
+02-19 18:15:24.491: D/Unity(7446): ? getMethodID("com.soomla.profile.unity.ProfileEventHandler", "pushEventLoginStarted", "(Ljava/lang/String;ZLjava/lang/String;)V", static)
+02-19 18:15:24.493: D/Unity(7446): ! void ProfileEventHandler.pushEventLoginStarted(String, boolean, String);
+02-19 18:15:24.493: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.493: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.494: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.494: D/Unity(7446): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-19 18:15:24.494: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.494: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.494: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:24.494: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.494: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:24.494: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.494: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticVoidMethod(1dc00346, 57424cb0 
+02-19 18:15:24.495: D/Unity(7446): >			, 44d00005
+02-19 18:15:24.495: D/Unity(7446): >			, 00000000
+02-19 18:15:24.495: D/Unity(7446): >			, 86b00009
+02-19 18:15:24.495: D/Unity(7446): >			)
+02-19 18:15:24.497: D/SOOMLA Unity StoreEventHandler(7446): Not sending event to provider: 0
+02-19 18:15:24.497: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.497: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.497: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.497: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.497: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-19 18:15:24.498: D/Unity(7446): > AndroidJNI_CUSTOM_PopLocalFrame()
+02-19 18:15:24.515: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:24.515: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.515: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:24.515: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.515: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-19 18:15:24.516: D/Unity(7446): >			, 1dc00332
+02-19 18:15:24.516: D/Unity(7446): >			, 44e00005
+02-19 18:15:24.516: D/Unity(7446): >			, 86c00009
+02-19 18:15:24.516: D/Unity(7446): >			, 00000001
+02-19 18:15:24.516: D/Unity(7446): >			)
+02-19 18:15:24.516: D/Unity(7446): ? getMethodID("com.facebook.unity.FB", "LoginWithReadPermissions", "(Ljava/lang/String;)V", static)
+02-19 18:15:24.517: D/Unity(7446): ! void FB.LoginWithReadPermissions(String);
+02-19 18:15:24.518: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.518: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.518: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.518: D/Unity(7446): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-19 18:15:24.518: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.518: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.519: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:15:24.519: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.519: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticVoidMethod(1dc00332, 57448050 
+02-19 18:15:24.519: D/Unity(7446): >			, 44f00005
+02-19 18:15:24.519: D/Unity(7446): >			)
+02-19 18:15:24.568: I/Unity(7446): onPause
+02-19 18:15:24.570: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:15:24.571: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:15:24.607: D/Unity(7446): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+02-19 18:15:24.635: I/Unity(7446): windowFocusChanged: false
+02-19 18:15:24.938: D/Unity(7446): [EGL] Attaching window :0x0
+02-19 18:16:24.458: D/Unity(7446): [EGL] Attaching window :0x5f1e6408
+02-19 18:16:24.458: D/Unity(7446): [EGL] Attaching window :0x5f1e6408
+02-19 18:16:24.826: I/Unity(7446): windowFocusChanged: true
+02-19 18:16:24.862: I/Unity(7446): onResume
+02-19 18:16:24.873: D/Unity(7446): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+02-19 18:16:24.875: E/Unity(7446): [EGL] Unable to acquire context: EGL_BAD_NATIVE_WINDOW: A NativeWindowType argument does not refer to a valid native window.
+02-19 18:16:24.875: E/Unity(7446):  
+02-19 18:16:24.875: E/Unity(7446): (Filename: ./Runtime/GfxDevice/egl/WindowContextEGL.cpp Line: 205)
+02-19 18:16:24.875: D/Unity(7446): Unknown event structure (0)
+02-19 18:16:24.880: D/Unity(7446): Unknown event structure (0)
+02-19 18:16:24.880: D/Unity(7446): Unknown event structure (0)
+02-19 18:16:24.880: D/Unity(7446): Unknown event structure (0)
+02-19 18:16:24.880: D/Unity(7446): Unknown event structure (0)
+02-19 18:16:24.880: D/Unity(7446): Unknown event structure (0)
+02-19 18:16:24.880: D/Unity(7446): Unknown event structure (0)
+02-19 18:16:24.880: D/Unity(7446): Unknown event structure (0)
+02-19 18:16:24.880: D/Unity(7446): Unknown event structure (0)
+02-19 18:16:24.925: D/Unity(7446): ANativeWindow: (720/1280) RequestedResolution: (0/0) EGLSurface: (720/1280)
+02-19 18:16:25.000: D/Unity(7446): > AndroidJNI_CUSTOM_PushLocalFrame()
+02-19 18:16:25.000: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:16:25.000: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:16:25.000: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:16:25.000: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:16:25.000: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-19 18:16:25.000: D/Unity(7446): >			, 1d4002e2
+02-19 18:16:25.000: D/Unity(7446): >			, 52600005
+02-19 18:16:25.000: D/Unity(7446): >			, 8f800009
+02-19 18:16:25.000: D/Unity(7446): >			, 00000001
+02-19 18:16:25.000: D/Unity(7446): >			)
+02-19 18:16:25.001: D/Unity(7446): ? getMethodID("java.lang.Class", "forName", "(Ljava/lang/String;)Ljava/lang/Object;", static)
+02-19 18:16:25.001: D/Unity(7446): ! Class Class.forName(String);
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d4002e2, 570d1a68 
+02-19 18:16:25.001: D/Unity(7446): >			, 52700005
+02-19 18:16:25.001: D/Unity(7446): >			)
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_GetObjectClass()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_NewGlobalRef()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:16:25.001: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticObjectMethod(1d20031a, 57417a10 
+02-19 18:16:25.001: D/Unity(7446): >			, 1e100326
+02-19 18:16:25.001: D/Unity(7446): >			, 52800005
+02-19 18:16:25.001: D/Unity(7446): >			, 8fa00009
+02-19 18:16:25.001: D/Unity(7446): >			, 00000001
+02-19 18:16:25.001: D/Unity(7446): >			)
+02-19 18:16:25.001: D/Unity(7446): ? getMethodID("com.soomla.profile.unity.ProfileEventHandler", "pushEventLoginCancelled", "(Ljava/lang/String;ZLjava/lang/String;)V", static)
+02-19 18:16:25.003: D/Unity(7446): ! void ProfileEventHandler.pushEventLoginCancelled(String, boolean, String);
+02-19 18:16:25.003: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:16:25.003: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:16:25.003: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:16:25.003: D/Unity(7446): > AndroidJNI_CUSTOM_FromReflectedMethod()
+02-19 18:16:25.003: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:16:25.003: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:16:25.003: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:16:25.003: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:16:25.003: D/Unity(7446): > AndroidJNI_CUSTOM_NewStringUTF()
+02-19 18:16:25.003: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:16:25.003: D/Unity(7446): > AndroidJNI_CUSTOM_CallStaticVoidMethod(1e100326, 57424c08 
+02-19 18:16:25.003: D/Unity(7446): >			, 52900005
+02-19 18:16:25.003: D/Unity(7446): >			, 00000000
+02-19 18:16:25.003: D/Unity(7446): >			, 8fb00009
+02-19 18:16:25.003: D/Unity(7446): >			)
+02-19 18:16:25.003: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:16:25.003: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:16:25.003: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteLocalRef()
+02-19 18:16:25.003: D/Unity(7446): > AndroidJNI_CUSTOM_ExceptionOccurred()
+02-19 18:16:25.003: D/Unity(7446): > AndroidJNI_CUSTOM_DeleteGlobalRef()
+02-19 18:16:25.003: D/Unity(7446): > AndroidJNI_CUSTOM_PopLocalFrame()
+02-19 18:16:25.003: D/SOOMLA Unity StoreEventHandler(7446): Not sending event to provider: 0
+02-19 18:16:25.007: D/Unity(7446): Unknown event structure (0)
+02-19 18:16:25.007: D/Unity(7446): Unknown event structure (0)
+02-19 18:16:25.007: D/Unity(7446): Unknown event structure (0)
+02-19 18:16:25.007: D/Unity(7446): Unknown event structure (0)
+02-19 18:16:25.007: D/Unity(7446): Unknown event structure (0)
+02-19 18:16:25.039: D/Unity(7446): Unknown event structure (0)
+02-19 18:16:25.039: D/Unity(7446): Unknown event structure (0)
+02-19 18:16:25.059: D/Unity(7446): Unknown event structure (0)
+02-19 18:16:25.114: D/Unity(7446): Unknown event structure (0)
+02-19 18:16:25.114: D/Unity(7446): Unknown event structure (0)
+02-19 18:16:28.698: I/Unity(7446): onPause
+02-19 18:16:28.764: D/Unity(7446): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+02-19 18:16:28.790: I/Unity(7446): windowFocusChanged: false
+02-19 18:16:29.018: D/Unity(7446): [EGL] Attaching window :0x0
