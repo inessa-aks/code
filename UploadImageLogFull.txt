@@ -1,0 +1,822 @@
+03-17 17:07:39.044: D/dalvikvm(13142): threadid=8: created from interp
+03-17 17:07:39.044: D/dalvikvm(13142): start new thread
+03-17 17:07:39.049: D/jdwp(13142): received file descriptor 33 from ADB
+03-17 17:07:39.052: D/dalvikvm(13142): threadid=8: notify debugger
+03-17 17:07:39.052: D/dalvikvm(13142): threadid=9: interp stack at 0x5d243000
+03-17 17:07:39.052: D/dalvikvm(13142): threadid=8 (FinalizerWatchdogDaemon): calling run()
+03-17 17:07:39.053: D/dalvikvm(13142): threadid=10: interp stack at 0x5d34b000
+03-17 17:07:39.054: D/jdwp(13142): processIncoming
+03-17 17:07:39.054: D/jdwp(13142): processIncoming
+03-17 17:07:39.054: D/jdwp(13142): handlePacket : cmd=0x1, cmdSet=0xC7, len=0x13, id=0x400000DC, flags=0x0, dataLen=0x8
+03-17 17:07:39.059: D/jdwp(13142): processIncoming
+03-17 17:07:39.059: D/jdwp(13142): handlePacket : cmd=0x1, cmdSet=0xC7, len=0x17, id=0x400000DD, flags=0x0, dataLen=0xC
+03-17 17:07:39.062: D/jdwp(13142): processIncoming
+03-17 17:07:39.062: D/jdwp(13142): handlePacket : cmd=0x1, cmdSet=0xC7, len=0x13, id=0x400000DE, flags=0x0, dataLen=0x8
+03-17 17:07:39.062: D/jdwp(13142): processIncoming
+03-17 17:07:39.062: D/jdwp(13142): handlePacket : cmd=0x1, cmdSet=0xC7, len=0x13, id=0x400000DF, flags=0x0, dataLen=0x8
+03-17 17:07:39.063: D/jdwp(13142): processIncoming
+03-17 17:07:39.063: D/jdwp(13142): handlePacket : cmd=0x1, cmdSet=0xC7, len=0x14, id=0x400000E0, flags=0x0, dataLen=0x9
+03-17 17:07:39.063: D/jdwp(13142): sendBufferedRequest : len=0x3D
+03-17 17:07:39.086: D/jdwp(13142): sendBufferedRequest : len=0x3B
+03-17 17:07:39.093: D/dalvikvm(13142): open_cached_dex_file : /mnt/asec/com.soomla.test3-2/pkg.apk /data/dalvik-cache/mnt@asec@com.soomla.test3-2@pkg.apk@classes.dex
+03-17 17:07:39.095: I/ActivityThread(13142): Pub com.facebook.app.FacebookContentProvider6578678967: com.facebook.FacebookContentProvider
+03-17 17:07:39.102: D/dalvikvm(13142): Trying to load lib /mnt/asec/com.soomla.test3-2/lib/libmain.so 0x412c7a38
+03-17 17:07:39.105: D/dalvikvm(13142): Added shared lib /mnt/asec/com.soomla.test3-2/lib/libmain.so 0x412c7a38
+03-17 17:07:39.113: I/Unity(13142): splash_mode = 0 (integer)
+03-17 17:07:39.113: I/Unity(13142): hide_status_bar = True (bool)
+03-17 17:07:39.113: I/Unity(13142): useObb = False (bool)
+03-17 17:07:39.114: I/BufferQueue(13142): [unnamed-13142-0](this:0x5cb10fc0,api:0) BufferQueue
+03-17 17:07:39.115: I/BufferQueue(13142): [unnamed-13142-0](this:0x5cb10fc0,api:0) consumerConnect
+03-17 17:07:39.115: I/BufferQueue(13142): [unnamed-13142-0](this:0x5cb10fc0,api:0) setConsumerName: unnamed-13142-0
+03-17 17:07:39.115: I/SurfaceTexture(13142): [unnamed-13142-0](this:0x5caef208,api:0) SurfaceTexture
+03-17 17:07:39.482: V/Provider/Settings(13142): invalidate [global]: current 21 != cached 0
+03-17 17:07:39.484: V/Provider/Settings(13142): from db cache, name = send_action_app_error , value = 1
+03-17 17:07:39.532: D/Unity(13142): surfaces: attach glview
+03-17 17:07:39.535: I/Unity(13142): Choreographer available: Enabling VSYNC timing
+03-17 17:07:39.535: D/dalvikvm(13142): create interp thread : stack size=32KB
+03-17 17:07:39.535: D/dalvikvm(13142): create new thread
+03-17 17:07:39.536: D/dalvikvm(13142): new thread created
+03-17 17:07:39.536: D/dalvikvm(13142): update thread list
+03-17 17:07:39.536: D/dalvikvm(13142): threadid=11: interp stack at 0x5f18f000
+03-17 17:07:39.536: D/dalvikvm(13142): threadid=11: created from interp
+03-17 17:07:39.536: D/dalvikvm(13142): start new thread
+03-17 17:07:39.536: D/dalvikvm(13142): threadid=11: notify debugger
+03-17 17:07:39.536: D/dalvikvm(13142): threadid=11 (Thread-5157): calling run()
+03-17 17:07:39.539: I/Unity(13142): onResume
+03-17 17:07:39.544: V/InputMethodManager(13142): Not IME target window, ignoring
+03-17 17:07:39.560: I/SurfaceView(13142): Changes: creating=true format=true size=true visible=true left=true top=true mUpdateWindowNeeded=false mReportDrawNeeded=false redrawNeeded=false forceSizeChanged=true mVisible=false mRequestedVisible=true
+03-17 17:07:39.562: I/SurfaceView(13142): Cur surface: Surface(name=null, identity=-1)
+03-17 17:07:39.566: V/SurfaceView(13142): android.view.SurfaceView{412e3168 VFE..... .F....ID 0,0-720,1280} got resized: w=720 h=1280, cur w=-1 h=-1
+03-17 17:07:39.567: I/SurfaceView(13142): New surface: Surface(name=null, identity=2585), vis=true, frame=Rect(0, 0 - 720, 1280)
+03-17 17:07:39.567: I/SurfaceView(13142): visibleChanged -- surfaceCreated
+03-17 17:07:39.567: D/Unity(13142): [EGL] Attaching window :0x5caf2a98
+03-17 17:07:39.567: I/SurfaceView(13142): surfaceChanged -- format=2 w=720 h=1280
+03-17 17:07:39.567: D/Unity(13142): [EGL] Attaching window :0x5caf2a98
+03-17 17:07:39.567: I/SurfaceView(13142): surfaceRedrawNeeded
+03-17 17:07:39.567: I/SurfaceView(13142): finishedDrawing
+03-17 17:07:39.570: V/SurfaceView(13142): Layout: x=0 y=0 w=720 h=1280, frame=Rect(0, 0 - 720, 1280)
+03-17 17:07:39.575: I/SurfaceView(13142): Changes: creating=false format=false size=false visible=false left=false top=false mUpdateWindowNeeded=true mReportDrawNeeded=true redrawNeeded=false forceSizeChanged=false mVisible=true mRequestedVisible=true
+03-17 17:07:39.575: I/SurfaceView(13142): Cur surface: Surface(name=null, identity=2585)
+03-17 17:07:39.579: I/SurfaceView(13142): New surface: Surface(name=null, identity=2585), vis=true, frame=Rect(0, 0 - 720, 1280)
+03-17 17:07:39.579: I/SurfaceView(13142): surfaceRedrawNeeded
+03-17 17:07:39.579: I/SurfaceView(13142): finishedDrawing
+03-17 17:07:39.579: V/SurfaceView(13142): Layout: x=0 y=0 w=720 h=1280, frame=Rect(0, 0 - 720, 1280)
+03-17 17:07:39.609: I/Unity(13142): windowFocusChanged: true
+03-17 17:07:39.610: V/InputMethodManager(13142): onWindowFocus: android.view.SurfaceView{412e3168 VFE..... .F....I. 0,0-720,1280} softInputMode=288 first=true flags=#e90500
+03-17 17:07:39.610: V/InputMethodManager(13142): START INPUT: android.view.SurfaceView{412e3168 VFE..... .F....I. 0,0-720,1280} ic=null tba=android.view.inputmethod.EditorInfo@412f27f8 controlFlags=#105
+03-17 17:07:39.612: V/InputMethodManager(13142): Starting input: Bind result=InputBindResult{null com.android.inputmethod.latin/.LatinIME #1916}
+03-17 17:07:39.734: D/dalvikvm(13142): create interp thread : stack size=32KB
+03-17 17:07:39.734: D/dalvikvm(13142): create new thread
+03-17 17:07:39.735: D/dalvikvm(13142): new thread created
+03-17 17:07:39.735: D/dalvikvm(13142): update thread list
+03-17 17:07:39.735: D/dalvikvm(13142): threadid=12: interp stack at 0x5f8df000
+03-17 17:07:39.735: D/dalvikvm(13142): threadid=12: created from interp
+03-17 17:07:39.735: D/dalvikvm(13142): start new thread
+03-17 17:07:39.735: D/dalvikvm(13142): threadid=12: notify debugger
+03-17 17:07:39.735: D/dalvikvm(13142): threadid=12 (SharedPreferencesImpl-load): calling run()
+03-17 17:07:39.737: D/dalvikvm(13142): threadid=12: exiting
+03-17 17:07:39.738: D/dalvikvm(13142): threadid=12: bye!
+03-17 17:07:39.739: D/Unity(13142): SystemInfo CPU = ARMv7 VFPv3 NEON, Cores = 4, Memory = 1983mb
+03-17 17:07:39.739: D/Unity(13142): SystemInfo ARM big.LITTLE configuration: 4 big (mask: 15), 0 little (mask: 0)
+03-17 17:07:40.540: D/Unity(13142): [SHA1] fec4b90a554551162d55c21dc542ea96d053ce36   21483059 bytes ~ lib/armeabi-v7a/libunity.so
+03-17 17:07:40.542: D/Unity(13142): [SHA1] 3751d6eefb61279a6ebac91ce6eb16f88bfd5faf      44013 bytes ~ lib/armeabi-v7a/libmain.so
+03-17 17:07:40.677: D/Unity(13142): [SHA1] 3f9c6aadd03554cd6a4a07defc46c12444437e5b    3758496 bytes ~ lib/armeabi-v7a/libmono.so
+03-17 17:07:41.580: D/Unity(13142): [SHA1] 045045246166a443ea20b6cd3230e74f1ac7b939   25204615 bytes ~ lib/x86/libunity.so
+03-17 17:07:41.581: D/Unity(13142): [SHA1] 00907983a931d823290fabbba9a80ada7e3c0a53      27052 bytes ~ lib/x86/libmain.so
+03-17 17:07:41.706: D/Unity(13142): [SHA1] c3f02aff64c835e59f1c6391ab9999d1286acf4f    3636444 bytes ~ lib/x86/libmono.so
+03-17 17:07:41.723: D/Unity(13142): Mono path[0] = '/mnt/asec/com.soomla.test3-2/pkg.apk/assets/bin/Data/Managed'
+03-17 17:07:41.723: D/Unity(13142): Mono config path = 'assets/bin/Data/Managed'
+03-17 17:07:41.787: D/Unity(13142): PlayerConnection initialized from /mnt/asec/com.soomla.test3-2/pkg.apk/assets/bin/Data (debug = 0)
+03-17 17:07:41.792: D/Unity(13142): PlayerConnection initialized network socket : 0.0.0.0 55306
+03-17 17:07:41.792: D/Unity(13142): PlayerConnection initialized unix socket : Unity-com.soomla.test3
+03-17 17:07:41.793: D/Unity(13142): Multi-casting "[IP] 192.168.0.101 [Port] 55306 [Flags] 2 [Guid] 2469963651 [EditorId] 681506460 [Version] 1048832 [Id] AndroidPlayer(JYT_JY-G5@192.168.0.101) [Debug] 0" to [225.0.0.222:54997]...
+03-17 17:07:42.209: D/Unity(13142): InitializeScriptEngine OK (5f925ee0)
+03-17 17:07:42.209: D/Unity(13142): PlayerConnection already initialized - listening to [192.168.0.101:55306]
+03-17 17:07:42.406: D/Unity(13142): PlayerInitEngineNoGraphics OK
+03-17 17:07:42.408: D/libEGL(13142): loaded /vendor/lib/egl/libEGL_mtk.so
+03-17 17:07:42.411: D/libEGL(13142): loaded /vendor/lib/egl/libGLESv1_CM_mtk.so
+03-17 17:07:42.413: D/libEGL(13142): loaded /vendor/lib/egl/libGLESv2_mtk.so
+03-17 17:07:42.420: D/Unity(13142): [EGL] Request: ES 2.0 RGB0 000 0/0
+03-17 17:07:42.422: D/Unity(13142): [EGL] Found: ID[21] ES 2.0 RGB16 565 0/0
+03-17 17:07:42.427: D/Unity(13142): [EGL] Request: ES 2.0 RGB0 000 0/0
+03-17 17:07:42.428: D/Unity(13142): [EGL] Found: ID[21] ES 2.0 RGB16 565 0/0
+03-17 17:07:42.432: D/Unity(13142): [EGL] Request: ES 2.0 RGBA32 8888 0/0
+03-17 17:07:42.434: D/Unity(13142): [EGL] Found: ID[15] ES 2.0 RGBA32 8888 0/0
+03-17 17:07:42.439: D/Unity(13142): ANativeWindow: (720/1280) RequestedResolution: (0/0) EGLSurface: (720/1280)
+03-17 17:07:42.450: D/Unity(13142): Renderer: PowerVR SGX 544MP
+03-17 17:07:42.450: D/Unity(13142): Vendor:   Imagination Technologies
+03-17 17:07:42.450: D/Unity(13142): Version:  OpenGL ES 2.0 build 1.9@2204701
+03-17 17:07:42.450: D/Unity(13142): GLES:     2
+03-17 17:07:42.450: D/Unity(13142): GL_EXT_debug_marker GL_OES_rgb8_rgba8 GL_OES_depth24 GL_OES_vertex_half_float GL_OES_texture_float GL_OES_texture_half_float GL_OES_element_index_uint GL_OES_mapbuffer GL_OES_fragment_precision_high GL_OES_compressed_ETC1_RGB8_texture GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_required_internalformat GL_OES_depth_texture GL_OES_get_program_binary GL_OES_packed_depth_stencil GL_OES_standard_derivatives GL_OES_vertex_array_object GL_OES_egl_sync GL_OES_texture_npot GL_EXT_multi_draw_arrays GL_EXT_texture_format_BGRA8888 GL_EXT_discard_framebuffer GL_EXT_shader_texture_lod GL_IMG_shader_binary GL_IMG_texture_compression_pvrtc GL_IMG_texture_compression_pvrtc2 GL_IMG_texture_npot GL_IMG_texture_format_BGRA8888 GL_IMG_read_format GL_IMG_program_binary GL_IMG_uniform_buffer_object GL_IMG_multisampled_render_to_texture
+03-17 17:07:42.521: D/Unity(13142): ETC2 0
+03-17 17:07:42.522: D/Unity(13142): OPENGL LOG: Creating OpenGL ES 2.0 graphics device
+03-17 17:07:42.522: D/Unity(13142): InitializeGfxDevice OK
+03-17 17:07:42.522: D/Unity(13142): Initialize engine version: 5.2.2p1 (6dd5cd7ea574)
+03-17 17:07:42.618: D/Unity(13142): AudioManager: Selecting AudioTrack output...
+03-17 17:07:42.619: D/dalvikvm(13142): create interp thread : stack size=32KB
+03-17 17:07:42.619: D/dalvikvm(13142): create new thread
+03-17 17:07:42.619: D/dalvikvm(13142): new thread created
+03-17 17:07:42.619: D/dalvikvm(13142): update thread list
+03-17 17:07:42.619: D/dalvikvm(13142): threadid=12: interp stack at 0x613bb000
+03-17 17:07:42.619: D/dalvikvm(13142): threadid=12: created from interp
+03-17 17:07:42.619: D/dalvikvm(13142): start new thread
+03-17 17:07:42.619: D/dalvikvm(13142): threadid=12: notify debugger
+03-17 17:07:42.619: D/dalvikvm(13142): threadid=12 (FMODAudioDevice): calling run()
+03-17 17:07:42.621: W/libc(13142): pthread_create sched_setscheduler call failed: Operation not permitted
+03-17 17:07:42.622: D/AudioTrack(13142): audiotrack 0x613b9c40 set Type 3, rate 24000, fmt 1, chn 3, fcnt 2452, flag 0
+03-17 17:07:42.623: D/dalvikvm(13142): threadid=13: interp stack at 0x6165e000
+03-17 17:07:42.623: D/AudioTrack(13142): pid [13142] sched_setscheduler to default: 1
+03-17 17:07:42.624: D/AudioTrack(13142): start 0x613b9c40
+03-17 17:07:42.627: D/Unity(13142): Begin MonoManager ReloadAssembly
+03-17 17:07:42.655: D/Unity(13142): Platform assembly: /mnt/asec/com.soomla.test3-2/pkg.apk/assets/bin/Data/Managed/UnityEngine.dll (this message is harmless)
+03-17 17:07:42.662: W/mono(13142): Symbol file LoadedFromMemory doesn't match image /mnt/asec/com.soomla.test3-2/pkg.apk/assets/bin/Data/Managed/UnityEngine.dll
+03-17 17:07:42.662: D/Unity(13142): Loading /mnt/asec/com.soomla.test3-2/pkg.apk/assets/bin/Data/Managed/UnityEngine.dll into Unity Child Domain
+03-17 17:07:42.668: W/mono(13142): Symbol file /mnt/asec/com.soomla.test3-2/pkg.apk/assets/bin/Data/Managed/UnityEngine.dll.mdb doesn't match image /mnt/asec/com.soomla.test3-2/pkg.apk/assets/bin/Data/Managed/UnityEngine.dll
+03-17 17:07:42.734: D/Unity(13142): Platform assembly: /mnt/asec/com.soomla.test3-2/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp-firstpass.dll (this message is harmless)
+03-17 17:07:42.738: D/Unity(13142): Loading /mnt/asec/com.soomla.test3-2/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp-firstpass.dll into Unity Child Domain
+03-17 17:07:42.739: D/Unity(13142): Platform assembly: /mnt/asec/com.soomla.test3-2/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp.dll (this message is harmless)
+03-17 17:07:42.739: D/Unity(13142): Loading /mnt/asec/com.soomla.test3-2/pkg.apk/assets/bin/Data/Managed/Assembly-CSharp.dll into Unity Child Domain
+03-17 17:07:42.747: D/Unity(13142): Platform assembly: /mnt/asec/com.soomla.test3-2/pkg.apk/assets/bin/Data/Managed/UnityEngine.UI.dll (this message is harmless)
+03-17 17:07:42.749: D/Unity(13142): Loading /mnt/asec/com.soomla.test3-2/pkg.apk/assets/bin/Data/Managed/UnityEngine.UI.dll into Unity Child Domain
+03-17 17:07:42.756: D/Unity(13142): Platform assembly: /mnt/asec/com.soomla.test3-2/pkg.apk/assets/bin/Data/Managed/UnityEngine.Networking.dll (this message is harmless)
+03-17 17:07:42.759: D/Unity(13142): Loading /mnt/asec/com.soomla.test3-2/pkg.apk/assets/bin/Data/Managed/UnityEngine.Networking.dll into Unity Child Domain
+03-17 17:07:42.760: D/Unity(13142): Platform assembly: /mnt/asec/com.soomla.test3-2/pkg.apk/assets/bin/Data/Managed/GrowIntegration.dll (this message is harmless)
+03-17 17:07:42.760: D/Unity(13142): Loading /mnt/asec/com.soomla.test3-2/pkg.apk/assets/bin/Data/Managed/GrowIntegration.dll into Unity Child Domain
+03-17 17:07:42.796: D/Unity(13142): Platform assembly: /mnt/asec/com.soomla.test3-2/pkg.apk/assets/bin/Data/Managed/System.Core.dll (this message is harmless)
+03-17 17:07:42.806: D/Unity(13142): - Completed reload, in  0.179 seconds
+03-17 17:07:42.815: D/Unity(13142): PlayerInitEngineGraphics OK
+03-17 17:07:42.816: D/Unity(13142): Found 10 native sensors
+03-17 17:07:42.817: D/Unity(13142): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+03-17 17:07:42.818: D/Unity(13142): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+03-17 17:07:42.826: D/Unity(13142): Requested framebuffer: resolution[720x1280], rgba[8/8/8/8], depth+stencil[on], samples[1]
+03-17 17:07:42.834: D/Unity(13142): Created framebuffer: resolution[720x1280], rgba[8/8/8/8], depth+stencil[24/8], samples[0] 
+03-17 17:07:43.000: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.000: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.000: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.000: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.000: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.000: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.000: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.021: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.052: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.072: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.081: D/Unity(13142): Platform assembly: /mnt/asec/com.soomla.test3-2/pkg.apk/assets/bin/Data/Managed/System.dll (this message is harmless)
+03-17 17:07:43.093: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.123: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.154: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.174: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.195: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.236: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.256: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.318: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.338: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.422: D/Unity(13142): -------- Shader compilation failed
+03-17 17:07:43.422: D/Unity(13142): #version 100
+03-17 17:07:43.422: D/Unity(13142): #extension GL_EXT_shader_texture_lod : enable
+03-17 17:07:43.422: D/Unity(13142): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+03-17 17:07:43.422: D/Unity(13142): {
+03-17 17:07:43.422: D/Unity(13142): #if defined(GL_EXT_shader_texture_lod)
+03-17 17:07:43.422: D/Unity(13142): 	return textureCubeLodEXT(sampler, coord, lod);
+03-17 17:07:43.422: D/Unity(13142): #else
+03-17 17:07:43.422: D/Unity(13142): 	return textureCube(sampler, coord, lod);
+03-17 17:07:43.422: D/Unity(13142): #endif
+03-17 17:07:43.422: D/Unity(13142): }
+03-17 17:07:43.422: D/Unity(13142): uniform mediump vec4 _TexA_HDR;
+03-17 17:07:43.422: D/Unity(13142): uniform mediump vec4 _TexB_HDR;
+03-17 17:07:43.422: D/Unity(13142): uniform lowp samplerCube _TexA;
+03-17 17:07:43.422: D/Unity(13142): uniform lowp samplerCube _TexB;
+03-17 17:07:43.422: D/Unity(13142): uniform highp float _Level;
+03-17 17:07:43.422: D/Unity(13142): uniform highp float _value;
+03-17 17:07:43.422: D/Unity(13142): varying highp vec3 xlv_TEXCOORD0;
+03-17 17:07:43.422: D/Unity(13142): void main ()
+03-17 17:07:43.422: D/Unity(13142): {
+03-17 17:07:43.422: D/Unity(13142):   mediump vec3 res_1;
+03-17 17:07:43.422: D/Unity(13142):   mediump vec4 tmpvar_2;
+03-17 17:07:43.422: D/Unity(13142):   lowp vec4 tmpvar_3;
+03-17 17:07:43.422: D/Unity(13142):   tmpvar_3 = impl_low_textureCubeLodEXT (_TexA, xlv_TEXCOORD0, _Level);
+03-17 17:07:43.422: D/Unity(13142):   tmpvar_2 = tmpvar_3;
+03-17 17:07:43.422: D/Unity(13142):   mediump vec3 tmpvar_4;
+03-17 17:07:43.422: D/Unity(13142):   tmpvar_4 = ((_TexA_HDR.x * tmpvar_2.w) * tmpvar_2.xyz);
+03-17 17:07:43.422: D/Unity(13142):   mediump vec4 tmpvar_5;
+03-17 17:07:43.422: D/Unity(13142):   lowp vec4 tmpvar_6;
+03-17 17:07:43.422: D/Unity(13142):   tmpvar_6 = impl_low_textureCubeLodEXT (_TexB, xlv_TEXCOORD0, _Level);
+03-17 17:07:43.422: D/Unity(13142):   tmpvar_5 = tmpvar_6;
+03-17 17:07:43.422: D/Unity(13142):   mediump vec3 tmpvar_7;
+03-17 17:07:43.422: D/Unity(13142):   tmpvar_7 = ((_TexB_HDR.x * tmpvar_5.w) * tmpvar_5.xyz);
+03-17 17:07:43.422: D/Unity(13142):   highp vec3 tmpvar_8;
+03-17 17:07:43.422: D/Unity(13142):   tmpvar_8 = mix (tmpvar_4, tmpvar_7, vec3(_value));
+03-17 17:07:43.422: D/Unity(13142):   res_1 = tmpvar_8;
+03-17 17:07:43.422: D/Unity(13142):   mediump vec4 tmpvar_9;
+03-17 17:07:43.422: D/Unity(13142):   tmpvar_9.w = 1.0;
+03-17 17:07:43.422: D/Unity(13142):   tmpvar_9.xyz = res_1;
+03-17 17:07:43.422: D/Unity(13142):   gl_FragData[0] = tmpvar_9;
+03-17 17:07:43.422: D/Unity(13142): }
+03-17 17:07:43.422: D/Unity(13142): -------- failed compiling:
+03-17 17:07:43.422: D/Unity(13142): fragment evaluation shader
+03-17 17:07:43.422: D/Unity(13142): -------- GLSL error:
+03-17 17:07:43.422: D/Unity(13142): Compile failed.
+03-17 17:07:43.422: D/Unity(13142): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+03-17 17:07:43.422: D/Unity(13142): ERROR: 0:8: 'return' : function return is not matching type
+03-17 17:07:43.422: D/Unity(13142): ERROR: 2 compilation errors. No code generated.
+03-17 17:07:43.422: D/Unity(13142): textureCubeLodEXT or textureCubeGradEXT usage detected.
+03-17 17:07:43.422: D/Unity(13142): GL_EXT_shader_texture_lod extension is buggy on PowerVR drivers.
+03-17 17:07:43.422: D/Unity(13142): replacing textureCubeLodEXT->textureCubeLod and textureCubeGradEXT->textureCubeGradARB as a workaround.
+03-17 17:07:43.427: D/Unity(13142): -------- Shader compilation failed
+03-17 17:07:43.427: D/Unity(13142): #version 100
+03-17 17:07:43.427: D/Unity(13142): #extension GL_EXT_shader_texture_lod : enable
+03-17 17:07:43.427: D/Unity(13142): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+03-17 17:07:43.427: D/Unity(13142): {
+03-17 17:07:43.427: D/Unity(13142): #if defined(GL_EXT_shader_texture_lod)
+03-17 17:07:43.427: D/Unity(13142): 	return textureCubeLodEXT(sampler, coord, lod);
+03-17 17:07:43.427: D/Unity(13142): #else
+03-17 17:07:43.427: D/Unity(13142): 	return textureCube(sampler, coord, lod);
+03-17 17:07:43.427: D/Unity(13142): #endif
+03-17 17:07:43.427: D/Unity(13142): }
+03-17 17:07:43.427: D/Unity(13142): uniform highp float _Level;
+03-17 17:07:43.427: D/Unity(13142): uniform lowp samplerCube _MainTex;
+03-17 17:07:43.427: D/Unity(13142): varying highp vec4 xlv_TEXCOORD0;
+03-17 17:07:43.427: D/Unity(13142): void main ()
+03-17 17:07:43.427: D/Unity(13142): {
+03-17 17:07:43.427: D/Unity(13142):   highp vec4 tmpvar_1;
+03-17 17:07:43.427: D/Unity(13142):   lowp vec4 tmpvar_2;
+03-17 17:07:43.427: D/Unity(13142):   tmpvar_2 = impl_low_textureCubeLodEXT (_MainTex, xlv_TEXCOORD0.xyz, _Level);
+03-17 17:07:43.427: D/Unity(13142):   tmpvar_1 = tmpvar_2;
+03-17 17:07:43.427: D/Unity(13142):   gl_FragData[0] = tmpvar_1;
+03-17 17:07:43.427: D/Unity(13142): }
+03-17 17:07:43.427: D/Unity(13142): -------- failed compiling:
+03-17 17:07:43.427: D/Unity(13142): fragment evaluation shader
+03-17 17:07:43.427: D/Unity(13142): -------- GLSL error:
+03-17 17:07:43.427: D/Unity(13142): Compile failed.
+03-17 17:07:43.428: D/Unity(13142): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+03-17 17:07:43.428: D/Unity(13142): ERROR: 0:8: 'return' : function return is not matching type
+03-17 17:07:43.428: D/Unity(13142): ERROR: 2 compilation errors. No code generated.
+03-17 17:07:43.428: D/Unity(13142): textureCubeLodEXT or textureCubeGradEXT usage detected.
+03-17 17:07:43.428: D/Unity(13142): GL_EXT_shader_texture_lod extension is buggy on PowerVR drivers.
+03-17 17:07:43.428: D/Unity(13142): replacing textureCubeLodEXT->textureCubeLod and textureCubeGradEXT->textureCubeGradARB as a workaround.
+03-17 17:07:43.514: D/Unity(13142): -------- Shader compilation failed
+03-17 17:07:43.514: D/Unity(13142): #version 100
+03-17 17:07:43.514: D/Unity(13142): #extension GL_EXT_shader_texture_lod : enable
+03-17 17:07:43.514: D/Unity(13142): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+03-17 17:07:43.514: D/Unity(13142): {
+03-17 17:07:43.514: D/Unity(13142): #if defined(GL_EXT_shader_texture_lod)
+03-17 17:07:43.514: D/Unity(13142): 	return textureCubeLodEXT(sampler, coord, lod);
+03-17 17:07:43.514: D/Unity(13142): #else
+03-17 17:07:43.514: D/Unity(13142): 	return textureCube(sampler, coord, lod);
+03-17 17:07:43.514: D/Unity(13142): #endif
+03-17 17:07:43.514: D/Unity(13142): }
+03-17 17:07:43.514: D/Unity(13142): uniform highp vec3 _WorldSpaceCameraPos;
+03-17 17:07:43.514: D/Unity(13142): uniform highp vec4 _ProjectionParams;
+03-17 17:07:43.514: D/Unity(13142): uniform highp vec4 _ZBufferParams;
+03-17 17:07:43.514: D/Unity(13142): uniform lowp samplerCube unity_SpecCube0;
+03-17 17:07:43.514: D/Unity(13142): uniform highp vec4 unity_SpecCube0_BoxMax;
+03-17 17:07:43.514: D/Unity(13142): uniform highp vec4 unity_SpecCube0_BoxMin;
+03-17 17:07:43.514: D/Unity(13142): uniform mediump vec4 unity_SpecCube0_HDR;
+03-17 17:07:43.514: D/Unity(13142): uniform highp vec4 unity_SpecCube1_ProbePosition;
+03-17 17:07:43.514: D/Unity(13142): uniform highp sampler2D _CameraDepthTexture;
+03-17 17:07:43.514: D/Unity(13142): uniform highp mat4 _CameraToWorld;
+03-17 17:07:43.514: D/Unity(13142): uniform sampler2D _CameraGBufferTexture0;
+03-17 17:07:43.514: D/Unity(13142): uniform sampler2D _CameraGBufferTexture1;
+03-17 17:07:43.514: D/Unity(13142): uniform sampler2D _CameraGBufferTexture2;
+03-17 17:07:43.514: D/Unity(13142): varying highp vec4 xlv_TEXCOORD0;
+03-17 17:07:43.514: D/Unity(13142): varying highp vec3 xlv_TEXCOORD1;
+03-17 17:07:43.514: D/Unity(13142): void main ()
+03-17 17:07:43.514: D/Unity(13142): {
+03-17 17:07:43.514: D/Unity(13142):   mediump vec3 worldNormalRefl_1;
+03-17 17:07:43.514: D/Unity(13142):   mediump vec4 gbuffer2_2;
+03-17 17:07:43.514: D/Unity(13142):   mediump vec4 gbuffer1_3;
+03-17 17:07:43.514: D/Unity(13142):   mediump vec4 gbuffer0_4;
+03-17 17:07:43.514: D/Unity(13142):   highp vec2 tmpvar_5;
+03-17 17:07:43.514: D/Unity(13142):   tmpvar_5 = (xlv_TEXCOORD0.xy / xlv_TEXCOORD0.w);
+03-17 17:07:43.514: D/Unity(13142):   highp vec4 tmpvar_6;
+03-17 17:07:43.514: D/Unity(13142):   tmpvar_6.w = 1.0;
+03-17 17:07:43.514: D/Unity(13142):   tmpvar_6.xyz = ((xlv_TEXCOORD1 * (_ProjectionParams.z / xlv_TEXCOORD1.z)) * (1.0/((
+03-17 17:07:43.514: D/Unity(13142):     (_ZBufferParams.x * texture2D (_CameraDepthTexture, tmpvar_5).x)
+03-17 17:07:43.514: D/Unity(13142):    + _ZBufferParams.y))));
+03-17 17:07:43.514: D/Unity(13142):   highp vec3 tmpvar_7;
+03-17 17:07:43.514: D/Unity(13142):   tmpvar_7 = (_CameraToWorld * tmpvar_6).xyz;
+03-17 17:07:43.514: D/Unity(13142):   lowp vec4 tmpvar_8;
+03-17 17:07:43.514: D/Unity(13142):   tmpvar_8 = texture2D (_CameraGBufferTexture0, tmpvar_5);
+03-17 17:07:43.514: D/Unity(13142):   gbuffer0_4 = tmpvar_8;
+03-17 17:07:43.514: D/Unity(13142):   lowp vec4 tmpvar_9;
+03-17 17:07:43.514: D/Unity(13142):   tmpvar_9 = texture2D (_CameraGBufferTexture1, tmpvar_5);
+03-17 17:07:43.514: D/Unity(13142):   gbuffer1_3 = tmpvar_9;
+03-17 17:07:43.514: D/Unity(13142):   lowp vec4 tmpvar_10;
+03-17 17:07:43.514: D/Unity(13142):   tmpvar_10 = texture2D (_CameraGBufferTexture2, tmpvar_5);
+03-17 17:07:43.514: D/Unity(13142):   gbuffer2_2 = tmpvar_10;
+03-17 17:07:43.514: D/Unity(13142):   mediump vec3 tmpvar_11;
+03-17 17:07:43.514: D/Unity(13142):   tmpvar_11 = normalize(((gbuffer2_2.xyz * 2.0) - 1.0));
+03-17 17:07:43.514: D/Unity(13142):   highp vec3 tmpvar_12;
+03-17 17:07:43.514: D/Unity(13142):   tmpvar_12 = normalize((tmpvar_7 - _WorldSpaceCameraPos));
+03-17 17:07:43.514: D/Unity(13142):   highp vec3 tmpvar_13;
+03-17 17:07:43.514: D/Unity(13142):   tmpvar_13 = (tmpvar_12 - (2.0 * (
+03-17 17:07:43.514: D/Unity(13142):     dot (tmpvar_11, tmpvar_12)
+03-17 17:07:43.514: D/Unity(13142):    * tmpvar_11)));
+03-17 17:07:43.514: D/Unity(13142):   worldNormalRefl_1 = tmpvar_13;
+03-17 17:07:43.514: D/Unity(13142):   mediump vec4 tmpvar_14;
+03-17 17:07:43.514: D/Unity(13142):   tmpvar_14.xyz = worldNormalRefl_1;
+03-17 17:07:43.514: D/Unity(13142):   tmpvar_14.w = (pow ((1.0 - gbuffer1_3.w), 0.75) * 7.0);
+03-17 17:07:43.514: D/Unity(13142):   lowp vec4 tmpvar_15;
+03-17 17:07:43.514: D/Unity(13142):   tmpvar_15 = impl_low_textureCubeLodEXT (unity_SpecCube0, worldNormalRefl_1, tmpvar_14.w);
+03-17 17:07:43.514: D/Unity(13142):   mediump vec4 tmpvar_16;
+03-17 17:07:43.514: D/Unity(13142):   tmpvar_16 = tmpvar_15;
+03-17 17:07:43.514: D/Unity(13142):   mediump vec3 viewDir_17;
+03-17 17:07:43.514: D/Unity(13142):   viewDir_17 = -(tmpvar_12);
+03-17 17:07:43.514: D/Unity(13142):   mediump float x_18;
+03-17 17:07:43.515: D/Unity(13142):   x_18 = (1.0 - max (0.0, dot (tmpvar_11, viewDir_17)));
+03-17 17:07:43.515: D/Unity(13142):   mediump vec4 tmpvar_19;
+03-17 17:07:43.515: D/Unity(13142):   tmpvar_19.w = 1.0;
+03-17 17:07:43.515: D/Unity(13142):   tmpvar_19.xyz = (((
+03-17 17:07:43.515: D/Unity(13142):     (unity_SpecCube0_HDR.x * tmpvar_16.w)
+03-17 17:07:43.515: D/Unity(13142):    * tmpvar_16.xyz) * gbuffer0_4.w) * mix (gbuffer1_3.xyz, vec3(clamp (
+03-17 17:07:43.515: D/Unity(13142):     (gbuffer1_3.w + (1.0 - (1.0 - max (
+03-17 17:07:43.515: D/Unity(13142):       max (gbuffer1_3.x, gbuffer1_3.y)
+03-17 17:07:43.515: D/Unity(13142):     , gbuffer1_3.z))))
+03-17 17:07:43.515: D/Unity(13142):   , 0.0, 1.0)), vec3((
+03-17 17:07:43.515: D/Unity(13142):     (x_18 * x_18)
+03-17 17:07:43.515: D/Unity(13142):    * 
+03-17 17:07:43.515: D/Unity(13142):     (x_18 * x_18)
+03-17 17:07:43.515: D/Unity(13142):   ))));
+03-17 17:07:43.515: D/Unity(13142):   mediump vec3 p_20;
+03-17 17:07:43.515: D/Unity(13142):   p_20 = tmpvar_7;
+03-17 17:07:43.515: D/Unity(13142):   mediump vec3 aabbMin_21;
+03-17 17:07:43.515: D/Unity(13142):   aabbMin_21 = unity_SpecCube0_BoxMin.xyz;
+03-17 17:07:43.515: D/Unity(13142):   mediump vec3 aabbMax_22;
+03-17 17:07:43.515: D/Unity(13142):   aabbMax_22 = unity_SpecCube0_BoxMax.xyz;
+03-17 17:07:43.515: D/Unity(13142):   mediump vec3 tmpvar_23;
+03-17 17:07:43.515: D/Unity(13142):   tmpvar_23 = max (max ((p_20 - aabbMax_22), (aabbMin_21 - p_20)), vec3(0.0, 0.0, 0.0));
+03-17 17:07:43.515: D/Unity(13142):   mediump float tmpvar_24;
+03-17 17:07:43.515: D/Unity(13142):   tmpvar_24 = sqrt(dot (tmpvar_23, tmpvar_23));
+03-17 17:07:43.515: D/Unity(13142):   mediump float tmpvar_25;
+03-17 17:07:43.515: D/Unity(13142):   highp float tmpvar_26;
+03-17 17:07:43.515: D/Unity(13142):   tmpvar_26 = clamp ((1.0 - (tmpvar_24 / unity_SpecCube1_ProbePosition.w)), 0.0, 1.0);
+03-17 17:07:43.515: D/Unity(13142):   tmpvar_25 = tmpvar_26;
+03-17 17:07:43.515: D/Unity(13142):   mediump vec4 tmpvar_27;
+03-17 17:07:43.515: D/Unity(13142):   tmpvar_27.xyz = tmpvar_19.xyz;
+03-17 17:07:43.515: D/Unity(13142):   tmpvar_27.w = tmpvar_25;
+03-17 17:07:43.515: D/Unity(13142):   gl_FragData[0] = tmpvar_27;
+03-17 17:07:43.515: D/Unity(13142): }
+03-17 17:07:43.515: D/Unity(13142): -------- failed compiling:
+03-17 17:07:43.515: D/Unity(13142): fragment evaluation shader
+03-17 17:07:43.515: D/Unity(13142): -------- GLSL error:
+03-17 17:07:43.515: D/Unity(13142): Compile failed.
+03-17 17:07:43.515: D/Unity(13142): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+03-17 17:07:43.515: D/Unity(13142): ERROR: 0:8: 'return' : function return is not matching type
+03-17 17:07:43.515: D/Unity(13142): ERROR: 2 compilation errors. No code generated.
+03-17 17:07:43.515: D/Unity(13142): textureCubeLodEXT or textureCubeGradEXT usage detected.
+03-17 17:07:43.515: D/Unity(13142): GL_EXT_shader_texture_lod extension is buggy on PowerVR drivers.
+03-17 17:07:43.515: D/Unity(13142): replacing textureCubeLodEXT->textureCubeLod and textureCubeGradEXT->textureCubeGradARB as a workaround.
+03-17 17:07:43.523: D/Unity(13142): -------- Shader compilation failed
+03-17 17:07:43.523: D/Unity(13142): #version 100
+03-17 17:07:43.523: D/Unity(13142): #extension GL_EXT_shader_texture_lod : enable
+03-17 17:07:43.523: D/Unity(13142): lowp vec4 impl_low_textureCubeLodEXT(lowp samplerCube sampler, highp vec3 coord, mediump float lod)
+03-17 17:07:43.523: D/Unity(13142): {
+03-17 17:07:43.523: D/Unity(13142): #if defined(GL_EXT_shader_texture_lod)
+03-17 17:07:43.523: D/Unity(13142): 	return textureCubeLodEXT(sampler, coord, lod);
+03-17 17:07:43.524: D/Unity(13142): #else
+03-17 17:07:43.524: D/Unity(13142): 	return textureCube(sampler, coord, lod);
+03-17 17:07:43.524: D/Unity(13142): #endif
+03-17 17:07:43.524: D/Unity(13142): }
+03-17 17:07:43.524: D/Unity(13142): uniform lowp samplerCube _MainTex;
+03-17 17:07:43.524: D/Unity(13142): uniform mediump float _Level;
+03-17 17:07:43.524: D/Unity(13142): varying mediump vec4 xlv_TEXCOORD0;
+03-17 17:07:43.524: D/Unity(13142): void main ()
+03-17 17:07:43.524: D/Unity(13142): {
+03-17 17:07:43.524: D/Unity(13142):   mediump vec4 tmpvar_1;
+03-17 17:07:43.524: D/Unity(13142):   lowp vec4 tmpvar_2;
+03-17 17:07:43.524: D/Unity(13142):   tmpvar_2 = impl_low_textureCubeLodEXT (_MainTex, xlv_TEXCOORD0.xyz, _Level);
+03-17 17:07:43.524: D/Unity(13142):   tmpvar_1 = tmpvar_2;
+03-17 17:07:43.524: D/Unity(13142):   gl_FragData[0] = tmpvar_1;
+03-17 17:07:43.524: D/Unity(13142): }
+03-17 17:07:43.524: D/Unity(13142): -------- failed compiling:
+03-17 17:07:43.524: D/Unity(13142): fragment evaluation shader
+03-17 17:07:43.524: D/Unity(13142): -------- GLSL error:
+03-17 17:07:43.524: D/Unity(13142): Compile failed.
+03-17 17:07:43.524: D/Unity(13142): ERROR: 0:8: 'textureCubeLodEXT' : no matching overloaded function found
+03-17 17:07:43.524: D/Unity(13142): ERROR: 0:8: 'return' : function return is not matching type
+03-17 17:07:43.524: D/Unity(13142): ERROR: 2 compilation errors. No code generated.
+03-17 17:07:43.524: D/Unity(13142): textureCubeLodEXT or textureCubeGradEXT usage detected.
+03-17 17:07:43.524: D/Unity(13142): GL_EXT_shader_texture_lod extension is buggy on PowerVR drivers.
+03-17 17:07:43.524: D/Unity(13142): replacing textureCubeLodEXT->textureCubeLod and textureCubeGradEXT->textureCubeGradARB as a workaround.
+03-17 17:07:43.569: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.569: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.569: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.569: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.569: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.569: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.569: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.569: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.579: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.600: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.751: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.751: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.751: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.751: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.764: D/Unity(13142): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+03-17 17:07:43.779: D/AudioTrack(13142): audiotrack 0x613b9c40 stop done
+03-17 17:07:43.779: D/AudioTrack(13142): ~audioTrack 0x613b9c40
+03-17 17:07:43.779: D/dalvikvm(13142): threadid=13: bye!
+03-17 17:07:43.779: D/dalvikvm(13142): threadid=12: exiting
+03-17 17:07:43.779: D/dalvikvm(13142): threadid=12: bye!
+03-17 17:07:43.780: D/dalvikvm(13142): create interp thread : stack size=32KB
+03-17 17:07:43.780: D/dalvikvm(13142): create new thread
+03-17 17:07:43.780: D/dalvikvm(13142): new thread created
+03-17 17:07:43.780: D/dalvikvm(13142): update thread list
+03-17 17:07:43.780: D/dalvikvm(13142): threadid=12: interp stack at 0x5f88c000
+03-17 17:07:43.780: D/dalvikvm(13142): threadid=12: created from interp
+03-17 17:07:43.780: D/dalvikvm(13142): start new thread
+03-17 17:07:43.780: D/dalvikvm(13142): threadid=12: notify debugger
+03-17 17:07:43.780: D/dalvikvm(13142): threadid=12 (FMODAudioDevice): calling run()
+03-17 17:07:43.780: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:43.781: D/AudioTrack(13142): audiotrack 0x613b8cf8 set Type 3, rate 24000, fmt 1, chn 3, fcnt 2452, flag 0
+03-17 17:07:43.783: D/dalvikvm(13142): threadid=13: interp stack at 0x5f894000
+03-17 17:07:43.783: D/AudioTrack(13142): pid [13142] sched_setscheduler to default: 1
+03-17 17:07:43.784: D/AudioTrack(13142): start 0x613b8cf8
+03-17 17:07:43.876: D/Unity(13142): Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+03-17 17:07:44.054: D/SOOMLA Unity SoomlaEventHandler(13142): Initializing SoomlaEventHandler ...
+03-17 17:07:44.069: D/dalvikvm(13142): create interp thread : stack size=32KB
+03-17 17:07:44.069: D/dalvikvm(13142): create new thread
+03-17 17:07:44.069: D/dalvikvm(13142): new thread created
+03-17 17:07:44.069: D/dalvikvm(13142): update thread list
+03-17 17:07:44.069: D/dalvikvm(13142): threadid=14: interp stack at 0x60224000
+03-17 17:07:44.069: D/dalvikvm(13142): threadid=14: created from interp
+03-17 17:07:44.069: D/dalvikvm(13142): start new thread
+03-17 17:07:44.069: D/dalvikvm(13142): threadid=14: notify debugger
+03-17 17:07:44.069: D/dalvikvm(13142): threadid=14 (pool-1-thread-1): calling run()
+03-17 17:07:44.109: D/SOOMLA Unity ProfileEventHandler(13142): Initializing ProfileEventHandler ...
+03-17 17:07:44.157: D/SOOMLA UnitySoomlaProfile(13142): Initializing SoomlaProfile from bridge
+03-17 17:07:44.159: D/SOOMLA ProviderManager(13142): Trying to load class com.soomla.profile.social.facebook.SoomlaFacebook
+03-17 17:07:44.159: D/SOOMLA ProviderManager(13142): Failed loading class com.soomla.profile.social.facebook.SoomlaFacebook Exception: com.soomla.profile.social.facebook.SoomlaFacebook
+03-17 17:07:44.159: D/SOOMLA ProviderManager(13142): Trying to load class com.soomla.profile.social.google.SoomlaGooglePlus
+03-17 17:07:44.160: D/SOOMLA ProviderManager(13142): Trying to load class com.soomla.profile.social.twitter.SoomlaTwitter
+03-17 17:07:44.160: D/SOOMLA ProviderManager(13142): Failed loading class com.soomla.profile.social.twitter.SoomlaTwitter Exception: com.soomla.profile.social.twitter.SoomlaTwitter
+03-17 17:07:44.167: V/Provider/Settings(13142): invalidate [secure]: current 5 != cached 0
+03-17 17:07:44.168: V/Provider/Settings(13142): from db cache, name = android_id , value = 78a03997e54eda34
+03-17 17:07:44.194: D/SOOMLA KeyValueStorage(13142): trying to fetch a value for key: soomla.profile.google.loggedIn from storage: store.kv.db
+03-17 17:07:44.376: D/Unity(13142): Setting up 1 worker threads for Enlighten.
+03-17 17:07:44.377: D/Unity(13142):   Thread -> id: 6131c7d0 -> priority: 1 
+03-17 17:07:44.413: I/SurfaceTextureClient(13142): [STC::queueBuffer] (this:0x5caf2a90) fps:2.07, dur:1447.50, max:1427.29, min:9.91
+03-17 17:07:44.414: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.414: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.414: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.414: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.414: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.414: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.414: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.414: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.414: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.414: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.414: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.414: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.498: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.498: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.498: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.498: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.516: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.532: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.585: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.585: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.674: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.674: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.707: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.762: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.762: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.777: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.850: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.850: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.850: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.875: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.875: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.963: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.963: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:44.979: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.051: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.051: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.060: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.087: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.199: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.211: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.287: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.347: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.347: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.402: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.422: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.423: I/SurfaceTextureClient(13142): [STC::queueBuffer] (this:0x5caf2a90) fps:34.67, dur:1009.41, max:80.18, min:1.77
+03-17 17:07:45.435: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.490: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.496: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.577: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.577: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.577: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.577: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.609: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.664: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.664: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.664: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.681: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.698: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.725: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.752: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.788: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.788: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.861: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.861: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.861: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.873: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.922: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.923: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.959: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.959: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:45.977: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.031: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.031: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.031: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.091: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.091: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.091: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.146: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.146: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.161: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.183: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.224: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.224: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.238: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.263: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.317: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.317: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.317: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.332: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.404: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.404: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.404: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.413: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.424: I/SurfaceTextureClient(13142): [STC::queueBuffer] (this:0x5caf2a90) fps:35.95, dur:1001.31, max:67.95, min:6.02
+03-17 17:07:46.492: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.492: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.493: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.493: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.526: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.553: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.554: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.584: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.610: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.641: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.641: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.656: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.692: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.692: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.718: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.746: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.773: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.773: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.807: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.827: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.857: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.858: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.882: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.905: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.945: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.945: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.963: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:46.977: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.018: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.018: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.048: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.058: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.099: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.099: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.135: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.135: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.157: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.183: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.206: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.272: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.272: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.273: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.274: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.366: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.366: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.367: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.369: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.380: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.461: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.461: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.462: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.465: I/SurfaceTextureClient(13142): [STC::queueBuffer] (this:0x5caf2a90) fps:33.61, dur:1041.24, max:82.72, min:1.84
+03-17 17:07:47.479: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.549: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.549: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.552: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.565: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.573: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.614: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.669: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.697: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.698: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.724: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.739: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.784: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.784: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.806: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.834: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.834: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.861: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.887: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.924: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.924: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:47.944: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.120: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.120: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.120: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.120: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.120: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.120: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.120: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.135: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.226: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.228: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.228: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.229: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.247: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.317: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.318: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.318: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.338: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.388: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.388: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.404: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.432: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.494: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.495: I/SurfaceTextureClient(13142): [STC::queueBuffer] (this:0x5caf2a90) fps:30.09, dur:1030.24, max:177.96, min:2.18
+03-17 17:07:48.512: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.584: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.585: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.597: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.648: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.676: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.729: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.730: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.732: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.764: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.790: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.811: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.811: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.864: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.864: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.895: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.895: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:48.942: D/dalvikvm(13142): create interp thread : stack size=32KB
+03-17 17:07:48.942: D/dalvikvm(13142): create new thread
+03-17 17:07:48.943: D/dalvikvm(13142): new thread created
+03-17 17:07:48.943: D/dalvikvm(13142): update thread list
+03-17 17:07:48.943: D/dalvikvm(13142): threadid=15: interp stack at 0x64f56000
+03-17 17:07:48.943: D/dalvikvm(13142): threadid=15: created from interp
+03-17 17:07:48.944: D/dalvikvm(13142): start new thread
+03-17 17:07:48.949: D/dalvikvm(13142): threadid=15: notify debugger
+03-17 17:07:48.949: D/dalvikvm(13142): threadid=15 (Thread-5164): calling run()
+03-17 17:07:48.977: D/libc-netbsd(13142): getaddrinfo: assets.soom.la get result from proxy >>
+03-17 17:07:48.981: I/System.out(13142): propertyValue:true
+03-17 17:07:48.982: I/System.out(13142): [socket][0] connection assets.soom.la/205.251.219.36:80;LocalPort=44242(0)
+03-17 17:07:48.982: I/System.out(13142): [CDS]connect[assets.soom.la/205.251.219.36:80] tm:90
+03-17 17:07:48.983: D/Posix(13142): [Posix_connect Debug]Process com.soomla.test3 :80 
+03-17 17:07:49.019: I/System.out(13142): [socket][/192.168.0.101:44242] connected
+03-17 17:07:49.019: I/System.out(13142): [CDS]rx timeout:0
+03-17 17:07:49.033: D/dalvikvm(13142): threadid=16: interp stack at 0x65079000
+03-17 17:07:49.033: D/dalvikvm(13142): threadid=16: bye!
+03-17 17:07:49.034: D/dalvikvm(13142): threadid=16: interp stack at 0x65079000
+03-17 17:07:49.034: D/dalvikvm(13142): threadid=16: bye!
+03-17 17:07:49.034: D/dalvikvm(13142): threadid=16: interp stack at 0x65079000
+03-17 17:07:49.035: D/dalvikvm(13142): threadid=16: bye!
+03-17 17:07:49.078: I/Unity(13142): NullReferenceException: Object reference not set to an instance of an object
+03-17 17:07:49.078: I/Unity(13142):   at Soomla.Profile.SoomlaProfile.GetImageBytesFromTexture (System.String imageFileName, UnityEngine.Texture2D imageTexture) [0x00046] in E:\Users\Unity3D\03_Original\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Profile\SoomlaProfile.cs:1240 
+03-17 17:07:49.078: I/Unity(13142):   at Soomla.Profile.SoomlaProfile.UploadImage (Soomla.Profile.Provider provider, System.String message, System.String fileName, UnityEngine.Texture2D tex2D, System.String payload, Soomla.Reward reward) [0x00000] in E:\Users\Unity3D\03_Original\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Plugins\Soomla\Profile\SoomlaProfile.cs:580 
+03-17 17:07:49.078: I/Unity(13142):   at SoomlaOperation.SoomlaProfileUpdateStoryDialog (Soomla.Profile.Provider TargetProvider) [0x00000] in E:\Users\Unity3D\03_Original\03_TestSoomlaProfile_GrowPlugin_GP8.4lib_Facebook\Assets\Scripts\SoomlaOperation.cs:239 
+03-17 17:07:49.078: I/Unity(13142):   at SoomlaOperation.OnGoogleUpdate () [0x00017] in E:\Users\Unity3D\03_Original\03_TestSoomlaProfile_Grow
+03-17 17:07:49.086: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.086: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.086: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.086: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.086: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.086: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.086: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.086: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.178: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.178: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.178: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.193: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.247: D/dalvikvm(13142): threadid=15: exiting
+03-17 17:07:49.247: D/dalvikvm(13142): threadid=15: bye!
+03-17 17:07:49.408: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.408: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.409: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.410: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.410: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.503: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.504: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.507: I/SurfaceTextureClient(13142): [STC::queueBuffer] (this:0x5caf2a90) fps:23.72, dur:1011.63, max:214.94, min:2.30
+03-17 17:07:49.594: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.614: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.680: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.692: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.739: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.740: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.797: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.797: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.798: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.822: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.887: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.887: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.888: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.918: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.918: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:49.939: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.006: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.006: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.006: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.020: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.041: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.068: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.103: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.103: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.122: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.151: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.162: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.205: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.205: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.232: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.232: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.260: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.293: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.293: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.364: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.364: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.365: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.385: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.399: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.479: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.480: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.480: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.481: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.500: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.509: I/SurfaceTextureClient(13142): [STC::queueBuffer] (this:0x5caf2a90) fps:35.93, dur:1001.92, max:80.67, min:1.81
+03-17 17:07:50.541: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.541: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.598: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.598: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.599: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.618: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.667: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.690: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.709: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.778: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.778: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.778: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.778: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.847: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.847: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.847: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.887: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.887: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.891: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.934: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.935: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.982: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:50.982: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:51.040: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:51.040: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:51.041: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:51.060: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:51.132: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:51.132: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:51.133: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:51.133: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:51.184: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:51.184: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:51.194: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:51.221: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:51.252: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:51.260: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:51.320: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:51.321: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:51.322: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:51.338: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:51.367: D/Unity(13142): Unknown event structure (0)
+03-17 17:07:51.391: I/Unity(13142): onPause
+03-17 17:07:51.489: D/AudioTrack(13142): audiotrack 0x613b8cf8 stop done
+03-17 17:07:51.489: D/AudioTrack(13142): ~audioTrack 0x613b8cf8
+03-17 17:07:51.499: D/dalvikvm(13142): threadid=13: bye!
+03-17 17:07:51.499: D/dalvikvm(13142): threadid=12: exiting
+03-17 17:07:51.499: D/dalvikvm(13142): threadid=12: bye!
+03-17 17:07:51.502: D/Unity(13142): Sensor :        Accelerometer ( 1) ; 0.003906 / 0.00s ; BMA050 3-axis Accelerometer / Bosch 
+03-17 17:07:51.520: I/Unity(13142): windowFocusChanged: false
+03-17 17:07:51.521: V/InputMethodManager(13142): focusOut: android.view.SurfaceView{412e3168 VFE..... .F....I. 0,0-720,1280} mServedView=android.view.SurfaceView{412e3168 VFE..... .F....I. 0,0-720,1280} winFocus=false
+03-17 17:07:51.618: D/dalvikvm(13142): threadid=12: interp stack at 0x5f88c000
+03-17 17:07:51.731: I/SurfaceView(13142): Changes: creating=false format=false size=false visible=true left=false top=false mUpdateWindowNeeded=false mReportDrawNeeded=false redrawNeeded=false forceSizeChanged=false mVisible=true mRequestedVisible=false
+03-17 17:07:51.731: I/SurfaceView(13142): Cur surface: Surface(name=null, identity=2585)
+03-17 17:07:51.740: I/SurfaceView(13142): New surface: Surface(name=null, identity=-1), vis=false, frame=Rect(0, 0 - 720, 1280)
+03-17 17:07:51.740: I/SurfaceView(13142): visibleChanged -- surfaceDestroyed
+03-17 17:07:51.740: D/Unity(13142): [EGL] Attaching window :0x0
+03-17 17:07:51.741: V/SurfaceView(13142): Layout: x=0 y=0 w=720 h=1280, frame=Rect(0, 0 - 720, 1280)
+03-17 17:07:52.026: D/SOOMLA com.soomla.Foreground(13142): became background
+03-17 17:07:52.877: D/dalvikvm(13142): threadid=11: exiting
+03-17 17:07:52.877: D/dalvikvm(13142): threadid=11: bye!
+03-17 17:07:52.878: I/Unity(13142): onDestroy
