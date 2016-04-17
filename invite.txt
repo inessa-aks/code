@@ -1,0 +1,8 @@
+NullReferenceException: Object reference not set to an instance of an object
+at Soomla.Profile.FBSocialProvider+<Invite>c__AnonStorey45.<>m__A3 (IAppRequestResult result) [0x00000] in <filename unknown>:0 
+at Facebook.Unity.CallbackManager.TryCallCallback[IAppRequestResult] (System.Object callback, IResult result) [0x00000] in <filename unknown>:0 
+at Facebook.Unity.CallbackManager.CallCallback (System.Object callback, IResult result) [0x00000] in <filename unknown>:0 
+at Facebook.Unity.CallbackManager.OnFacebookResponse (IInternalResult result) [0x00000] in <filename unknown>:0 
+at Facebook.Unity.Mobile.MobileFacebook.OnAppRequestsComplete (System.String message) [0x00000] in <filename unknown>:0 
+at Facebook.Unity.FacebookGameObject.OnAppRequestsComplete (System.String message) [0x00000] in <filename unknown>:0 
+(Filename:  Line: -1)
