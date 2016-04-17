@@ -1,0 +1,6 @@
+	public void OnFacebookInvite()
+	{
+		targetProvider = Provider.FACEBOOK;
+		// Provider, Invitation message, Dialog title, Payload, Reward
+		SoomlaProfile.Invite(targetProvider, "Let's play together!", "My game", "FacebookInvite", null);
+	}
