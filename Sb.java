@@ -1,4 +1,4 @@
-package com.powerenergetics.GooglePlayGamesCloud;
+package com.mycompany.mygame;
 
 import java.util.Random;
 
