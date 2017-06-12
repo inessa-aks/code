@@ -34,7 +34,6 @@ public class GamePlayBillingManager : MonoBehaviour
         pluginVerifyClass.CallStatic("Vs");
 		stringSignatureVerificationState = pluginVerifyClass.CallStatic<string>("svs", new object[12] { BILLING_KEY_1, BILLING_KEY_2, BILLING_KEY_3, 
 			BILLING_KEY_4, BILLING_KEY_5, BILLING_KEY_6, BILLING_KEY_7, BILLING_KEY_8, BILLING_KEY_9, BILLING_KEY_10, BILLING_KEY_11, BILLING_KEY_12 });
-		//_textSignatureVerificatioResult.text = "Verify = " + stringSignatureVerificationState;
     }
     public static void purchase(string SKU)
     {
