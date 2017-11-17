@@ -1,0 +1,74 @@
+11-17 18:47:43.857: I/ActivityThread(22363): Pub com.facebook.app.FacebookContentProvider1919673875024437: com.facebook.FacebookContentProvider
+11-17 18:48:20.279: D/AndroidNative(22363): GcmBroadcastReceiver onReceive
+11-17 18:48:20.282: D/AndroidNative(22363): GcmBroadcastReceiver onReceive com.google.android.c2dm.intent.RECEIVE
+11-17 18:48:20.293: D/dalvikvm(22363): create interp thread : stack size=32KB
+11-17 18:48:20.294: D/dalvikvm(22363): create new thread
+11-17 18:48:20.294: D/dalvikvm(22363): new thread created
+11-17 18:48:20.294: D/dalvikvm(22363): update thread list
+11-17 18:48:20.297: D/dalvikvm(22363): threadid=11: interp stack at 0x5db52000
+11-17 18:48:20.297: D/dalvikvm(22363): threadid=11: created from interp
+11-17 18:48:20.297: D/dalvikvm(22363): start new thread
+11-17 18:48:20.297: D/dalvikvm(22363): threadid=11: notify debugger
+11-17 18:48:20.297: D/dalvikvm(22363): threadid=11 (IntentService[GcmIntentService]): calling run()
+11-17 18:48:20.306: D/AndroidNative(22363): GcmIntentService onHandleIntent com.google.android.c2dm.intent.RECEIVE
+11-17 18:48:20.306: I/AndroidNative(22363): Push Notification Sended: 
+11-17 18:48:20.308: D/dalvikvm(22363): create interp thread : stack size=32KB
+11-17 18:48:20.309: D/dalvikvm(22363): create new thread
+11-17 18:48:20.309: D/dalvikvm(22363): new thread created
+11-17 18:48:20.309: D/dalvikvm(22363): update thread list
+11-17 18:48:20.316: D/dalvikvm(22363): threadid=12: interp stack at 0x5dc5c000
+11-17 18:48:20.316: D/dalvikvm(22363): threadid=12: created from interp
+11-17 18:48:20.316: D/dalvikvm(22363): start new thread
+11-17 18:48:20.316: D/dalvikvm(22363): threadid=12: notify debugger
+11-17 18:48:20.317: D/dalvikvm(22363): threadid=12 (SharedPreferencesImpl-load): calling run()
+11-17 18:48:20.329: D/dalvikvm(22363): threadid=12: exiting
+11-17 18:48:20.330: D/dalvikvm(22363): threadid=12: bye!
+11-17 18:48:20.358: D/dalvikvm(22363): create interp thread : stack size=32KB
+11-17 18:48:20.358: D/dalvikvm(22363): create new thread
+11-17 18:48:20.358: D/dalvikvm(22363): new thread created
+11-17 18:48:20.358: D/dalvikvm(22363): update thread list
+11-17 18:48:20.359: D/dalvikvm(22363): threadid=12: interp stack at 0x5dc5c000
+11-17 18:48:20.359: D/dalvikvm(22363): threadid=12: created from interp
+11-17 18:48:20.359: D/dalvikvm(22363): start new thread
+11-17 18:48:20.359: D/dalvikvm(22363): threadid=12: notify debugger
+11-17 18:48:20.359: D/dalvikvm(22363): threadid=12 (SharedPreferencesImpl-load): calling run()
+11-17 18:48:20.381: I/AndroidNative(22363): Push Notification Saved
+11-17 18:48:20.381: D/dalvikvm(22363): create interp thread : stack size=32KB
+11-17 18:48:20.381: D/dalvikvm(22363): create new thread
+11-17 18:48:20.382: D/dalvikvm(22363): new thread created
+11-17 18:48:20.382: D/dalvikvm(22363): update thread list
+11-17 18:48:20.385: D/dalvikvm(22363): threadid=12: exiting
+11-17 18:48:20.386: D/dalvikvm(22363): threadid=12: bye!
+11-17 18:48:20.386: D/dalvikvm(22363): threadid=12: interp stack at 0x5dd76000
+11-17 18:48:20.386: D/dalvikvm(22363): threadid=12: created from interp
+11-17 18:48:20.386: D/dalvikvm(22363): start new thread
+11-17 18:48:20.386: D/dalvikvm(22363): threadid=12: notify debugger
+11-17 18:48:20.386: D/dalvikvm(22363): threadid=12 (SharedPreferencesImpl-load): calling run()
+11-17 18:48:20.387: D/AndroidNative(22363): Push Notification Show when App Is Foreground true
+11-17 18:48:20.387: D/AndroidNative(22363): GCM Push Notification data received null
+11-17 18:48:20.387: D/dalvikvm(22363): threadid=11: exiting
+11-17 18:48:20.388: W/dalvikvm(22363): threadid=11: thread exiting with uncaught exception (group=0x4112a9a8)
+11-17 18:48:20.389: E/AndroidRuntime(22363): FATAL EXCEPTION: IntentService[GcmIntentService]
+11-17 18:48:20.389: E/AndroidRuntime(22363): java.lang.NullPointerException: println needs a message
+11-17 18:48:20.389: E/AndroidRuntime(22363): 	at android.util.Log.println_native(Native Method)
+11-17 18:48:20.389: E/AndroidRuntime(22363): 	at android.util.Log.d(Log.java:138)
+11-17 18:48:20.389: E/AndroidRuntime(22363): 	at com.androidnative.gcm.GcmIntentService.sendNotification(GcmIntentService.java:295)
+11-17 18:48:20.389: E/AndroidRuntime(22363): 	at com.androidnative.gcm.GcmIntentService.onHandleIntent(GcmIntentService.java:97)
+11-17 18:48:20.389: E/AndroidRuntime(22363): 	at android.app.IntentService$ServiceHandler.handleMessage(IntentService.java:65)
+11-17 18:48:20.389: E/AndroidRuntime(22363): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+11-17 18:48:20.389: E/AndroidRuntime(22363): 	at android.os.Looper.loop(Looper.java:153)
+11-17 18:48:20.389: E/AndroidRuntime(22363): 	at android.os.HandlerThread.run(HandlerThread.java:60)
+11-17 18:48:20.390: D/dalvikvm(22363): threadid=12: exiting
+11-17 18:48:20.390: D/dalvikvm(22363): threadid=12: bye!
+11-17 18:48:20.394: D/dalvikvm(22363): create interp thread : stack size=32KB
+11-17 18:48:20.395: D/dalvikvm(22363): create new thread
+11-17 18:48:20.395: D/dalvikvm(22363): new thread created
+11-17 18:48:20.395: D/dalvikvm(22363): update thread list
+11-17 18:48:20.405: D/dalvikvm(22363): threadid=12: interp stack at 0x5dc5c000
+11-17 18:48:20.405: D/dalvikvm(22363): threadid=12: created from interp
+11-17 18:48:20.405: D/dalvikvm(22363): start new thread
+11-17 18:48:20.405: D/dalvikvm(22363): threadid=12: notify debugger
+11-17 18:48:20.405: D/dalvikvm(22363): threadid=12 (IntentService[GcmIntentService]): calling run()
+11-17 18:48:20.461: D/skia(22363): Flag is not 10
+11-17 18:48:20.837: D/dalvikvm(22363): threadid=12: exiting
+11-17 18:48:20.838: D/dalvikvm(22363): threadid=12: bye!
